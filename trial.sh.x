@@ -9,4 +9,4 @@ IP=`ifconfig venet0:0| awk 'NR==2 {print $2}'| awk -F: '{print $2}'`
 useradd -e `date -d "$mumetndase days" +"%Y-%m-%d"` -s /bin/false -M $Login
 echo -e "$Pass\n$Pass\n"|passwd $Login &> /dev/null
 echo -e "Login: $Login Password: $Pass\nIP: $IP Port: 90, 143, 443"
-echo -e "\e[1;33;44mARI-F.COM\e[0m"
+echo -e "\e[1;33;44mIlhamGanteng\e[0m"
