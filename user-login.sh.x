@@ -19,7 +19,6 @@ do
 		echo "$PID - $USER - $IP";
 	fi
 done
-echo "---";
 
 data=( `ps aux | grep "\[priv\]" | sort -k 72 | awk '{print $2}'`);
 
