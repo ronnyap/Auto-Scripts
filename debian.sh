@@ -136,8 +136,8 @@ if [ -x /usr/bin/mrtg ] && [ -r /etc/mrtg.cfg ]; then mkdir -p /var/log/mrtg ; e
 cd
 
 # setting port ssh
-#sed -i '/Port 22/a Port  143' /etc/ssh/sshd_config
-#sed -i '/Port 22/a Port  90' /etc/ssh/sshd_config
+sed -i '/Port 22/a Port  143' /etc/ssh/sshd_config
+sed -i '/Port 22/a Port  90' /etc/ssh/sshd_config
 sed -i 's/Port 22/Port  22/g' /etc/ssh/sshd_config
 sed -i 's/#Banner/Banner/g' /etc/ssh/sshd_config
 service ssh restart
@@ -203,22 +203,22 @@ wget -O ps_mem.py "https://raw.github.com/pixelb/ps_mem/master/ps_mem.py"
 wget -O dropmon "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/dropmon.sh"
 wget -O userlogin.sh "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/userlogin.sh"
 wget -O userexpired.sh "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/userexpired.sh"
-#wget -O userlimit.sh "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/userlimit.sh"
+wget -O userlimit.sh "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/userlimit.sh"
 wget -O expire.sh "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/expire.sh"
-#wget -O autokill.sh "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/autokill.sh"
+wget -O autokill.sh "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/autokill.sh"
 wget -O /etc/issue.net "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/banner"
 echo "@reboot root /root/userexpired.sh" > /etc/cron.d/userexpired
-#echo "@reboot root /root/userlimit.sh" > /etc/cron.d/userlimit
+echo "@reboot root /root/userlimit.sh" > /etc/cron.d/userlimit
 echo "* * * * * service dropbear restart" > /etc/cron.d/dropbear
-#echo "@reboot root /root/autokill.sh" > /etc/cron.d/autokill
-#sed -i '$ i\screen -AmdS check /root/autokill.sh' /etc/rc.local
+echo "@reboot root /root/autokill.sh" > /etc/cron.d/autokill
+sed -i '$ i\screen -AmdS check /root/autokill.sh' /etc/rc.local
 chmod +x bench-network.sh
 chmod +x speedtest_cli.py
 chmod +x ps_mem.py
 chmod +x userlogin.sh
 chmod +x userexpired.sh
-#chmod +x userlimit.sh
-#chmod +x autokill.sh
+chmod +x userlimit.sh
+chmod +x autokill.sh
 chmod +x dropmon
 chmod +x expire.sh
 
@@ -289,4 +289,4 @@ echo "SILAHKAN REBOOT VPS ANDA"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "==============================================="  | tee -a log-install.txt
 cd
-rm -f /root/debian7.sh
+rm -f /root/debian.sh
