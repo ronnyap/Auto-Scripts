@@ -249,12 +249,12 @@ echo "===============================================" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Service"  | tee -a log-install.txt
 echo "-------"  | tee -a log-install.txt
-echo "OpenVPN  : TCP 1194 (client config : http://$MYIP:81/client.tar)"  | tee -a log-install.txt
-echo "OpenSSH  : 22, 80, 143"  | tee -a log-install.txt
+echo "OpenVPN  : TCP 1194 (client config : http://$MYIP:85/client.tar)"  | tee -a log-install.txt
+echo "OpenSSH  : 22, 90, 143"  | tee -a log-install.txt
 echo "Dropbear : 443, 110, 109"  | tee -a log-install.txt
 echo "Squid3   : 8080 (limit to IP SSH)"  | tee -a log-install.txt
 echo "badvpn   : badvpn-udpgw port 7300"  | tee -a log-install.txt
-echo "nginx    : 81"  | tee -a log-install.txt
+echo "nginx    : 85"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Tools"  | tee -a log-install.txt
 echo "-----"  | tee -a log-install.txt
@@ -271,27 +271,25 @@ echo "------"  | tee -a log-install.txt
 echo "screenfetch"  | tee -a log-install.txt
 echo "./ps_mem.py"  | tee -a log-install.txt
 echo "./speedtest_cli.py --share"  | tee -a log-install.txt
-echo "./bench-network.sh"  | tee -a log-install.txt
-echo "./userlogin.sh" | tee -a log-install.txt
+echo "benchnetwork"  | tee -a log-install.txt
+echo "user-login" | tee -a log-install.txt
 echo "./userexpired.sh" | tee -a log-install.txt
-#echo "./userlimit.sh 2 [ini utk melimit max 2 login]" | tee -a log-install.txt
+echo "userlimit 2 [ini utk melimit max 2 login]" | tee -a log-install.txt
 echo "sh dropmon [port] contoh: sh dropmon 443" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Fitur lain"  | tee -a log-install.txt
 echo "----------"  | tee -a log-install.txt
 echo "Webmin   : https://$MYIP:10000/"  | tee -a log-install.txt
-echo "vnstat   : http://$MYIP:81/vnstat/"  | tee -a log-install.txt
-echo "MRTG     : http://$MYIP:81/mrtg/"  | tee -a log-install.txt
+echo "vnstat   : http://$MYIP:85/vnstat/"  | tee -a log-install.txt
+echo "MRTG     : http://$MYIP:85/mrtg/"  | tee -a log-install.txt
 echo "Timezone : Asia/Jakarta"  | tee -a log-install.txt
 echo "Fail2Ban : [on]"  | tee -a log-install.txt
 echo "IPv6     : [off]"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Script Modified by IlhamGanteng"  | tee -a log-install.txt
-echo "Thanks to Original Creator Kang Arie & Mikodemos"
 echo ""  | tee -a log-install.txt
-echo "VPS AUTO REBOOT TIAP 6 JAM"  | tee -a log-install.txt
 echo "SILAHKAN REBOOT VPS ANDA"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "==============================================="  | tee -a log-install.txt
 cd
-rm -f /root/debian7.sh
+rm -f /root/debian.sh
