@@ -8,7 +8,7 @@ wget -O /usr/local/bin/speedtest "https://raw.githubusercontent.com/IlhamArrouf/
 wget -O /usr/local/bin/user-expired "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-expired.sh.x"
 wget -O /usr/local/bin/user-limit "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-limit.sh.x"
 wget -O /usr/local/bin/expire "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/expire.sh.x"
-wget /usr/local/bin/bench-network "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/bench-network.sh.x" -O - -o /dev/null|bash
+wget -O /usr/local/bin/bench-network "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/bench-network.sh.x" 
 wget -O /usr/local/bin/autokill "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/autokill.sh.x"
 wget -O /etc/issue.net "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/banner"
 echo "0 0 * * * root /usr/local/bin/user-expired" > /etc/cron.d/user-expired
