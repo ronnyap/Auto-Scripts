@@ -195,36 +195,6 @@ rm /root/webmin_1.710_all.deb
 service webmin restart
 service vnstat restart
 
-# download script
-cd
-wget -O /usr/local/bin/trial "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/trial.sh.x"
-wget -O /usr/local/bin/all-user "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/all-user.sh.x"
-wget -O /usr/local/bin/user-add "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-add.sh.x"
-wget -O /usr/local/bin/user-login "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-login.sh.x"
-wget -O /usr/local/bin/user-expired "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-expired.sh.x"
-wget -O /usr/local/bin/expire "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/expire.sh.x"
-wget -O /usr/local/bin/user-limit "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-limit.sh.x"
-wget -O /usr/local/bin/autokill "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/autokill.sh.x"
-wget -O /etc/issue.net "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/banner"
-wget -O speedtest_cli.py "https://raw.github.com/sivel/speedtest-cli/master/speedtest_cli.py"
-wget -O /usr/local/bin/bench-network "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/bench-network.sh.x"
-wget -O ps_mem.py "https://raw.github.com/pixelb/ps_mem/master/ps_mem.py"
-wget -O /usr/local/bin/dropmon "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/dropmon.sh.x"
-echo "0 0 * * * root /usr/local/bin/user-expired" > /etc/cron.d/user-expired
-sed -i '$ i\screen -AmdS check /root/autokill.sh' /etc/rc.local
-chmod +x /usr/local/bin/trial
-chmod +x /usr/local/bin/all-user
-chmod +x /usr/local/bin/user-add
-chmod +x /usr/local/bin/user-login
-chmod +x /usr/local/bin/user-expired
-chmod +x /usr/local/bin/expire
-chmod +x /usr/local/bin/user-limit
-chmod +x /usr/local/bin/autokill
-chmod +x /usr/local/bin/bench-network
-chmod +x speedtest_cli.py
-chmod +x ps_mem.py
-chmod +x /usr/local/bin/dropmon
-
 # finishing
 chown -R www-data:www-data /home/vps/public_html
 service cron restart
@@ -246,50 +216,7 @@ clear
 echo ""  | tee -a log-install.txt
 echo "AUTOSCRIPT INCLUDES" | tee log-install.txt
 echo "===============================================" | tee -a log-install.txt
-echo ""  | tee -a log-install.txt
-echo "Service"  | tee -a log-install.txt
-echo "-------"  | tee -a log-install.txt
-echo "OpenVPN  : TCP 1194 (client config : http://$MYIP:85/client.tar)"  | tee -a log-install.txt
-echo "OpenSSH  : 22, 90, 143"  | tee -a log-install.txt
-echo "Dropbear : 443, 110, 109"  | tee -a log-install.txt
-echo "Squid3   : 8080 (limit to IP SSH)"  | tee -a log-install.txt
-echo "badvpn   : badvpn-udpgw port 7300"  | tee -a log-install.txt
-echo "nginx    : 85"  | tee -a log-install.txt
-echo ""  | tee -a log-install.txt
-echo "Tools"  | tee -a log-install.txt
-echo "-----"  | tee -a log-install.txt
-echo "axel"  | tee -a log-install.txt
-echo "bmon"  | tee -a log-install.txt
-echo "htop"  | tee -a log-install.txt
-echo "iftop"  | tee -a log-install.txt
-echo "mtr"  | tee -a log-install.txt
-echo "rkhunter"  | tee -a log-install.txt
-echo "nethogs: nethogs venet0"  | tee -a log-install.txt
-echo ""  | tee -a log-install.txt
-echo "Script"  | tee -a log-install.txt
-echo "------"  | tee -a log-install.txt
-echo "screenfetch"  | tee -a log-install.txt
-echo "./ps_mem.py"  | tee -a log-install.txt
-echo "./speedtest_cli.py --share"  | tee -a log-install.txt
-echo "benchnetwork"  | tee -a log-install.txt
-echo "user-login" | tee -a log-install.txt
-echo "./userexpired.sh" | tee -a log-install.txt
-echo "userlimit 2 [ini utk melimit max 2 login]" | tee -a log-install.txt
-echo "sh dropmon [port] contoh: sh dropmon 443" | tee -a log-install.txt
-echo ""  | tee -a log-install.txt
-echo "Fitur lain"  | tee -a log-install.txt
-echo "----------"  | tee -a log-install.txt
-echo "Webmin   : https://$MYIP:10000/"  | tee -a log-install.txt
-echo "vnstat   : http://$MYIP:85/vnstat/"  | tee -a log-install.txt
-echo "MRTG     : http://$MYIP:85/mrtg/"  | tee -a log-install.txt
-echo "Timezone : Asia/Jakarta"  | tee -a log-install.txt
-echo "Fail2Ban : [on]"  | tee -a log-install.txt
-echo "IPv6     : [off]"  | tee -a log-install.txt
-echo ""  | tee -a log-install.txt
-echo "Script Modified by IlhamGanteng"  | tee -a log-install.txt
-echo ""  | tee -a log-install.txt
 echo "SILAHKAN REBOOT VPS ANDA"  | tee -a log-install.txt
-echo ""  | tee -a log-install.txt
 echo "==============================================="  | tee -a log-install.txt
 cd
 rm -f /root/debian.sh
