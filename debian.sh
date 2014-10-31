@@ -60,7 +60,7 @@ service vnstat restart
 
 # install screenfetch
 cd
-wget 'https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/screenfetch'
+wget 'https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/screeftech-dev'
 mv screeftech-dev /usr/bin/screenfetch
 chmod +x /usr/bin/screenfetch
 echo "clear" >> .profile
