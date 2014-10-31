@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/bench.sh -O - -o /dev/null|bash
+wget https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/bench-network.sh -O - -o /dev/null|bash
