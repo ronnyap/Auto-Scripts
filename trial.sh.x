@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 Login="trial"
 Pass=`</dev/urandom tr -dc a-z1-3 | head -c3`
 IP=`ifconfig venet0:0| awk 'NR==2 {print $2}'| awk -F: '{print $2}'`
