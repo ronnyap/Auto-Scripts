@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/bench.sh -O - -o /dev/null|bash
