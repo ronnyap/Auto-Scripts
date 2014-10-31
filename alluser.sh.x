@@ -1,6 +1,7 @@
 #!/bin/bash
 # Modified IlhamGanteng
 
+clear
 echo "-------------------------------"
 echo "USERNAME          EXP DATE     "
 echo "-------------------------------"
