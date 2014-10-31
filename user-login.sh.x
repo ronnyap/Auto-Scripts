@@ -1,8 +1,11 @@
 #!/bin/bash
+clear
+echo "Script by IlhamGanteng"
+echo "=========================================";
  
 data=( `ps aux | grep -i dropbear | awk '{print $2}'`);
-echo "-----------------------------------------";
-echo "------------ Dropbear Log In ------------";
+echo "Memeriksa User Dropbear Yang Login";
+echo "(ID - Username - IP)";
 echo "-----------------------------------------";
  
 for PID in "${data[@]}"
@@ -15,11 +18,11 @@ if [ $NUM -eq 1 ]; then
 echo "$PID - $USER - $IP";
 fi
 done
-echo "-----------------------------------------";
  
 data=( `ps aux | grep "\[priv\]" | sort -k 72 | awk '{print $2}'`);
  
-echo "************ OpenSSH login **************";
+echo "Memeriksa User OpenSSH Yang Login";
+echo "(ID - Username - IP)";
 echo "-----------------------------------------";
 for PID in "${data[@]}"
 do
@@ -31,3 +34,4 @@ if [ $NUM -eq 1 ]; then
 echo "$PID - $USER - $IP";
 fi
 done
+echo "=========================================";
