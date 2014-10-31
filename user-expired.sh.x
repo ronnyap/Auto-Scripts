@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 echo "" > /root/infouser.txt
 echo "" > /root/expireduser.txt
 echo "" > /root/alluser.txt
