@@ -1,6 +1,7 @@
 #Download Script
 
 wget -O /usr/local/bin/ram "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/ram.sh.x"
+wget -O /usr/local/bin/user-add "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-add.sh.x"
 wget -O /usr/local/bin/trial "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/trial.sh.x"
 wget -O /usr/local/bin/alluser "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/alluser.sh.x"
 wget -O /usr/local/bin/user-login "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-login.sh.x"
@@ -14,6 +15,7 @@ wget -O /etc/issue.net "https://raw.githubusercontent.com/IlhamArrouf/IlhamGante
 echo "0 0 * * * root /usr/local/bin/user-expired" > /etc/cron.d/user-expired
 sed -i '$ i\screen -AmdS check /usr/local/bin/autokill' /etc/rc.local
 chmod +x /usr/local/bin/ram
+chmod +x /usr/local/bin/user-add
 chmod +x /usr/local/bin/trial
 chmod +x /usr/local/bin/alluser
 chmod +x /usr/local/bin/user-login
