@@ -65,6 +65,7 @@ mv screeftech-dev /usr/bin/screenfetch
 chmod +x /usr/bin/screenfetch
 echo "clear" >> .profile
 echo "screenfetch" >> .profile
+echo "date" >> .profile
 
 # install webserver
 cd
