@@ -20,8 +20,6 @@ fi
 done
  
 data=( `ps aux | grep "\[priv\]" | sort -k 72 | awk '{print $2}'`);
-echo "";
-echo ""; 
 echo "Memeriksa User OpenSSH Yang Login";
 echo "(ID - Username - IP)";
 echo "-----------------------------------------";
