@@ -2,9 +2,10 @@
 # Modified IlhamGanteng
 
 clear
-echo "-------------------------------"
+echo "Script by IlhamGanteng"
+echo "=========================================";
 echo "USERNAME          EXP DATE     "
-echo "-------------------------------"
+echo "=========================================";
 while read mumetndase
 do
         AKUN="$(echo $mumetndase | cut -d: -f1)"
