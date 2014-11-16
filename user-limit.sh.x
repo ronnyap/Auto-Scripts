@@ -1,6 +1,7 @@
 #!/bin/bash
 # Program untuk membatasi jumlah login user dropbear
 PARAM=$1
+clear
 
 echo -n > /tmp/pid2
 ps ax|grep dropbear > /tmp/pid
