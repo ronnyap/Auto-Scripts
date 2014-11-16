@@ -1,5 +1,7 @@
 #!/bin/bash
 # Script to add a user to Linux system
+clear
+
 if [ $(id -u) -eq 0 ]; then
 	read -p "Enter username : " username
 	read -s -p "Enter password : " password
@@ -9,7 +11,7 @@ if [ $(id -u) -eq 0 ]; then
 		exit 1
 	else
 		pass=$(perl -e 'print crypt($ARGV[0], "password")' $password)
-		useradd -s /bin/false -m $pass $username
+		useradd -m -p $pass $username
 		[ $? -eq 0 ] && echo "User has been added to system!" || echo "Failed to add a user!"
 	fi
 else
