@@ -10,8 +10,6 @@ wget -O /usr/local/bin/user-limit "https://raw.githubusercontent.com/IlhamArrouf
 wget -O /usr/local/bin/bench-network "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/bench-network.sh.x"
 wget -O /usr/local/bin/autokill "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/autokill.sh.x"
 wget -O /etc/issue.net "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/banner"
-echo "0 0 * * * root /usr/local/bin/user-expired" > /etc/cron.d/user-expired
-sed -i '$ i\screen -AmdS check /usr/local/bin/autokill' /etc/rc.local
 chmod +x /usr/local/bin/ram
 chmod +x /usr/local/bin/user-add
 chmod +x /usr/local/bin/trial
