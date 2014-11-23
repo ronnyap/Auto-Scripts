@@ -21,3 +21,4 @@ chmod +x /usr/local/bin/bench-network
 chmod +x /usr/local/bin/autokill
 
 clear
+rm -f /root/script.sh
