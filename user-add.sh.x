@@ -7,7 +7,7 @@ if [ $(id -u) -eq 0 ]; then
 	read -p "Expired (yyyy-mm-dd) : " expired
 	egrep "^$username" /etc/passwd >/dev/null
 	if [ $? -eq 0 ]; then
-		echo "$username exists!"
+		echo  "Username $username sudah ada di VPS anda!"
 		exit 1
 	else
 		pass=$(perl -e 'print crypt($ARGV[0], "password")' $password)
@@ -16,7 +16,7 @@ if [ $(id -u) -eq 0 ]; then
 		rm -r /home/$username
 		clear
 		echo "Script by IlhamGanteng"
-		echo -e "=========================================\nHost     : $IP\nPort     : 443,109,110,22,143,80\nUser     : $username\nPassword : $password\nExpired  : $expired\n=========================================\n"
+		echo -e "=========================================\n\nHost     : $IP\nPort     : 443,109,110,22,143,80\nUser     : $username\nPassword : $password\nExpired  : $expired\n\n=========================================\n"
 	fi
 else
 	echo "Hanya root yang bisa menambah user ke system"
