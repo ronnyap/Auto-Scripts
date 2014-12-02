@@ -16,7 +16,7 @@ if [ $(id -u) -eq 0 ]; then
 		rm -r /home/$username
 		clear
 		echo "Script by IlhamGanteng"
-		echo -e "=========================================\nHost     : $IP\nPort     : 443,109,110,22,143,80\nUser     : $username\nPassword : $password\nExpired  : $expired\n=========================================\n\n"
+		echo -e "=========================================\nHost     : $IP\nPort     : 443,109,110,22,143,80\nUser     : $username\nPassword : $password\nExpired  : $expired\n=========================================\n"
 	fi
 else
 	echo "Hanya root yang bisa menambah user ke system"
