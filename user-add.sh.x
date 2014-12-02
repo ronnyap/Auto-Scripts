@@ -1,5 +1,4 @@
 #!/bin/bash
-# Script to add a user to Linux system
 clear
 
 if [ $(id -u) -eq 0 ]; then
