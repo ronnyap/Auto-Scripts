@@ -10,11 +10,14 @@ if [ $(id -u) -eq 0 ]; then
 		exit 1
 	else
 		pass=$(perl -e 'print crypt($ARGV[0], "password")' $password)
-		useradd -m -p $pass $username
-		[ $? -eq 0 ] && echo "User has been added to system!" || echo "Failed to add a user!"
+		IP=`ifconfig venet0:0| awk 'NR==2 {print $2}'| awk -F: '{print $2}'`
+		useradd -d /home/$username -m -g users -p $pass -s /bin/false $username
+		rm -r /home/$username
+		clear
+		echo "Script by IlhamGanteng"
+		echo -e "=========================================\nHost     : $IP\nPort     : 443,109,110,22,143,80\nUser     : $username\nPassword : $password\n=========================================\n\n"
 	fi
 else
-	echo "Only root may add a user to the system"
+	echo "Hanya root yang bisa menambah user ke system"
 	exit 2
 fi
-
