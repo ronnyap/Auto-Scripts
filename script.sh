@@ -2,7 +2,6 @@
 
 wget -O /usr/local/bin/ram "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/ram.sh.x"
 wget -O /usr/local/bin/user-add "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-add.sh.x"
-wget -O /usr/local/bin/user-delete "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-delete.sh.x"
 wget -O /usr/local/bin/trial "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/trial.sh.x"
 wget -O /usr/local/bin/alluser "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/alluser.sh.x"
 wget -O /usr/local/bin/user-login "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-login.sh.x"
@@ -12,7 +11,6 @@ wget -O /usr/local/bin/bench-network "https://raw.githubusercontent.com/IlhamArr
 wget -O /etc/issue.net "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/banner"
 chmod +x /usr/local/bin/ram
 chmod +x /usr/local/bin/user-add
-chmod +x /usr/local/bin/user-delete
 chmod +x /usr/local/bin/trial
 chmod +x /usr/local/bin/alluser
 chmod +x /usr/local/bin/user-login
