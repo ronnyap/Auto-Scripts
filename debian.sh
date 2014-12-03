@@ -214,10 +214,7 @@ echo "unset HISTFILE" >> /etc/profile
 
 # info
 clear
-echo ""  | tee -a log-install.txt
-echo "AUTOSCRIPT INCLUDES" | tee log-install.txt
-echo "===============================================" | tee -a log-install.txt
-echo "SILAHKAN REBOOT VPS ANDA"  | tee -a log-install.txt
-echo "==============================================="  | tee -a log-install.txt
-cd
+echo "=========================================";
+echo "Silakan Reboot VPS anda";
+echo "=========================================";
 rm -f /root/debian.sh
