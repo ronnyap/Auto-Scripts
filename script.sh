@@ -20,4 +20,3 @@ chmod +x /usr/local/bin/bench-network
 
 clear
 rm -f /root/script.sh
-history -c
