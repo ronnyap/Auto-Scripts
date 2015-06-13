@@ -8,7 +8,6 @@ wget -O /usr/local/bin/user-login "https://raw.githubusercontent.com/IlhamArrouf
 wget -O /usr/local/bin/speedtest "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/speedtest.sh.x"
 wget -O /usr/local/bin/user-limit "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/user-limit.sh.x"
 wget -O /usr/local/bin/bench-network "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/bench-network.sh.x"
-wget -O /etc/issue.net "https://raw.githubusercontent.com/IlhamArrouf/IlhamGanteng/master/banner"
 chmod +x /usr/local/bin/ram
 chmod +x /usr/local/bin/user-add
 chmod +x /usr/local/bin/trial
