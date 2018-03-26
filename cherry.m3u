@@ -508,3 +508,174 @@ http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/n35bh0f3/index.m3u8
 
 #EXTINF:0 group-title="Test",F24
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/bevbfdse/index.m3u8
+
+
+
+#EXTINF:0 group-title="MTVHongKong",TVB翡翠台
+http://acm.gg/inews.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",TVB无线财经台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+ 
+#EXTINF:0 group-title="MTVHongKong",天映經典台
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/4gtv-4gtv112-video=3000000-audio_AACL_und_60000_600=60000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",寰宇新聞台
+http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn14/litv-pc/litv-longturn14-video=2936000-audio_AACL_und_65600_293=65600.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",寰宇新聞二
+http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/litv-longturn15-video=2936000-audio_AACL_und_65600_293=65600.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",龍華电影台
+http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn03/litv-pc/litv-longturn03-video=2936000-audio_AACL_und_64000_34=64000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",龍華偶像台
+http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn12/litv-pc/litv-longturn12-video=2936000-audio_AACL_und_64000_34=64000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",龍華戲劇台
+http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn18/litv-pc/litv-longturn18-video=2936000-audio_AACL_und_65600_293=65600.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",龍華日韓台
+http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn11/litv-pc/litv-longturn11-video=2936000-audio_AACL_und_64000_34=64000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",龍華卡通台
+http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn01/litv-pc/litv-longturn01-video=2936000-audio_AACL_und_64000_34=64000.m3u8
+ 
+#EXTINF:0 group-title="MTVHongKong",Focus风采戏剧
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv100/litv-tv/4gtv-4gtv100-video=800000-audio_AACL_und_67000_600=67000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",Focus精彩戏剧
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv102/litv-tv/4gtv-4gtv102-video=800000-audio_AACL_und_68000_600=68000.m3u8
+   
+#EXTINF:0 group-title="MTVHongKong",Focus欢乐综合
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv104/litv-tv/4gtv-4gtv104-video=800000-audio_AACL_und_71000_600=71000.m3u8
+  
+#EXTINF:0 group-title="MTVHongKong",Focus焦点电影
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-tv/4gtv-4gtv053-video=800000-audio_AACL_und_75000_600=75000.m3u8
+      ,
+#EXTINF:0 group-title="MTVHongKong",民视综艺HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv004/litv-pc/4gtv-4gtv004-video=3000000-audio_AACL_und_69000_600=69000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",民视第一台
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv003/litv-pc/4gtv-4gtv003-video=3000000-audio_AACL_und_49000_600=49000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",民视台湾台HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv001/litv-pc/4gtv-4gtv001-video=3000000-audio_AACL_und_64000_600=64000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",民视HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv002/litv-pc/4gtv-4gtv002-video=3000000-audio_AACL_und_129000_600=129000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",台视HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-tv/4gtv-4gtv066-video=3000000-audio_AACL_und_135000_600=135000.m3u8
+ 
+#EXTINF:0 group-title="MTVHongKong",中视HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv040/litv-pc/4gtv-4gtv040-video=3000000-audio_AACL_und_137000_600=137000.m3u8
+    
+#EXTINF:0 group-title="MTVHongKong",公视2HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/4gtv-4gtv107-video=3000000-audio_AACL_und_70000_600=70000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",台视新闻HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv051/litv-tv/4gtv-4gtv051-video=3000000-audio_AACL_und_66000_600=66000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",中视新闻HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv074/litv-pc/4gtv-4gtv074-video=3000000-audio_AACL_und_65000_600=65000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",中天新闻HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv009/litv-pc/4gtv-4gtv009-video=3000000-audio_AACL_und_59000_600=59000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",非凡新闻HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/4gtv-4gtv010-video=3000000-audio_AACL_und_53000_600=53000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",TVBS新闻台HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/4gtv-4gtv072-video=3000000-audio_AACL_und_62000_600=62000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",TVBS精采台HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv067/litv-pc/4gtv-4gtv067-video=3000000-audio_AACL_und_130000_600=130000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",TVBS
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv073/litv-pc/4gtv-4gtv073-video=3000000-audio_AACL_und_57000_600=57000.m3u8
+    
+#EXTINF:0 group-title="MTVHongKong",华视新闻资讯
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv052/litv-pc/4gtv-4gtv052-video=3000000-audio_AACL_und_60000_600=60000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",东森财经新闻
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv019/litv-tv/4gtv-4gtv019-video=3000000-audio_AACL_und_65600_545=65600.m3u8
+ 
+#EXTINF:0 group-title="MTVHongKong",采昌影劇台
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv049/litv-pc/4gtv-4gtv049-video=3000000-audio_AACL_und_65000_600=65000.m3u8
+  
+#EXTINF:0 group-title="MTVHongKong",影迷数位HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/4gtv-4gtv011-video=3000000-audio_AACL_und_65000_600=65000.m3u8
+,
+#EXTINF:0 group-title="MTVHongKong",靖洋戏剧台HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv045/litv-pc/4gtv-4gtv045-video=3000000-audio_AACL_und_66000_600=66000.m3u8
+  
+#EXTINF:0 group-title="MTVHongKong",靖天电影台HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv061/litv-pc/4gtv-4gtv061-video=3000000-audio_AACL_und_68000_600=68000.m3u8
+  
+#EXTINF:0 group-title="MTVHongKong",靖天育乐台HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv062/litv-tv/4gtv-4gtv062-video=3000000-audio_AACL_und_64000_600=64000.m3u8
+     
+#EXTINF:0 group-title="MTVHongKong",靖天日本台HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv047/litv-pc/4gtv-4gtv047-video=3000000-audio_AACL_und_65000_600=65000.m3u8
+  
+#EXTINF:0 group-title="MTVHongKong",靖天卡通台HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv044/litv-tv/4gtv-4gtv044-video=3000000-audio_AACL_und_65000_600=65000.m3u8
+   
+#EXTINF:0 group-title="MTVHongKong",爱尔达娱乐HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv070/litv-pc/4gtv-4gtv070-video=3000000-audio_AACL_und_67000_600=67000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",亲子台
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv111/litv-pc/4gtv-4gtv111-video=3000000-audio_AACL_und_64000_600=64000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",东森亚洲卫视
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv020/litv-tv/4gtv-4gtv020-video=3000000-audio_AACL_und_65600_545=65600.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",东森亚洲幼幼
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/4gtv-4gtv021--video=3000000-audio_AACL_und_59000_600=59000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",韩国娱乐
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv016/litv-tv/4gtv-4gtv016-video=3000000-audio_AACL_und_60000_600=60000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",CNEX视纳纪实HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv013/litv-pc/4gtv-4gtv013--video=3000000-audio_AACL_und_61000_600=61000.m3u8
+   
+#EXTINF:0 group-title="MTVHongKong",凤梨直击台
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv035/litv-pc/4gtv-4gtv035-video=3000000-audio_AACL_und_8000_600=8000.m3u8
+    
+#EXTINF:0 group-title="MTVHongKong",香蕉直击台
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv038/litv-pc/4gtv-4gtv038-video=3000000-audio_AACL_und_8000_600=8000.m3u8
+   
+#EXTINF:0 group-title="MTVHongKong",新唐人亚太台
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv050/litv-pc/4gtv-4gtv050-video=3000000-audio_AACL_und_68000_600=68000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",猪哥会社
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv006/litv-pc/4gtv-4gtv006-video=3000000-audio_AACL_und_65000_600=65000.m3u8
+ 
+#EXTINF:0 group-title="MTVHongKong",空中英语教室
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv012/litv-pc/4gtv-4gtv012-video=3000000-audio_AACL_und_66000_600=66000.m3u8
+     
+#EXTINF:0 group-title="MTVHongKong",CI罪案追查HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv027/litv-pc/4gtv-4gtv027-video=3000000-audio_AACL_und_62000_600=62000.m3u8
+     
+#EXTINF:0 group-title="MTVHongKong",COMEDY爆笑HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/4gtv-4gtv024-video=3000000-audio_AACL_und_65000_600=65000.m3u8
+    
+#EXTINF:0 group-title="MTVHongKong",MTV HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv025/litv-pc/4gtv-4gtv025-video=3000000-audio_AACL_und_59000_600=59000.m3u8
+  
+#EXTINF:0 group-title="MTVHongKong",History歷史頻道
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv026/litv-pc/4gtv-4gtv026-video=3000000-audio_AACL_und_70000_600=70000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",FYI HD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv031/litv-pc/4gtv-4gtv031-video=3000000-audio_AACL_und_65000_600=65000.m3u8
+   
+#EXTINF:0 group-title="MTVHongKong",ORLANDOHD
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/4gtv-4gtv034-video=3000000-audio_AACL_und_63000_600=63000.m3u8
+ 
+#EXTINF:0 group-title="MTVHongKong",爱I万物论
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/4gtv-4gtv107-video=3000000-audio_AACL_und_67000_600=67000.m3u8
+
+#EXTINF:0 group-title="MTVHongKong",VTV4
+http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv108/litv-pc/4gtv-4gtv108-video=3000000-audio_AACL_und_59000_600=59000.m3u8
+             
