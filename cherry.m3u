@@ -956,9 +956,12 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 
 
 
-#EXTINF:0 group-title="27March",NUART,http://78.111.176.132:8080/
-#EXTINF:0 group-title="27March",凤凰中文卫视HD,http://117.169.120.142:8080/ysten-businessmobile/live/fhchinese/astv.m3u8
-#EXTINF:0 group-title="27March",凤凰咨讯卫视HD,http://117.169.120.142:8080/ysten-businessmobile/live/fhzixun/astv.m3u8
+#EXTINF:0 group-title="27March"
+NUART,http://78.111.176.132:8080/
+#EXTINF:0 group-title="27March"
+凤凰中文卫视HD,http://117.169.120.142:8080/ysten-businessmobile/live/fhchinese/astv.m3u8
+#EXTINF:0 group-title="27March"
+凤凰咨讯卫视HD,http://117.169.120.142:8080/ysten-businessmobile/live/fhzixun/astv.m3u8
 #EXTINF:0 group-title="27March",C CHINA,rtmp://edge1.everyon.tv/etv1/phd1016
 #EXTINF:0 group-title="27March",C CHINA2,rtmp://edge1.everyon.tv/etv1/pld1016
 #EXTINF:0 group-title="27March",planetahd,http://84.43.207.130/planetahd/.m3u8
