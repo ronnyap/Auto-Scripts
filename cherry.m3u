@@ -963,7 +963,7 @@ rtmp://edge1.everyon.tv/etv1/phd1016
 rtmp://edge1.everyon.tv/etv1/pld1016
 #EXTINF:0 group-title="27March",planetahd
 http://84.43.207.130/planetahd/.m3u8
-#EXTINF:0 group-title="27March",澳视体育,http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/chunklist_w1608596921.m3u8
+#EXTINF:0 group-title="27March",澳视体育",http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/chunklist_w1608596921.m3u8
 #EXTINF:0 group-title="27March",澳视澳门,http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
 #EXTINF:0 group-title="27March",澳视咨讯,http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
 #EXTINF:0 group-title="27March",澳视高清,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
