@@ -957,27 +957,154 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 
 
 
+#EXTINF:0 group-title="27March",NUART
+http://78.111.176.132:8080/
+#EXTINF:0 group-title="27March",凤凰中文卫视
+HDhttp://117.169.120.142:8080/ysten-businessmobile/live/fhchinese/astv.m3u8
+#EXTINF:0 group-title="27March",凤凰咨讯卫视HD
+http://117.169.120.142:8080/ysten-businessmobile/live/fhzixun/astv.m3u8
 #EXTINF:0 group-title="27March",C CHINA
 rtmp://edge1.everyon.tv/etv1/phd1016
 #EXTINF:0 group-title="27March",C CHINA2
 rtmp://edge1.everyon.tv/etv1/pld1016
 #EXTINF:0 group-title="27March",planetahd
 http://84.43.207.130/planetahd/.m3u8
-#EXTINF:0 group-title="27March",澳视体育",   http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/chunklist_w1608596921.m3u8
-#EXTINF:0 group-title="27March",澳视澳门"  http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
-#EXTINF:0 group-title="27March",澳视咨讯,   http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
-#EXTINF:0 group-title="27March",澳视高清,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
-#EXTINF:0 group-title="27March",澳视澳门台,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
-#EXTINF:0 group-title="27March",澳广视卫星,http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
-#EXTINF:0 group-title="27March",澳广视咨讯,http://live4.tdm.com.mo/ch5/definst//info_ch5.live/playlist.m3u8
-#EXTINF:0 group-title="27March",澳视葡萄牙语,http://live4.tdm.com.mo:80/ch2/definst//ch2.live/playlist.m3u8
-#EXTINF:0 group-title="27March",澳广视澳门,http://live4.tdm.com.mo:80/ch1/definst//ch1.live/playlist.m3u8
-#EXTINF:0 group-title="27March",澳亚卫视,http://live.mastvnet.com/n1rtlHG/500/live.m3u8
-#EXTINF:0 group-title="27March",澳门卫视,http://live.mastvnet.com/iVx460D/500/live.m3u8
-#EXTINF:0 group-title="27March",澳门莲花卫视,http://183.207.249.10/PLTV/3/224/3221226921/index.m3u8
-#EXTINF:0 group-title="27March",CITY,http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
-#EXTINF:0 group-title="27March",亚太第一卫视,http://103.198.18.1:8082/TV6001.m3u8
-#EXTINF:0 group-title="27March",ICNTV宫廷剧场,http://103.198.18.1:8082/TV4002.m3u8
-#EXTINF:0 group-title="27March",ICNTV精品记录,http://103.198.18.1:8082/TV4003.m3u8
-#EXTINF:0 group-title="27March",ICNTV王牌综艺,http://103.198.18.1:8082/TV4005.m3u8
-#EXTINF:0 group-title="27March",ICNTV精品大剧,http://103.198.18.1:8082/TV4007.m3u8
+#EXTINF:0 group-title="27March",澳视体育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/chunklist_w1608596921.m3u8
+#EXTINF:0 group-title="27March",澳视澳门
+http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
+#EXTINF:0 group-title="27March",澳视咨讯
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
+#EXTINF:0 group-title="27March",澳视高清
+http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
+#EXTINF:0 group-title="27March",澳视澳门台
+http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳广视卫星
+http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳广视咨讯
+http://live4.tdm.com.mo/ch5/definst//info_ch5.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳视葡萄牙语
+http://live4.tdm.com.mo:80/ch2/definst//ch2.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳广视澳门
+http://live4.tdm.com.mo:80/ch1/definst//ch1.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳亚卫视
+http://live.mastvnet.com/n1rtlHG/500/live.m3u8
+#EXTINF:0 group-title="27March",澳门卫视
+http://live.mastvnet.com/iVx460D/500/live.m3u8
+#EXTINF:0 group-title="27March",澳门莲花卫视
+http://183.207.249.10/PLTV/3/224/3221226921/index.m3u8
+#EXTINF:0 group-title="27March",CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:0 group-title="27March",亚太第一卫视
+http://103.198.18.1:8082/TV6001.m3u8
+#EXTINF:0 group-title="27March",ICNTV宫廷剧场
+http://103.198.18.1:8082/TV4002.m3u8
+#EXTINF:0 group-title="27March",ICNTV精品记录
+http://103.198.18.1:8082/TV4003.m3u8
+#EXTINF:0 group-title="27March",ICNTV王牌综艺
+http://103.198.18.1:8082/TV4005.m3u8
+#EXTINF:0 group-title="27March",ICNTV精品大剧
+http://103.198.18.1:8082/TV4007.m3u8
+#EXTINF:0 group-title="27March",ICNTV军事记录
+http://103.198.18.1:8082/TV4006.m3u8
+#EXTINF:0 group-title="27March",ICNTV社会与法
+http://103.198.18.1:8082/TV4010.m3u8
+#EXTINF:0 group-title="27March",ICNTV熊猫频道
+http://103.198.18.1:8082/TV4011.m3u8
+#EXTINF:0 group-title="27March",ICNTV音乐地带
+http://103.198.18.1:8082/TV4012.m3u8
+#EXTINF:0 group-title="27March",ICNTV财经生活
+http://103.198.18.1:8082/TV4013.m3u8
+#EXTINF:0 group-title="27March",ICNTV中国功夫
+http://103.198.18.1:8082/TV4017.m3u8
+#EXTINF:0 group-title="27March",ICNTV中国in
+http://103.198.18.1:8082/TV4018.m3u8
+#EXTINF:0 group-title="27March",ICNTV戏曲名段
+http://103.198.18.1:8082/TV4019.m3u8
+#EXTINF:0 group-title="27March",ICNTV新闻咨讯
+http://103.198.18.1:8082/TV4020.m3u8
+#EXTINF:0 group-title="27March",RTV澳大利亚天和新闻
+http://www.rtvcdn.com.au:8082/TV0002.ts
+#EXTINF:0 group-title="27March",RTV澳大利亚天和直播
+http://www.rtvcdn.com.au:8082/TV0003.ts
+#EXTINF:0 group-title="27March",好消息综合
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:0 group-title="27March",好消息真理
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:0 group-title="27March",好消息真情部落格
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:0 group-title="27March",好消息经典音乐河
+http://live.streamingfast.net/osmflivech4.m3u8
+#EXTINF:0 group-title="27March",好消息音乐河
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:0 group-title="27March",好消息6
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:0 group-title="27March",好消息华语讲员
+http://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:0 group-title="27March",好消息空中圣经学院
+http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:0 group-title="27March",好消息道在人间
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:0 group-title="27March",好消息国际讲员
+http://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:0 group-title="27March",好消息特会精选
+http://live.streamingfast.net/osmflivech11.m3u8
+#EXTINF:0 group-title="27March",好消息门徒生活
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:0 group-title="27March",好消息少儿
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:0 group-title="27March",好消息美食旅游
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:0 group-title="27March",CGNTV中文台
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_1065872803.m3u8
+#EXTINF:0 group-title="27March",CGNTV日语台
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w1372175136.m3u8
+#EXTINF:0 group-title="27March",CGNTV韩文台
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1253393479.m3u8
+#EXTINF:0 group-title="27March",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:0 group-title="27March",香港卫视h
+ttp://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+#EXTINF:0 group-title="27March",翡翠普通话台
+http://dlhls.cdn.zhanqi.tv/zqlive/113044_4l4ji.m3u8
+#EXTINF:0 group-title="27March",马来西亚1台
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+#EXTINF:0 group-title="27March",马来西亚2台
+http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
+#EXTINF:0 group-title="27March",马来西亚3台
+http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+#EXTINF:0 group-title="27March",马来西亚4台
+http://rtm-live.glueapi.io/smil:rtmch004.smil/playlist.m3u8
+#EXTINF:0 group-title="27March",马来西亚5台
+http://rtm-live.glueapi.io/smil:rtmch005.smil/playlist.m3u8
+#EXTINF:0 group-title="27March",马来西亚6台
+http://rtm-live.glueapi.io/smil:rtmch006.smil/playlist.m3u8
+#EXTINF:0 group-title="27March",马来西亚7台
+http://rtm-live.glueapi.io/smil:rtmch007.smil/playlist.m3u8
+#EXTINF:0 group-title="27March",TVB娱乐新闻台
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:0 group-title="27March",马来西亚9台
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:0 group-title="27March",马来西亚 ASTRO WANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+#EXTINF:0 group-title="27March",越南 BPS2
+http://118.69.197.145/hls/bptv2.m3u8
+#EXTINF:0 group-title="27March",越南 BPS1
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:0 group-title="27March",韩国 KBS2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:0 group-title="27March",韩国 音乐
+http://123.108.164.71/etv2/phd4/playlist.m3u8
+#EXTINF:0 group-title="27March",韩国 CTS
+http://111.118.21.79/etv1/phd28/playlist.m3u8
+#EXTINF:0 group-title="27March",韩国 OBS
+http://111.118.21.79/etv1/phd3/playlist.m3u8
+#EXTINF:0 group-title="27March",韩国 GOODTVhttp://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+#EXTINF:0 group-title="27March",韩国 KCTV-N
+http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
+#EXTINF:0 group-title="27March",韩国 KCTV
+http://122.202.129.136:1935/live/ch5/hasbahca.m3u8
+#EXTINF:0 group-title="27March",韩国 TV- CHOSUN
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:0 group-title="27March",美女直播
+http://61.218.59.193/live/ch101/playlist.m3u8
