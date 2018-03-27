@@ -952,3 +952,31 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
              
 #EXTINF:0 group-title="HKS",HKC203
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
+
+
+
+
+#EXTINF:0 group-title="27March",NUART,http://78.111.176.132:8080/
+#EXTINF:0 group-title="27March",凤凰中文卫视HD,http://117.169.120.142:8080/ysten-businessmobile/live/fhchinese/astv.m3u8
+#EXTINF:0 group-title="27March",凤凰咨讯卫视HD,http://117.169.120.142:8080/ysten-businessmobile/live/fhzixun/astv.m3u8
+#EXTINF:0 group-title="27March",C CHINA,rtmp://edge1.everyon.tv/etv1/phd1016
+#EXTINF:0 group-title="27March",C CHINA2,rtmp://edge1.everyon.tv/etv1/pld1016
+#EXTINF:0 group-title="27March",planetahd,http://84.43.207.130/planetahd/.m3u8
+#EXTINF:0 group-title="27March",澳视体育,http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/chunklist_w1608596921.m3u8
+#EXTINF:0 group-title="27March",澳视澳门,http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
+#EXTINF:0 group-title="27March",澳视咨讯,http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
+#EXTINF:0 group-title="27March",澳视高清,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
+#EXTINF:0 group-title="27March",澳视澳门台,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳广视卫星,http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳广视咨讯,http://live4.tdm.com.mo/ch5/definst//info_ch5.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳视葡萄牙语,http://live4.tdm.com.mo:80/ch2/definst//ch2.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳广视澳门,http://live4.tdm.com.mo:80/ch1/definst//ch1.live/playlist.m3u8
+#EXTINF:0 group-title="27March",澳亚卫视,http://live.mastvnet.com/n1rtlHG/500/live.m3u8
+#EXTINF:0 group-title="27March",澳门卫视,http://live.mastvnet.com/iVx460D/500/live.m3u8
+#EXTINF:0 group-title="27March",澳门莲花卫视,http://183.207.249.10/PLTV/3/224/3221226921/index.m3u8
+#EXTINF:0 group-title="27March",CITY,http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:0 group-title="27March",亚太第一卫视,http://103.198.18.1:8082/TV6001.m3u8
+#EXTINF:0 group-title="27March",ICNTV宫廷剧场,http://103.198.18.1:8082/TV4002.m3u8
+#EXTINF:0 group-title="27March",ICNTV精品记录,http://103.198.18.1:8082/TV4003.m3u8
+#EXTINF:0 group-title="27March",ICNTV王牌综艺,http://103.198.18.1:8082/TV4005.m3u8
+#EXTINF:0 group-title="27March",ICNTV精品大剧,http://103.198.18.1:8082/TV4007.m3u8
