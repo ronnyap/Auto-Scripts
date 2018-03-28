@@ -2034,3 +2034,885 @@ http://zzcs1.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_c
 http://mtv.sun0769.com/dgrtv1/mp4:tv1/index.m3u8
 #EXTINF:0 group-title="27March",东莞公共
 http://mtv.sun0769.com/dgrtv1/mp4:tv2/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="UK",BBC 1 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1826.ts
+#EXTINF:0 group-title="UK",BBC TWO V
+http://142.44.212.105:8000/live/andrew1/andrew1/4645.ts
+#EXTINF:0 group-title="UK",BBC 2
+http://142.44.212.105:8000/live/andrew1/andrew1/1824.ts
+#EXTINF:0 group-title="UK",BBC 2 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1825.ts
+#EXTINF:0 group-title="UK",CHANNEL 4
+http://142.44.212.105:8000/live/andrew1/andrew1/1815.ts
+#EXTINF:0 group-title="UK",CHANNEL 4 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1814.ts
+#EXTINF:0 group-title="UK",CHANNEL 5
+http://142.44.212.105:8000/live/andrew1/andrew1/1811.ts
+#EXTINF:0 group-title="UK",CHANNEL 5 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1813.ts
+#EXTINF:0 group-title="UK",ITV V
+http://142.44.212.105:8000/live/andrew1/andrew1/4636.ts
+#EXTINF:0 group-title="UK",ITV 1 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1821.ts
+#EXTINF:0 group-title="UK", ITV2
+http://142.44.212.105:8000/live/andrew1/andrew1/8603.ts
+#EXTINF:0 group-title="UK",ITV 2
+http://142.44.212.105:8000/live/andrew1/andrew1/1819.ts
+#EXTINF:0 group-title="UK", ITV3
+http://142.44.212.105:8000/live/andrew1/andrew1/8602.ts
+#EXTINF:0 group-title="UK",ITV 3 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1818.ts
+#EXTINF:0 group-title="UK",ITV4
+http://142.44.212.105:8000/live/andrew1/andrew1/8601.ts
+#EXTINF:0 group-title="UK",ITV 4 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1817.ts
+#EXTINF:0 group-title="UK",ITVBE
+http://142.44.212.105:8000/live/andrew1/andrew1/1816.ts
+#EXTINF:0 group-title="UK",SKY 1
+http://142.44.212.105:8000/live/andrew1/andrew1/2753.ts
+#EXTINF:0 group-title="UK",SKY 1 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1758.ts
+#EXTINF:0 group-title="UK",SKY 2
+http://142.44.212.105:8000/live/andrew1/andrew1/2754.ts
+#EXTINF:0 group-title="UK",SKY TWO
+http://142.44.212.105:8000/live/andrew1/andrew1/1756.ts
+#EXTINF:0 group-title="UK",SKY ATLANTIC
+http://142.44.212.105:8000/live/andrew1/andrew1/545.ts
+#EXTINF:0 group-title="UK",SKY ATLANTIC SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4263.ts
+#EXTINF:0 group-title="UK",5 STAR
+http://142.44.212.105:8000/live/andrew1/andrew1/1810.ts
+#EXTINF:0 group-title="UK",3E
+http://142.44.212.105:8000/live/andrew1/andrew1/1751.ts
+#EXTINF:0 group-title="UK",4 SEVEN HD
+http://142.44.212.105:8000/live/andrew1/andrew1/3335.ts
+#EXTINF:0 group-title="UK",ALIBI
+http://142.44.212.105:8000/live/andrew1/andrew1/1750.ts
+#EXTINF:0 group-title="UK",UNIVERSAL 1
+http://142.44.212.105:8000/live/andrew1/andrew1/4272.ts
+#EXTINF:0 group-title="UK",UNIVERSAL
+http://142.44.212.105:8000/live/andrew1/andrew1/4273.ts
+#EXTINF:0 group-title="UK",WATCH
+http://142.44.212.105:8000/live/andrew1/andrew1/1733.ts
+#EXTINF:0 group-title="UK",COMEDY CENTRAL
+http://142.44.212.105:8000/live/andrew1/andrew1/1740.ts
+#EXTINF:0 group-title="UK",DAVE
+http://142.44.212.105:8000/live/andrew1/andrew1/1741.ts
+#EXTINF:0 group-title="UK",DAVE 1
+http://142.44.212.105:8000/live/andrew1/andrew1/7594.ts
+#EXTINF:0 group-title="UK",ITV
+http://142.44.212.105:8000/live/andrew1/andrew1/1820.ts
+#EXTINF:0 group-title="UK",MORE 4
+http://142.44.212.105:8000/live/andrew1/andrew1/1735.ts
+#EXTINF:0 group-title="UK",REALLY
+http://142.44.212.105:8000/live/andrew1/andrew1/1742.ts
+#EXTINF:0 group-title="UK",SPIKE
+http://142.44.212.105:8000/live/andrew1/andrew1/696.ts
+#EXTINF:0 group-title="UK",E
+http://142.44.212.105:8000/live/andrew1/andrew1/1748.ts
+#EXTINF:0 group-title="UK",E!
+http://142.44.212.105:8000/live/andrew1/andrew1/2768.ts
+#EXTINF:0 group-title="UK",E4
+http://142.44.212.105:8000/live/andrew1/andrew1/1747.ts
+#EXTINF:0 group-title="UK",E4 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1746.ts
+#EXTINF:0 group-title="UK",CBS ACTION
+http://142.44.212.105:8000/live/andrew1/andrew1/1702.ts
+#EXTINF:0 group-title="UK",CBS DRAMA
+http://142.44.212.105:8000/live/andrew1/andrew1/1701.ts
+#EXTINF:0 group-title="UK",SYFY
+http://142.44.212.105:8000/live/andrew1/andrew1/1738.ts
+#EXTINF:0 group-title="UK",FOX
+http://142.44.212.105:8000/live/andrew1/andrew1/683.ts
+#EXTINF:0 group-title="UK",GOLD
+http://142.44.212.105:8000/live/andrew1/andrew1/1737.ts
+#EXTINF:0 group-title="UK",IRISH TV
+http://142.44.212.105:8000/live/andrew1/andrew1/685.ts
+#EXTINF:0 group-title="UK",BBC FOUR
+http://142.44.212.105:8000/live/andrew1/andrew1/1822.ts
+#EXTINF:0 group-title="UK",BBC THREE
+http://142.44.212.105:8000/live/andrew1/andrew1/1823.ts
+#EXTINF:0 group-title="UK",JUST ONE TV
+http://142.44.212.105:8000/live/andrew1/andrew1/5579.ts
+#EXTINF:0 group-title="UK",LIFETIME
+http://142.44.212.105:8000/live/andrew1/andrew1/7593.ts
+#EXTINF:0 group-title="UK",PICK TV
+http://142.44.212.105:8000/live/andrew1/andrew1/689.ts
+#EXTINF:0 group-title="UK",SONY TV UK
+http://142.44.212.105:8000/live/andrew1/andrew1/3289.ts
+#EXTINF:0 group-title="UK",RTE ONE
+http://142.44.212.105:8000/live/andrew1/andrew1/692.ts
+#EXTINF:0 group-title="UK",RTE TWO
+http://142.44.212.105:8000/live/andrew1/andrew1/693.ts
+#EXTINF:0 group-title="UK",SKY ART!!
+http://142.44.212.105:8000/live/andrew1/andrew1/3348.ts
+#EXTINF:0 group-title="UK",SKY ARTS
+http://142.44.212.105:8000/live/andrew1/andrew1/694.ts
+#EXTINF:0 group-title="UK",S4C
+http://142.44.212.105:8000/live/andrew1/andrew1/1723.ts
+#EXTINF:0 group-title="UK",SKY LIVING
+http://142.44.212.105:8000/live/andrew1/andrew1/2912.ts
+#EXTINF:0 group-title="UK",TG 4
+http://142.44.212.105:8000/live/andrew1/andrew1/3263.ts
+#EXTINF:0 group-title="UK",TLC
+http://142.44.212.105:8000/live/andrew1/andrew1/1732.ts
+#EXTINF:0 group-title="UK",QUEST
+http://142.44.212.105:8000/live/andrew1/andrew1/9066.ts
+#EXTINF:0 group-title="UK",COMEDY CENTRAL HD L
+http://142.44.212.105:8000/live/andrew1/andrew1/10431.ts
+#EXTINF:0 group-title="UK", SKY LIVING HD L
+http://142.44.212.105:8000/live/andrew1/andrew1/10438.ts
+
+
+#EXTINF:0 group-title="UK DOCUMENTARY",ANIMAL  PLANET
+http://142.44.212.105:8000/live/andrew1/andrew1/9063.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",ANIMAL PLANET
+http://142.44.212.105:8000/live/andrew1/andrew1/677.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",CBS REALITY
+http://142.44.212.105:8000/live/andrew1/andrew1/1700.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",CRIME INVESTIGATION
+http://142.44.212.105:8000/live/andrew1/andrew1/4259.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY
+http://142.44.212.105:8000/live/andrew1/andrew1/553.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY  TURBO
+http://142.44.212.105:8000/live/andrew1/andrew1/682.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY CHANNEL
+http://142.44.212.105:8000/live/andrew1/andrew1/698.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY HISTORY
+http://142.44.212.105:8000/live/andrew1/andrew1/681.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY INVESTIGATION
+http://142.44.212.105:8000/live/andrew1/andrew1/684.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY SCIENCE
+http://142.44.212.105:8000/live/andrew1/andrew1/680.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY SCIENCE 1
+http://142.44.212.105:8000/live/andrew1/andrew1/700.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY SHED
+http://142.44.212.105:8000/live/andrew1/andrew1/9074.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",YESTERDAY
+http://142.44.212.105:8000/live/andrew1/andrew1/1736.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",EDEN
+http://142.44.212.105:8000/live/andrew1/andrew1/1799.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",FOOD NETWORK
+http://142.44.212.105:8000/live/andrew1/andrew1/1722.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",GOOD FOOD
+http://142.44.212.105:8000/live/andrew1/andrew1/1721.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",H2
+http://142.44.212.105:8000/live/andrew1/andrew1/1803.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",HISTORY
+http://142.44.212.105:8000/live/andrew1/andrew1/7277.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",HISTORY 1
+http://142.44.212.105:8000/live/andrew1/andrew1/7278.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",HOME
+http://142.44.212.105:8000/live/andrew1/andrew1/1730.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",HOME&HEALTH
+http://142.44.212.105:8000/live/andrew1/andrew1/9065.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",HORSE & COUNTRY
+http://142.44.212.105:8000/live/andrew1/andrew1/9800.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",HORSE COUNTRY
+http://142.44.212.105:8000/live/andrew1/andrew1/1695.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",ID
+http://142.44.212.105:8000/live/andrew1/andrew1/3339.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",NATIONAL  GEO
+http://142.44.212.105:8000/live/andrew1/andrew1/552.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",NAT GEO WILD
+http://142.44.212.105:8000/live/andrew1/andrew1/1806.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",NATIONAL GEOGRAPHIC
+http://142.44.212.105:8000/live/andrew1/andrew1/1801.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",RUSSIA DOCUMENTARY
+http://142.44.212.105:8000/live/andrew1/andrew1/1805.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",TRAVEL CHANNEL
+http://142.44.212.105:8000/live/andrew1/andrew1/1804.ts
+#EXTINF:0 group-title="UK DOCUMENTARY",UK CRIME AND INV
+http://142.44.212.105:8000/live/andrew1/andrew1/4663.ts
+
+
+
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS NEWS HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/562.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORT NEWS HQ HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8685.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS MAIN EVENT HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/2752.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS MAIN EVENT SD
+http://142.44.212.105:8000/live/andrew1/andrew1/557.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS CRICKET HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/2751.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS CRICKET HD
+http://142.44.212.105:8000/live/andrew1/andrew1/558.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS FOOTBALL HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/9076.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORT FOOTBALL V
+http://142.44.212.105:8000/live/andrew1/andrew1/4649.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS PREMIER  LEAGUE  HD
+http://142.44.212.105:8000/live/andrew1/andrew1/9113.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS  ACTION
+http://142.44.212.105:8000/live/andrew1/andrew1/4651.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS ARENA V
+http://142.44.212.105:8000/live/andrew1/andrew1/9077.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE HD
+http://142.44.212.105:8000/live/andrew1/andrew1/560.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS GOLF HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/2758.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS GOLF  HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4650.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS F1 HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/2760.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORT F1HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4648.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS MIX HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/555.ts
+#EXTINF:0 group-title="SKYNET",SPORTS 1
+http://142.44.212.105:8000/live/andrew1/andrew1/8942.ts
+#EXTINF:0 group-title="SKYNET",SPORTS 2
+http://142.44.212.105:8000/live/andrew1/andrew1/8941.ts
+#EXTINF:0 group-title="SKYNET",SPORTS HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8943.ts
+#EXTINF:0 group-title="SKYNET"SPORTSNET WORLD HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8947.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS ACTIONS HD
+http://142.44.212.105:8000/live/andrew1/andrew1/9732.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS FOOTBALL
+http://142.44.212.105:8000/live/andrew1/andrew1/9730.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS GOLF HD
+http://142.44.212.105:8000/live/andrew1/andrew1/9729.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE SD
+http://142.44.212.105:8000/live/andrew1/andrew1/9727.ts
+#EXTINF:0 group-title="UK SPORT",SKY SPORT  MIX
+http://142.44.212.105:8000/live/andrew1/andrew1/4647.ts
+#EXTINF:0 group-title="UK SPORT",BT SPORT 1 HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/2749.ts
+#EXTINF:0 group-title="UK SPORT",BT SPORT 1 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/710.ts
+#EXTINF:0 group-title="UK SPORT",BT SPORTS 2 HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/2748.ts
+#EXTINF:0 group-title="UK SPORT",BT SPORT 2 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/709.ts
+#EXTINF:0 group-title="UK SPORT",BT SPORTS 3 HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/2747.ts
+#EXTINF:0 group-title="UK SPORT",BT SPORT 3
+http://142.44.212.105:8000/live/andrew1/andrew1/4669.ts
+#EXTINF:0 group-title="UK SPORT",BT SPORT ESPN
+http://142.44.212.105:8000/live/andrew1/andrew1/3596.ts
+#EXTINF:0 group-title="UK SPORT",BT SPORT  ESPN
+http://142.44.212.105:8000/live/andrew1/andrew1/1698.ts
+#EXTINF:0 group-title="UK SPORT",EUROSPORTS 1 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/549.ts
+#EXTINF:0 group-title="UK SPORT",EUROSPORT 2 HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/544.ts
+#EXTINF:0 group-title="UK SPORT",EIR SPORTS 1
+http://142.44.212.105:8000/live/andrew1/andrew1/707.ts
+#EXTINF:0 group-title="UK SPORT",EIR SPORTS 2
+http://142.44.212.105:8000/live/andrew1/andrew1/706.ts
+#EXTINF:0 group-title="UK SPORT",EIR  SPORTS 2
+http://142.44.212.105:8000/live/andrew1/andrew1/2743.ts
+#EXTINF:0 group-title="UK SPORT",CHELSEA TV
+http://142.44.212.105:8000/live/andrew1/andrew1/705.ts
+#EXTINF:0 group-title="UK SPORT",LIVERPOOL FC
+http://142.44.212.105:8000/live/andrew1/andrew1/686.ts
+#EXTINF:0 group-title="UK SPORT",LIVERPOOL FC TV
+http://142.44.212.105:8000/live/andrew1/andrew1/2741.ts
+#EXTINF:0 group-title="UK SPORT",MAN UNITED TV
+http://142.44.212.105:8000/live/andrew1/andrew1/687.ts
+#EXTINF:0 group-title="UK SPORT",BOXNATION
+http://142.44.212.105:8000/live/andrew1/andrew1/679.ts
+#EXTINF:0 group-title="UK SPORT",BOXNATION L
+http://142.44.212.105:8000/live/andrew1/andrew1/8605.ts
+#EXTINF:0 group-title="UK SPORT",AT THE RACES
+http://142.44.212.105:8000/live/andrew1/andrew1/678.ts
+#EXTINF:0 group-title="UK SPORT",ITV  BOX OFFICE PPV LIVE DURING AVENTS 2
+http://142.44.212.105:8000/live/andrew1/andrew1/9069.ts
+#EXTINF:-1,UK- SKY SPORT BOX OFFICE  PPV LIVE EVENTS
+http://142.44.212.105:8000/live/andrew1/andrew1/5021.ts
+#EXTINF:0 group-title="UK SPORT",MOTORS TV
+http://142.44.212.105:8000/live/andrew1/andrew1/1696.ts
+#EXTINF:0 group-title="UK SPORT",MOTOR SPORT TV
+http://142.44.212.105:8000/live/andrew1/andrew1/3628.ts
+#EXTINF:0 group-title="UK SPORT",PREMIER SPORT
+http://142.44.212.105:8000/live/andrew1/andrew1/690.ts
+#EXTINF:0 group-title="UK SPORT",SETANTA SPORTS
+http://142.44.212.105:8000/live/andrew1/andrew1/1697.ts
+#EXTINF:0 group-title="UK SPORT",RACING
+http://142.44.212.105:8000/live/andrew1/andrew1/691.ts
+#EXTINF:0 group-title="UK SPORT",WWE NETWORK
+http://142.44.212.105:8000/live/andrew1/andrew1/2762.ts
+
+
+#EXTINF:0 group-title="UK MOVIES", SKY PREMIERE PLUS
+http://142.44.212.105:8000/live/andrew1/andrew1/2526.ts
+#EXTINF:0 group-title="UK MOVIES",SKY PREMIERE  HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4656.ts
+#EXTINF:0 group-title="UK MOVIES",SKY ACTION HD
+http://142.44.212.105:8000/live/andrew1/andrew1/542.ts
+#EXTINF:0 group-title="UK MOVIES",SKY ACTION SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4260.ts
+#EXTINF:0 group-title="UK MOVIES",SKY ACTION & ADVENTURE
+http://142.44.212.105:8000/live/andrew1/andrew1/4665.ts
+#EXTINF:0 group-title="UK MOVIES",SKY COMEDY SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4261.ts
+#EXTINF:0 group-title="UK MOVIES",SKY DRAMA
+http://142.44.212.105:8000/live/andrew1/andrew1/715.ts
+#EXTINF:0 group-title="UK MOVIES",SKY DRAMA ROMANCE SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4270.ts
+#EXTINF:0 group-title="UK MOVIES",SKY FAMILY SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4266.ts
+#EXTINF:0 group-title="UK MOVIES",SKY DISNEY  HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4662.ts
+#EXTINF:0 group-title="UK MOVIES",SKY SELECT  ►
+http://142.44.212.105:8000/live/andrew1/andrew1/4654.ts
+#EXTINF:0 group-title="UK MOVIES",SKY  THRILLER  HD
+http://142.44.212.105:8000/live/andrew1/andrew1/546.ts
+#EXTINF:0 group-title="UK MOVIES",SKY CRIME THRILLER SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4268.ts
+#EXTINF:0 group-title="UK MOVIES",SKY HITS
+http://142.44.212.105:8000/live/andrew1/andrew1/714.ts
+#EXTINF:0 group-title="UK MOVIES",SKY HITS HD►
+http://142.44.212.105:8000/live/andrew1/andrew1/4658.ts
+#EXTINF:0 group-title="UK MOVIES",SKY SCI & FI HORROR HD V
+http://142.44.212.105:8000/live/andrew1/andrew1/4655.ts
+#EXTINF:0 group-title="UK MOVIES",SKY SCI FI HORROR SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4264.ts
+#EXTINF:0 group-title="UK MOVIES",SKY SELECT HD
+http://142.44.212.105:8000/live/andrew1/andrew1/554.ts
+#EXTINF:0 group-title="UK MOVIES",SKY GREATS SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4269.ts
+#EXTINF:0 group-title="UK MOVIES",SKY SELECT
+http://142.44.212.105:8000/live/andrew1/andrew1/550.ts
+#EXTINF:0 group-title="UK MOVIES",SKY SHOWCASE
+http://142.44.212.105:8000/live/andrew1/andrew1/1713.ts
+#EXTINF:0 group-title="UK MOVIES",FILM 4
+http://142.44.212.105:8000/live/andrew1/andrew1/1712.ts
+#EXTINF:0 group-title="UK MOVIES",MOVIES 4 MENS
+http://142.44.212.105:8000/live/andrew1/andrew1/3343.ts
+#EXTINF:0 group-title="UK MOVIES",SONY MOVIES
+http://142.44.212.105:8000/live/andrew1/andrew1/1709.ts
+#EXTINF:0 group-title="UK MOVIES",SONY  MOVIES 1
+http://142.44.212.105:8000/live/andrew1/andrew1/1708.ts
+#EXTINF:0 group-title="UK MOVIES",TCM
+http://142.44.212.105:8000/live/andrew1/andrew1/704.ts
+#EXTINF:0 group-title="UK MOVIES",TCM   HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1710.ts
+#EXTINF:0 group-title="UK MOVIES",TCM HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1711.ts
+#EXTINF:0 group-title="UK MOVIES",TRUE DRAMA
+http://142.44.212.105:8000/live/andrew1/andrew1/1706.ts
+#EXTINF:0 group-title="UK MOVIES",TRUE MOVIES 1
+http://142.44.212.105:8000/live/andrew1/andrew1/1705.ts
+#EXTINF:0 group-title="UK MOVIES",TRUE MOVIES 2
+http://142.44.212.105:8000/live/andrew1/andrew1/1704.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 1
+http://142.44.212.105:8000/live/andrew1/andrew1/5402.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 2
+http://142.44.212.105:8000/live/andrew1/andrew1/5401.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 4
+http://142.44.212.105:8000/live/andrew1/andrew1/5399.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 1 UK *
+http://142.44.212.105:8000/live/andrew1/andrew1/13885.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 2 UK *
+http://142.44.212.105:8000/live/andrew1/andrew1/13884.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 3 UK *
+http://142.44.212.105:8000/live/andrew1/andrew1/13883.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 4 UK *
+http://142.44.212.105:8000/live/andrew1/andrew1/13882.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 7 UK *
+http://142.44.212.105:8000/live/andrew1/andrew1/13879.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 9 UK *
+http://142.44.212.105:8000/live/andrew1/andrew1/13877.ts
+#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 01
+http://142.44.212.105:8000/live/andrew1/andrew1/18583.ts
+#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 02
+http://142.44.212.105:8000/live/andrew1/andrew1/18588.ts
+#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 03
+http://142.44.212.105:8000/live/andrew1/andrew1/18587.ts
+#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 04
+http://142.44.212.105:8000/live/andrew1/andrew1/18586.ts
+#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 05
+http://142.44.212.105:8000/live/andrew1/andrew1/18585.ts
+#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 06
+http://142.44.212.105:8000/live/andrew1/andrew1/18584.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 8 UK *
+http://142.44.212.105:8000/live/andrew1/andrew1/13878.ts
+#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 3
+http://142.44.212.105:8000/live/andrew1/andrew1/5400.ts
+#EXTINF:0 group-title="UK MOVIES",FOX MOVIES
+http://142.44.212.105:8000/live/andrew1/andrew1/5566.ts
+
+#EXTINF:0 group-title="UK KIDS",BABY TV
+http://142.44.212.105:8000/live/andrew1/andrew1/1772.ts
+#EXTINF:0 group-title="UK KIDS",BOOMERANG
+http://142.44.212.105:8000/live/andrew1/andrew1/1764.ts
+#EXTINF:0 group-title="UK KIDS",BOOMERANG 1
+http://142.44.212.105:8000/live/andrew1/andrew1/675.ts
+#EXTINF:0 group-title="UK KIDS",CARTOON NETWORK
+http://142.44.212.105:8000/live/andrew1/andrew1/540.ts
+#EXTINF:0 group-title="UK KIDS",CBEEBIES
+http://142.44.212.105:8000/live/andrew1/andrew1/1761.ts
+#EXTINF:0 group-title="UK KIDS",CBEEBIES L
+http://142.44.212.105:8000/live/andrew1/andrew1/18153.ts
+#EXTINF:0 group-title="UK KIDS",CBBC BBC 4
+http://142.44.212.105:8000/live/andrew1/andrew1/4280.ts
+#EXTINF:0 group-title="UK KIDS",DISNEY CHANNEL
+http://142.44.212.105:8000/live/andrew1/andrew1/1835.ts
+#EXTINF:0 group-title="UK KIDS",DISNEY CHANNEL 2
+http://142.44.212.105:8000/live/andrew1/andrew1/538.ts
+#EXTINF:0 group-title="UK KIDS",DISNEY XD
+http://142.44.212.105:8000/live/andrew1/andrew1/2303.ts
+#EXTINF:0 group-title="UK KIDS",DISNEY  XD
+http://142.44.212.105:8000/live/andrew1/andrew1/25141.ts
+#EXTINF:0 group-title="UK KIDS",Disney XD L
+http://142.44.212.105:8000/live/andrew1/andrew1/25202.ts
+#EXTINF:0 group-title="UK KIDS",DISNEY JUNIOR
+http://142.44.212.105:8000/live/andrew1/andrew1/539.ts
+#EXTINF:0 group-title="UK KIDS", TINY POP
+http://142.44.212.105:8000/live/andrew1/andrew1/697.ts
+#EXTINF:0 group-title="UK KIDS",NICKTOONS
+http://142.44.212.105:8000/live/andrew1/andrew1/1767.ts
+#EXTINF:0 group-title="UK KIDS",NICKELODEON
+http://142.44.212.105:8000/live/andrew1/andrew1/1834.ts
+#EXTINF:0 group-title="UK KIDS",NICK JR  TOO
+http://142.44.212.105:8000/live/andrew1/andrew1/4281.ts
+#EXTINF:0 group-title="UK KIDS",NICK JR
+http://142.44.212.105:8000/live/andrew1/andrew1/688.ts
+#EXTINF:0 group-title="UK KIDS",SKY DISNEY
+http://142.44.212.105:8000/live/andrew1/andrew1/711.ts
+#EXTINF:0 group-title="UK KIDS",SKY DISNEY SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4262.ts
+#EXTINF:0 group-title="UK KIDS",POP MAX
+http://142.44.212.105:8000/live/andrew1/andrew1/3342.ts
+
+
+#EXTINF:0 group-title="UK ASIA", & TV UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10602.ts
+#EXTINF:0 group-title="UK ASIA", AAJ TAK UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10601.ts
+#EXTINF:0 group-title="UK ASIA",AASHTA UK  V
+http://142.44.212.105:8000/live/andrew1/andrew1/10600.ts
+#EXTINF:0 group-title="UK ASIA",ABN TV UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10565.ts
+#EXTINF:0 group-title="UK ASIA",ABP NEWS  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10599.ts
+#EXTINF:0 group-title="UK ASIA",VIP  APLUS TV UK
+http://142.44.212.105:8000/live/andrew1/andrew1/10578.ts
+#EXTINF:0 group-title="UK ASIA",COLORS UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10595.ts
+#EXTINF:0 group-title="UK ASIA",GEO  KAHANI UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10577.ts
+#EXTINF:0 group-title="UK ASIA",HUM EUROPE UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10574.ts
+#EXTINF:0 group-title="UK ASIA",KANSHI  TV  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10567.ts
+#EXTINF:0 group-title="UK ASIA",KTV UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10594.ts
+#EXTINF:0 group-title="UK ASIA",MATV NATIONAL UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10593.ts
+#EXTINF:0 group-title="UK ASIA",NEW VISION TV  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10573.ts
+#EXTINF:0 group-title="UK ASIA",NOOR TV   UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10572.ts
+#EXTINF:0 group-title="UK ASIA",PTC PUNJABI UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10591.ts
+#EXTINF:0 group-title="UK ASIA", RISHTEY CINEMA  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10590.ts
+#EXTINF:0 group-title="UK ASIA",RISHTEY  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10589.ts
+#EXTINF:0 group-title="UK ASIA",SAMAA  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10571.ts
+#EXTINF:0 group-title="UK ASIA",SANGAT  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10588.ts
+#EXTINF:0 group-title="UK ASIA",SEE TV UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10570.ts
+#EXTINF:0 group-title="UK ASIA",SONY MAX UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10587.ts
+#EXTINF:0 group-title="UK ASIA",SONY MIX UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10586.ts
+#EXTINF:0 group-title="UK ASIA",SONY SAB UK  V
+http://142.44.212.105:8000/live/andrew1/andrew1/10585.ts
+#EXTINF:0 group-title="UK ASIA",SONY TV ASIA UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10584.ts
+#EXTINF:0 group-title="UK ASIA",STAR  BHARAT UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10583.ts
+#EXTINF:0 group-title="UK ASIA",STAR  GOLD UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10582.ts
+#EXTINF:0 group-title="UK ASIA",STAR  PLUS  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10581.ts
+#EXTINF:0 group-title="UK ASIA",STAR UTSAV  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10580.ts
+#EXTINF:0 group-title="UK ASIA",TV 99 UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10569.ts
+#EXTINF:0 group-title="UK ASIA",URDU 1 EUROPE  UK V
+http://142.44.212.105:8000/live/andrew1/andrew1/10568.ts
+#EXTINF:0 group-title="UK ASIA",92 NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/8902.ts
+#EXTINF:0 group-title="UK ASIA",AAJ TAK
+http://142.44.212.105:8000/live/andrew1/andrew1/8887.ts
+#EXTINF:0 group-title="UK ASIA",ABP  NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/8888.ts
+#EXTINF:0 group-title="UK ASIA",ABP NEWS ☆
+http://142.44.212.105:8000/live/andrew1/andrew1/5575.ts
+#EXTINF:0 group-title="UK ASIA",AKAAL CHANNEL
+http://142.44.212.105:8000/live/andrew1/andrew1/5578.ts
+#EXTINF:0 group-title="UK ASIA",BANGLA: ZEE BANGLA UK
+http://142.44.212.105:8000/live/andrew1/andrew1/2966.ts
+#EXTINF:0 group-title="UK ASIA",ARY DIGITAL
+http://142.44.212.105:8000/live/andrew1/andrew1/1797.ts
+#EXTINF:0 group-title="UK ASIA",ARY DIGITAL B
+http://142.44.212.105:8000/live/andrew1/andrew1/8903.ts
+#EXTINF:0 group-title="UK ASIA",B4U MOVIE -
+http://142.44.212.105:8000/live/andrew1/andrew1/5397.ts
+#EXTINF:0 group-title="UK ASIA",B4U MUSIC
+http://142.44.212.105:8000/live/andrew1/andrew1/1791.ts
+#EXTINF:0 group-title="UK ASIA",B4U PLUS
+http://142.44.212.105:8000/live/andrew1/andrew1/1790.ts
+#EXTINF:0 group-title="UK ASIA",GEO NEWS B
+http://142.44.212.105:8000/live/andrew1/andrew1/8905.ts
+#EXTINF:0 group-title="UK ASIA",GEO NEWS UK
+http://142.44.212.105:8000/live/andrew1/andrew1/1958.ts
+#EXTINF:0 group-title="UK ASIA",AAJ NEWS LIVE
+http://142.44.212.105:8000/live/andrew1/andrew1/9862.ts
+#EXTINF:0 group-title="UK ASIA",GEO TEZ
+http://142.44.212.105:8000/live/andrew1/andrew1/3504.ts
+#EXTINF:0 group-title="UK ASIA",GEO TV
+http://142.44.212.105:8000/live/andrew1/andrew1/8907.ts
+#EXTINF:0 group-title="UK ASIA",ZEE  PUNJABI
+http://142.44.212.105:8000/live/andrew1/andrew1/8899.ts
+#EXTINF:0 group-title="UK ASIA",SATR BHARAT
+http://142.44.212.105:8000/live/andrew1/andrew1/3292.ts
+#EXTINF:0 group-title="UK ASIA",MADANI CHANNEL
+http://142.44.212.105:8000/live/andrew1/andrew1/3493.ts
+#EXTINF:0 group-title="UK ASIA",MGEO TEZ
+http://142.44.212.105:8000/live/andrew1/andrew1/8906.ts
+#EXTINF:0 group-title="UK ASIA",ZEE PUNJABI
+http://142.44.212.105:8000/live/andrew1/andrew1/5577.ts
+#EXTINF:0 group-title="UK ASIA",TAKBEAR TV
+http://142.44.212.105:8000/live/andrew1/andrew1/8910.ts
+#EXTINF:0 group-title="UK ASIA",NOOR  TV
+http://142.44.212.105:8000/live/andrew1/andrew1/8908.ts
+#EXTINF:0 group-title="UK ASIA",ISLAM URDU TV
+http://142.44.212.105:8000/live/andrew1/andrew1/13259.ts
+#EXTINF:0 group-title="UK ASIA",PEACE TV
+http://142.44.212.105:8000/live/andrew1/andrew1/4712.ts
+#EXTINF:0 group-title="UK ASIA",IQRA URDU
+http://142.44.212.105:8000/live/andrew1/andrew1/13258.ts
+#EXTINF:0 group-title="UK ASIA",ZEE  TV
+http://142.44.212.105:8000/live/andrew1/andrew1/4315.ts
+#EXTINF:0 group-title="UK ASIA",Zee TV
+http://142.44.212.105:8000/live/andrew1/andrew1/8900.ts
+#EXTINF:0 group-title="UK ASIA", ZING
+http://142.44.212.105:8000/live/andrew1/andrew1/8901.ts
+#EXTINF:0 group-title="UK ASIA",URDU 1 EUROPE
+http://142.44.212.105:8000/live/andrew1/andrew1/3484.ts
+#EXTINF:0 group-title="UK ASIA",ZEE CINEMA ☆
+http://142.44.212.105:8000/live/andrew1/andrew1/1785.ts
+#EXTINF:0 group-title="UK ASIA",STAR  GOLD
+http://142.44.212.105:8000/live/andrew1/andrew1/8896.ts
+#EXTINF:0 group-title="UK ASIA",STAR GOLD ☆
+http://142.44.212.105:8000/live/andrew1/andrew1/1786.ts
+#EXTINF:0 group-title="UK ASIA",STAR BHARA
+http://142.44.212.105:8000/live/andrew1/andrew1/8897.ts
+#EXTINF:0 group-title="UK ASIA",STAR PLUS HD UK
+http://142.44.212.105:8000/live/andrew1/andrew1/2010.ts
+#EXTINF:0 group-title="UK ASIA",STAR  UTSAV
+http://142.44.212.105:8000/live/andrew1/andrew1/8898.ts
+#EXTINF:0 group-title="UK ASIA",SONY ENTERTAINMENT HD
+http://142.44.212.105:8000/live/andrew1/andrew1/1788.ts
+#EXTINF:0 group-title="UK ASIA",SONY MAX
+http://142.44.212.105:8000/live/andrew1/andrew1/8894.ts
+#EXTINF:0 group-title="UK ASIA",SONY SAB
+http://142.44.212.105:8000/live/andrew1/andrew1/8895.ts
+#EXTINF:0 group-title="UK ASIA",SONY SETMAX ☆
+http://142.44.212.105:8000/live/andrew1/andrew1/1787.ts
+#EXTINF:0 group-title="UK ASIA",SIKH CHANNEL
+http://142.44.212.105:8000/live/andrew1/andrew1/5020.ts
+#EXTINF:0 group-title="UK ASIA",SAMAA ☆
+http://142.44.212.105:8000/live/andrew1/andrew1/3487.ts
+#EXTINF:0 group-title="UK ASIA", RISHTEY
+http://142.44.212.105:8000/live/andrew1/andrew1/8893.ts
+#EXTINF:0 group-title="UK ASIA",RISHTEY ☆
+http://142.44.212.105:8000/live/andrew1/andrew1/1794.ts
+#EXTINF:0 group-title="UK ASIA",RISHTEY   CINEMA
+http://142.44.212.105:8000/live/andrew1/andrew1/8892.ts
+#EXTINF:0 group-title="UK ASIA",PTC PUNJABI L
+http://142.44.212.105:8000/live/andrew1/andrew1/4711.ts
+#EXTINF:0 group-title="UK ASIA",PTV HOME
+http://142.44.212.105:8000/live/andrew1/andrew1/3502.ts
+#EXTINF:0 group-title="UK ASIA",& TV
+http://142.44.212.105:8000/live/andrew1/andrew1/3291.ts
+#EXTINF:0 group-title="UK ASIA",ALJAZEERA NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/1716.ts
+#EXTINF:0 group-title="UK ASIA",COLORS
+http://142.44.212.105:8000/live/andrew1/andrew1/8889.ts
+#EXTINF:0 group-title="UK ASIA", COLORS L
+http://142.44.212.105:8000/live/andrew1/andrew1/1789.ts
+#EXTINF:0 group-title="UK ASIA",DUNYA NEWS B
+http://142.44.212.105:8000/live/andrew1/andrew1/8904.ts
+#EXTINF:0 group-title="UK ASIA",HUM
+http://142.44.212.105:8000/live/andrew1/andrew1/1796.ts
+#EXTINF:0 group-title="UK ASIA",HUM EUROPE
+http://142.44.212.105:8000/live/andrew1/andrew1/3503.ts
+#EXTINF:0 group-title="UK ASIA",BRITISH MUSLIM
+http://142.44.212.105:8000/live/andrew1/andrew1/3499.ts
+#EXTINF:0 group-title="UK ASIA",ISLAM ENGL TV
+http://142.44.212.105:8000/live/andrew1/andrew1/4898.ts
+#EXTINF:0 group-title="UK ASIA",SUCH  TV LIVE
+http://142.44.212.105:8000/live/andrew1/andrew1/9863.ts
+#EXTINF:-1,AR: AL NASS
+http://142.44.212.105:8000/live/andrew1/andrew1/9861.ts
+#EXTINF:0 group-title="UK ASIA",BOX ( INDIAN MOVIE SPECIAL 80' 90' )
+http://142.44.212.105:8000/live/andrew1/andrew1/18579.ts
+#EXTINF:0 group-title="UK ASIA",BOX ( INDIAN MOVIE SPECIAL NEW )
+http://142.44.212.105:8000/live/andrew1/andrew1/18578.ts
+#EXTINF:0 group-title="UK ASIA",BOX ( INDIAN MOVIE SPECIAL OLD IS GOLD )
+http://142.44.212.105:8000/live/andrew1/andrew1/18580.ts
+#EXTINF:0 group-title="UK ASIA",BOX ( PUNJABI MOVIE SPECIAL )
+http://142.44.212.105:8000/live/andrew1/andrew1/18577.ts
+#EXTINF:0 group-title="UK ASIA",Box Office
+http://142.44.212.105:8000/live/andrew1/andrew1/18581.ts
+#EXTINF:0 group-title="UK ASIA",Box Special >>>> 007 Movies
+http://142.44.212.105:8000/live/andrew1/andrew1/18582.ts
+#EXTINF:-1,***( UK MUSIC )***
+http://142.44.212.105:8000/live/andrew1/andrew1/1783.ts
+#EXTINF:0 group-title="UK ASIA",MTV BASE V
+http://142.44.212.105:8000/live/andrew1/andrew1/4642.ts
+#EXTINF:0 group-title="UK ASIA",MTV DANCE  V
+http://142.44.212.105:8000/live/andrew1/andrew1/4641.ts
+#EXTINF:0 group-title="UK ASIA",MTV HITS V
+http://142.44.212.105:8000/live/andrew1/andrew1/4640.ts
+#EXTINF:0 group-title="UK ASIA",MTV MUSIC  V
+http://142.44.212.105:8000/live/andrew1/andrew1/4639.ts
+#EXTINF:0 group-title="UK ASIA",MTV ROCKS ►
+http://142.44.212.105:8000/live/andrew1/andrew1/4638.ts
+#EXTINF:0 group-title="UK ASIA",VH 1
+http://142.44.212.105:8000/live/andrew1/andrew1/4637.ts
+#EXTINF:0 group-title="UK ASIA",MTV CLASSIC
+http://142.44.212.105:8000/live/andrew1/andrew1/1781.ts
+#EXTINF:0 group-title="UK ASIA",VH1
+http://142.44.212.105:8000/live/andrew1/andrew1/1775.ts
+#EXTINF:0 group-title="UK ASIA",VIVA
+http://142.44.212.105:8000/live/andrew1/andrew1/1774.ts
+#EXTINF:-1,***( UK NEWS )***
+http://142.44.212.105:8000/live/andrew1/andrew1/1720.ts
+#EXTINF:0 group-title="UK ASIA",SKY  NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/4657.ts
+#EXTINF:0 group-title="UK ASIA",BBC NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/7529.ts
+#EXTINF:0 group-title="UK ASIA",BBC WORLD NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/1718.ts
+#EXTINF:0 group-title="UK ASIA",BLOOMBERG NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/3337.ts
+#EXTINF:0 group-title="UK ASIA",CNN NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/1717.ts
+#EXTINF:0 group-title="UK ASIA",EURONEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/1715.ts
+#EXTINF:0 group-title="UK ASIA",FOX NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/2769.ts
+#EXTINF:0 group-title="UK ASIA",HORROR CHANNEL
+http://142.44.212.105:8000/live/andrew1/andrew1/1703.ts
+#EXTINF:0 group-title="UK ASIA",SKY NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/1719.ts
+
+#EXTINF:0 group-title="US VIP",FOX SPORTS 2 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8921.ts
+#EXTINF:0 group-title="US VIP",FOX SPORTS 3 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8920.ts
+#EXTINF:0 group-title="US VIP",SPORT TV 4
+http://142.44.212.105:8000/live/andrew1/andrew1/6170.ts
+#EXTINF:0 group-title="US VIP",SPORT TV 1
+http://142.44.212.105:8000/live/andrew1/andrew1/6173.ts
+#EXTINF:0 group-title="US VIP",SPORT TV 2
+http://142.44.212.105:8000/live/andrew1/andrew1/6172.ts
+
+
+#EXTINF:0 group-title="ES",NOLLYWOOD  MOVIES
+http://142.44.212.105:8000/live/andrew1/andrew1/1670.ts
+#EXTINF:0 group-title="ES", NOLLYWOOD MOVIES
+http://142.44.212.105:8000/live/andrew1/andrew1/9086.ts
+#EXTINF:0 group-title="ES",MOVIESTAR F1
+http://142.44.212.105:8000/live/andrew1/andrew1/5497.ts
+#EXTINF:0 group-title="ES",DISNEY JUNIOR
+http://142.44.212.105:8000/live/andrew1/andrew1/5509.ts
+#EXTINF:0 group-title="ES",NOVA
+http://142.44.212.105:8000/live/andrew1/andrew1/4198.ts
+#EXTINF:0 group-title="ES",CAZA Y PESCA HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5488.ts
+#EXTINF:0 group-title="ES",Canal 2 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/18100.ts
+#EXTINF:0 group-title="ES",DISNEY CHANEL
+http://142.44.212.105:8000/live/andrew1/andrew1/17582.ts
+#EXTINF:0 group-title="ES",SYFY
+http://142.44.212.105:8000/live/andrew1/andrew1/5436.ts
+#EXTINF:0 group-title="ES",ACCION HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4208.ts
+#EXTINF:0 group-title="ES",AXN WHITE HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5527.ts
+#EXTINF:0 group-title="ES",BEIN LA LIGA HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5455.ts
+#EXTINF:0 group-title="ES",BEIN SPORTS HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5463.ts
+#EXTINF:0 group-title="ES",LA LIGA TV
+http://142.44.212.105:8000/live/andrew1/andrew1/4220.ts
+#EXTINF:0 group-title="ES",CANAL DEPORTES
+http://142.44.212.105:8000/live/andrew1/andrew1/4189.ts
+#EXTINF:0 group-title="ES",REAL MADRID TV
+http://142.44.212.105:8000/live/andrew1/andrew1/4194.ts
+#EXTINF:0 group-title="ES",COSMO HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4207.ts
+#EXTINF:0 group-title="ES",DISCOVERY CHANNEL
+http://142.44.212.105:8000/live/andrew1/andrew1/5505.ts
+#EXTINF:0 group-title="ES",FOX HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5523.ts
+#EXTINF:0 group-title="ES",IBERALIA TV SD
+http://142.44.212.105:8000/live/andrew1/andrew1/4181.ts
+#EXTINF:0 group-title="ES",HISTORIA
+http://142.44.212.105:8000/live/andrew1/andrew1/5498.ts
+#EXTINF:0 group-title="ES",NatGeo Wild Spain
+http://142.44.212.105:8000/live/andrew1/andrew1/5500.ts
+#EXTINF:0 group-title="ES",MOVISTAR XTRA HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4218.ts
+#EXTINF:0 group-title="ES",LALIGA TV BAR HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5453.ts
+#EXTINF:0 group-title="ES",HOLLYWOOD
+http://142.44.212.105:8000/live/andrew1/andrew1/5438.ts
+#EXTINF:0 group-title="ES",M FUTBOL HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4217.ts
+#EXTINF:0 group-title="ES",MOVISTAR CALLE 13 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5525.ts
+#EXTINF:0 group-title="ES",MOVISTAR DEPORTES2 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5475.ts
+#EXTINF:0 group-title="ES",MOVISTAR FUTBOL HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5473.ts
+#EXTINF:0 group-title="ES",MOVISTAR GOLF HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5471.ts
+#EXTINF:0 group-title="ES",MOVISTAR MOTO GP HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5467.ts
+#EXTINF:0 group-title="ES",MOVISTAR COMEDIA
+http://142.44.212.105:8000/live/andrew1/andrew1/4215.ts
+#EXTINF:0 group-title="ES",MOVISTAR DEPORTES 2
+http://142.44.212.105:8000/live/andrew1/andrew1/4213.ts
+#EXTINF:0 group-title="ES",MOVISTAR SERIES XTRA
+http://142.44.212.105:8000/live/andrew1/andrew1/4210.ts
+#EXTINF:0 group-title="ES",NATGEO WILD
+http://142.44.212.105:8000/live/andrew1/andrew1/5492.ts
+#EXTINF:0 group-title="ES",NATIONAL GEOGRAPHIC HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5494.ts
+#EXTINF:0 group-title="ES",NATIONAL GEOGRAPHIC
+http://142.44.212.105:8000/live/andrew1/andrew1/5491.ts
+#EXTINF:0 group-title="ES",ANTENA 3
+http://142.44.212.105:8000/live/andrew1/andrew1/9106.ts
+#EXTINF:0 group-title="ES",CUATRO
+http://142.44.212.105:8000/live/andrew1/andrew1/9107.ts
+#EXTINF:0 group-title="ES",ANTENA 3 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/17971.ts
+#EXTINF:0 group-title="ES",TELECINCO HD
+http://142.44.212.105:8000/live/andrew1/andrew1/17973.ts
+#EXTINF:0 group-title="ES",TELE UNO
+http://142.44.212.105:8000/live/andrew1/andrew1/18108.ts
+#EXTINF:0 group-title="ES",LA SEXTA HD
+http://142.44.212.105:8000/live/andrew1/andrew1/17972.ts
+#EXTINF:0 group-title="ES",MEGA
+http://142.44.212.105:8000/live/andrew1/andrew1/17986.ts
+
+
+#EXTINF:0 group-title="US",AFN Movies
+http://142.44.212.105:8000/live/andrew1/andrew1/8716.ts
+#EXTINF:0 group-title="US",AFN Sports  2 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8717.ts
+#EXTINF:0 group-title="US",FOX_Sport1_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5008.ts
+#EXTINF:0 group-title="US",FOX_Sport2_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5007.ts
+#EXTINF:0 group-title="US",FOX_SPORTS_3
+http://142.44.212.105:8000/live/andrew1/andrew1/8730.ts
+#EXTINF:0 group-title="US",Sky_Sport_US_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8713.ts
+#EXTINF:0 group-title="US",TSN1_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5807.ts
+#EXTINF:0 group-title="US",TSN_Sport_2
+http://142.44.212.105:8000/live/andrew1/andrew1/5012.ts
+#EXTINF:0 group-title="US",TSN_Sport_3
+http://142.44.212.105:8000/live/andrew1/andrew1/5011.ts
+#EXTINF:0 group-title="US",TSN_Sport_4
+http://142.44.212.105:8000/live/andrew1/andrew1/5010.ts
+#EXTINF:0 group-title="US",TSN_Sport_5
+http://142.44.212.105:8000/live/andrew1/andrew1/5009.ts
+
+
+
+#EXTINF:0 group-title="US",BRAVO_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4979.ts
+#EXTINF:0 group-title="US",CBS HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4982.ts
+#EXTINF:0 group-title="US",CNN
+http://142.44.212.105:8000/live/andrew1/andrew1/5015.ts
+#EXTINF:0 group-title="US",NAT_GEO_WILD
+http://142.44.212.105:8000/live/andrew1/andrew1/4991.ts
+#EXTINF:0 group-title="US",TBS_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/4989.ts
+#EXTINF:0 group-title="US",TNT_HD_US
+http://142.44.212.105:8000/live/andrew1/andrew1/4986.ts
+#EXTINF:0 group-title="US",HALLMARK
+http://142.44.212.105:8000/live/andrew1/andrew1/4997.ts
+#EXTINF:0 group-title="US",Travel Channe_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5001.ts
+#EXTINF:0 group-title="US",TSN2_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5796.ts
+#EXTINF:0 group-title="US",NBA_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/5794.ts
+#EXTINF:0 group-title="US",NBC Golf HD
+http://142.44.212.105:8000/live/andrew1/andrew1/6127.ts
+#EXTINF:0 group-title="US", ABC
+http://142.44.212.105:8000/live/andrew1/andrew1/8712.ts
+#EXTINF:0 group-title="US",BLOOMBERG
+http://142.44.212.105:8000/live/andrew1/andrew1/8724.ts
+#EXTINF:-1,USA: Starz Cinema HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8727.ts
+#EXTINF:0 group-title="US",CINEMAX_ACTOIN_MAX_EAST
+http://142.44.212.105:8000/live/andrew1/andrew1/8728.ts
+#EXTINF:0 group-title="US",CINEMAX_EAST
+http://142.44.212.105:8000/live/andrew1/andrew1/8721.ts
+#EXTINF:0 group-title="US",CNBC
+http://142.44.212.105:8000/live/andrew1/andrew1/8718.ts
+#EXTINF:0 group-title="US",CW_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8743.ts
+#EXTINF:0 group-title="US",DISCOVERY
+http://142.44.212.105:8000/live/andrew1/andrew1/8740.ts
+#EXTINF:0 group-title="US",FIX_TV_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8744.ts
+#EXTINF:0 group-title="US",ShowTime 2 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8714.ts
+#EXTINF:0 group-title="US",FOX NEWS
+http://142.44.212.105:8000/live/andrew1/andrew1/8715.ts
+#EXTINF:0 group-title="US",ESPN 2 HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8726.ts
+#EXTINF:0 group-title="US",FX_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8735.ts
+#EXTINF:0 group-title="US",HBO_ZONE_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8738.ts
+#EXTINF:0 group-title="US",History_Channel
+http://142.44.212.105:8000/live/andrew1/andrew1/8739.ts
+#EXTINF:0 group-title="US",LIFETIME_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8741.ts
+#EXTINF:0 group-title="US",NBA
+http://142.44.212.105:8000/live/andrew1/andrew1/8748.ts
+#EXTINF:0 group-title="US",SHOWTIME
+http://142.44.212.105:8000/live/andrew1/andrew1/8719.ts
+#EXTINF:0 group-title="US",SPIKE_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8746.ts
+#EXTINF:0 group-title="US",STARZ_ENCORE_HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8729.ts
+#EXTINF:0 group-title="US",TSN_3
+http://142.44.212.105:8000/live/andrew1/andrew1/8709.ts
+#EXTINF:0 group-title="US",TSN_5
+http://142.44.212.105:8000/live/andrew1/andrew1/8711.ts
+#EXTINF:0 group-title="US",Willow Cricket HD
+http://142.44.212.105:8000/live/andrew1/andrew1/8737.ts
+#EXTINF:0 group-title="US",WWE_Network
+http://142.44.212.105:8000/live/andrew1/andrew1/8747.ts
+#EXTINF:0 group-title="US",CARTOON_NETWORK-
+http://142.44.212.105:8000/live/andrew1/andrew1/8725.ts
+
+
+
+
