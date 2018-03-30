@@ -1,805 +1,295 @@
 #EXTM3U
 
 
-#EXTINF:0 group-title="Hong Kong and Macao",翡翠台
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/5tg7hf6c/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",互动新闻台
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/g9wq1prh/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",J2
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/xmj3kp59/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",J5
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/wtfkf1mz/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",VIUTV
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/zbjk0cj6/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",奇妙电视
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/6kq9wz62/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",Pearl
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/w1hm8wff/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",TVB星河
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/gjgwhbh7/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",鳳凰衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/ts6205f2/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",鳳凰資訊 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/9mq6tmcf/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",鳳凰香港 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/wzpkb9tf/index.m3u8
-#EXTINF:0 group-title="Hong Kong and Macao",星空衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/c89jz8t0/index.m3u8
-
-#EXTINF:0 group-title="Taiwan",華視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/fg8qsqqz/index.m3u8
-#EXTINF:0 group-title="Taiwan",華視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hmrmw2mj/index.m3u8
-#EXTINF:0 group-title="Taiwan",臺視臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rmntpxs1/index.m3u8
-#EXTINF:0 group-title="Taiwan",臺視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/c05pm3s2/index.m3u8
-#EXTINF:0 group-title="Taiwan",公視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/j44fm83f/index.m3u8
-#EXTINF:0 group-title="Taiwan",非凡新聞
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/crk99h3j/index.m3u8
-#EXTINF:0 group-title="Taiwan",東森新聞 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/94zf0c2v/index.m3u8
-#EXTINF:0 group-title="Taiwan",東森洋片
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0kxhqv8q/index.m3u8
-#EXTINF:0 group-title="Taiwan",東森財經 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/1cj0fxmv/index.m3u8
-#EXTINF:0 group-title="Taiwan",東森戲劇
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/g5n3j8kx/index.m3u8
-#EXTINF:0 group-title="Taiwan",東森Film
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q6t7f6hg/index.m3u8
-#EXTINF:0 group-title="Taiwan",緯來Film
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q9p24xqk/index.m3u8
-#EXTINF:0 group-title="Taiwan",緯來Sport
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/spvjqjn9/index.m3u8
-#EXTINF:0 group-title="Taiwan",緯來綜合
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/3qct536g/index.m3u8
-#EXTINF:0 group-title="Taiwan",緯來日本
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/84zr1797/index.m3u8
-#EXTINF:0 group-title="Taiwan",緯來育樂
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/vrn5bsmg/index.m3u8
-#EXTINF:0 group-title="Taiwan",緯來戲劇
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/ncgscv3r/index.m3u8
-#EXTINF:0 group-title="Taiwan",龍華洋片
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/gs7wj4b5/index.m3u8
-#EXTINF:0 group-title="Taiwan",龍華動畫
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/m59j2zx8/index.m3u8
-#EXTINF:0 group-title="Taiwan",龍華偶像
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/v43bw7s8/index.m3u8
-#EXTINF:0 group-title="Taiwan",龍華戲劇
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/48g9v95h/index.m3u8
-#EXTINF:0 group-title="Taiwan",龍華影劇
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/vj16g6fs/index.m3u8
-#EXTINF:0 group-title="Taiwan",八大第一
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jz8wfhfv/index.m3u8
-#EXTINF:0 group-title="Taiwan",八大戲劇
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/1gx47f4w/index.m3u8
-#EXTINF:0 group-title="Taiwan",八大娛樂
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/22hvx7f4/index.m3u8
-#EXTINF:0 group-title="Taiwan",八大綜合
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/nh14pm05/index.m3u8
-#EXTINF:0 group-title="Taiwan",三立Taiwan
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0jr13p4v/index.m3u8
-#EXTINF:0 group-title="Taiwan",三立綜合
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8sw4bfgq/index.m3u8
-#EXTINF:0 group-title="Taiwan",三立新聞
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cqz6gtpb/index.m3u8
-#EXTINF:0 group-title="Taiwan",三立戲劇臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/k4bszph7/index.m3u8
-#EXTINF:0 group-title="Taiwan",三立都會
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/p6vzzkf8/index.m3u8
-#EXTINF:0 group-title="Taiwan",靖天Film
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/h25ntcr8/index.m3u8
-#EXTINF:0 group-title="Taiwan",靖天映畫
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/956tfjcf/index.m3u8
-#EXTINF:0 group-title="Taiwan",靖天戲劇
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/f97qhzsw/index.m3u8
-#EXTINF:0 group-title="Taiwan",靖天日本臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/n7s1fwk8/index.m3u8
-#EXTINF:0 group-title="Taiwan",靖天卡通臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/vx4hx0m7/index.m3u8
-#EXTINF:0 group-title="Taiwan",靖天育樂臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/fz0wwtjb/index.m3u8
-#EXTINF:0 group-title="Taiwan",靖天國际臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/7s83z9x5/index.m3u8
-#EXTINF:0 group-title="Taiwan",靖洋戲劇臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/fmqkc4bh/index.m3u8
-#EXTINF:0 group-title="Taiwan",壹電視新聞
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cggmv7m5/index.m3u8
-#EXTINF:0 group-title="Taiwan",壹電視綜合h
-ttp://i0320.lnmtzv.boxtv.win/live/kwzq1rse/fkb23jwt/index.m3u8
-#EXTINF:0 group-title="Taiwan",ELTA 影劇
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/vvhpg8t8/index.m3u8
-#EXTINF:0 group-title="Taiwan",ELTA 育樂
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/bxjgvrj3/index.m3u8
-#EXTINF:0 group-title="Taiwan",ELTA 綜合
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q35stj9m/index.m3u8
-#EXTINF:0 group-title="Taiwan",ELTA Sport
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/xx8jfqc9/index.m3u8
-#EXTINF:0 group-title="Taiwan",AXN
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/nvmhcffx/index.m3u8
-#EXTINF:0 group-title="Taiwan",EYE TV旅游臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/sphg8nq9/index.m3u8
-#EXTINF:0 group-title="Taiwan",EYE戲劇
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rg68vjj0/index.m3u8
-#EXTINF:0 group-title="Taiwan",迪斯尼
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/06mp6vp8/index.m3u8
-#EXTINF:0 group-title="Taiwan",BabyFirst
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/fj3mtgtj/index.m3u8
-#EXTINF:0 group-title="Taiwan",Baby TV
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/x4j8kpst/index.m3u8
-#EXTINF:0 group-title="Taiwan",CN 卡通
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/zmz9k2hc/index.m3u8
-#EXTINF:0 group-title="Taiwan",momo 亲子臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0jqsx5tg/index.m3u8
-#EXTINF:0 group-title="Taiwan",中天新聞
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8j108vcg/index.m3u8
-#EXTINF:0 group-title="Taiwan",中天亞洲
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/kn3tzgzv/index.m3u8
-#EXTINF:0 group-title="Taiwan",中天綜合 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/975ffqpt/index.m3u8
-#EXTINF:0 group-title="Taiwan",中天娛樂
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/pg9ccptv/index.m3u8
-#EXTINF:0 group-title="Taiwan",TVBS-N HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/1pkbs32k/index.m3u8
-#EXTINF:0 group-title="Taiwan",TVBS-G HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/1rxrpgv4/index.m3u8
-#EXTINF:0 group-title="Taiwan",TVBS HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/qb4zc9s7/index.m3u8
-#EXTINF:0 group-title="Taiwan",民視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/pk0r9g3x/index.m3u8
-#EXTINF:0 group-title="Taiwan",民視新聞
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/thkmtv99/index.m3u8
-#EXTINF:0 group-title="Taiwan",民視Taiwan臺 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/bh0x57p4/index.m3u8
-#EXTINF:0 group-title="Taiwan",中視臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/qx3hnnss/index.m3u8
-#EXTINF:0 group-title="Taiwan",中視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0fjz7px1/index.m3u8
-#EXTINF:0 group-title="Taiwan",中視新聞
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/bkrbn0pf/index.m3u8
-#EXTINF:0 group-title="Taiwan",鴻基影劇臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/86z74vbh/index.m3u8
-#EXTINF:0 group-title="Taiwan",鴻基Taiwan臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/3r0zt5s3/index.m3u8
-#EXTINF:0 group-title="Taiwan",阿里郎電視臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/h6h1s2j5/index.m3u8
-#EXTINF:0 group-title="Taiwan",寰宇財經
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0q5fr8rh/index.m3u8
-#EXTINF:0 group-title="Taiwan",寰宇頻道
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/mxrsjhxp/index.m3u8
-#EXTINF:0 group-title="Taiwan",寰宇綜合HD 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/29z5n1ms/index.m3u8
-#EXTINF:0 group-title="Taiwan",曼迪日本臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/zhjnc3xr/index.m3u8
-#EXTINF:0 group-title="Taiwan",DIVA
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/332hkcjk/index.m3u8
-#EXTINF:0 group-title="Taiwan",大愛一臺 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/tcs89msv/index.m3u8
-#EXTINF:0 group-title="Taiwan",國兴衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/6zb3p58j/index.m3u8
-#EXTINF:0 group-title="Taiwan",smart 知識臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hvkct1c0/index.m3u8
-#EXTINF:0 group-title="Taiwan",JET綜合
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/07t8z33z/index.m3u8
-#EXTINF:0 group-title="Taiwan",Li 時尚 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/m9p1tcjc/index.m3u8
-#EXTINF:0 group-title="Taiwan",采昌影劇臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/k75nw13p/index.m3u8
-#EXTINF:0 group-title="Taiwan",my kids
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/x1z010s3/index.m3u8
-#EXTINF:0 group-title="Taiwan",CHC動作FilmHD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/2xhjk3rg/index.m3u8
-#EXTINF:0 group-title="Taiwan",CHC家庭影院HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hztn484w/index.m3u8
-#EXTINF:0 group-title="Taiwan",CHC高清FilmHD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0bzz6wkj/index.m3u8
-#EXTINF:0 group-title="Taiwan",HBO Hits
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4q5rk9bp/index.m3u8
-#EXTINF:0 group-title="Taiwan",HBO signature
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/z0h6sz7m/index.m3u8
-#EXTINF:0 group-title="Taiwan",HBO family
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/fjkgbjsr/index.m3u8
-#EXTINF:0 group-title="Taiwan",FX HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jkrn3m0w/index.m3u8
-#EXTINF:0 group-title="Taiwan",FOX HD 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/c2pk36b8/index.m3u8
-#EXTINF:0 group-title="Taiwan",FOX CRIME 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/b9gnc85x/index.m3u8
-#EXTINF:0 group-title="Taiwan",FOX 家庭
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q1t3r7z7/index.m3u8
-#EXTINF:0 group-title="Taiwan",CinemaWorld
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/wrn6wjz7/index.m3u8
-#EXTINF:0 group-title="Taiwan",天映頻道
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/tz7c94tk/index.m3u8
-#EXTINF:0 group-title="Taiwan",衛視中文臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/vhfcgvgr/index.m3u8
-#EXTINF:0 group-title="Taiwan",衛視闔家歡
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/k4hn53c8/index.m3u8
-#EXTINF:0 group-title="Taiwan",China Movie
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/3z7vs7gw/index.m3u8
-#EXTINF:0 group-title="Taiwan",衛視Film臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/63t80c5p/index.m3u8
-#EXTINF:0 group-title="Taiwan",CINEMAX
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/w6stt0q8/index.m3u8
-#EXTINF:0 group-title="Taiwan",星衛FilmHD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/6s69fnjz/index.m3u8
-#EXTINF:0 group-title="Taiwan",好萊塢Film
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q0rskj6h/index.m3u8
-#EXTINF:0 group-title="Taiwan",星衛娛樂臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/sps6gxp6/index.m3u8
-#EXTINF:0 group-title="Taiwan",美亞Film臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4vphhg1h/index.m3u8
-#EXTINF:0 group-title="Taiwan",衛視西片 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/1vnt5wqn/index.m3u8
-#EXTINF:0 group-title="Taiwan",龍祥時代
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0xz20xk6/index.m3u8
-
-#EXTINF:0 group-title="International",動物星球
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/13t5w6zc/index.m3u8
-#EXTINF:0 group-title="International",美食星球
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/45c2r1kr/index.m3u8
-#EXTINF:0 group-title="International",亞洲美食
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/5rhv2q5b/index.m3u8
-#EXTINF:0 group-title="International",亞洲旅游臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jhmt4rc8/index.m3u8
-#EXTINF:0 group-title="International",探索Taiwan
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/sq7kwzwq/index.m3u8
-#EXTINF:0 group-title="International",探索 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hxgk74x4/index.m3u8
-#EXTINF:0 group-title="International",探索科學頻道
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/r1k6hzrq/index.m3u8
-#EXTINF:0 group-title="International",探索動力
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/vw28htp9/index.m3u8
-#EXTINF:0 group-title="International",探索EVE HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/pc91kp11/index.m3u8
-#EXTINF:0 group-title="International",國家地理 HD 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/nvhgfr5c/index.m3u8
-#EXTINF:0 group-title="International",國家地理PEOPLE
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/s04bkt99/index.m3u8
-#EXTINF:0 group-title="International",國家地理野生
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/w7tx0758/index.m3u8
-#EXTINF:0 group-title="International",History HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4m124k0n/index.m3u8
-#EXTINF:0 group-title="International",Histoy2 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8r8g151j/index.m3u8
-#EXTINF:0 group-title="International",Syfy科幻
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/zkrmnn2q/index.m3u8
-#EXTINF:0 group-title="International",Bloomberg 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/v6g923kv/index.m3u8
-#EXTINF:0 group-title="International",E! Entertainment
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/x4qgwt3s/index.m3u8
-
-#EXTINF:0 group-title="Sport",SETANTA
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/r3mqhjzs/index.m3u8
-#EXTINF:0 group-title="Sport",ASN 全美運動網
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/48qzgqsw/index.m3u8
-#EXTINF:0 group-title="Sport",FOX sport
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/sn7jks08/index.m3u8
-#EXTINF:0 group-title="Sport",FOX sport 3 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jjf48w4z/index.m3u8
-#EXTINF:0 group-title="Sport",Sky sport HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/qkx3mw59/index.m3u8
-#EXTINF:0 group-title="Sport",Sky sport 1
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/54p788fb/index.m3u8
-#EXTINF:0 group-title="Sport",SKY NEWS HD 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8vfjmcsj/index.m3u8
-#EXTINF:0 group-title="Sport",GOLF
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/ggvhjzxt/index.m3u8
-#EXTINF:0 group-title="Sport",Sky Sports 2 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/1xnz6php/index.m3u8
-#EXTINF:0 group-title="Sport",博斯足球
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rxxm18mx/index.m3u8
-#EXTINF:0 group-title="Sport",博斯網球
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/xvtbpnqp/index.m3u8
-#EXTINF:0 group-title="Sport",博斯無限
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4g2pmcx2/index.m3u8
-#EXTINF:0 group-title="Sport",博斯高球 1 HD 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/svs9236c/index.m3u8
-#EXTINF:0 group-title="Sport",博斯高球 2
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/p41p0chp/index.m3u8
-#EXTINF:0 group-title="Sport",緯來Sport
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/spvjqjn9/index.m3u8
-#EXTINF:0 group-title="Sport",ELTA Sport
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/xx8jfqc9/index.m3u8
-#EXTINF:0 group-title="Sport",CCTV-5 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8p5jrfhk/index.m3u8
-#EXTINF:0 group-title="Sport",CCTV-5+ HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/n8pwh7zv/index.m3u8
-#EXTINF:0 group-title="Sport",廣東Sport
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0xq2rx02/index.m3u8
-#EXTINF:0 group-title="Sport",風雲足球
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rh3j4j4b/index.m3u8
-#EXTINF:0 group-title="Sport",高尔夫網球
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/bj6611m5/index.m3u8
-#EXTINF:0 group-title="Sport",新視觉
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/3vs0p17g/index.m3u8
-
-#EXTINF:0 group-title="Film",CHC動作FilmHD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/2xhjk3rg/index.m3u8
-#EXTINF:0 group-title="Film",CHC家庭影院HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hztn484w/index.m3u8
-#EXTINF:0 group-title="Film",CHC高清FilmHD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0bzz6wkj/index.m3u8
-#EXTINF:0 group-title="Film",HBO Hits
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4q5rk9bp/index.m3u8
-#EXTINF:0 group-title="Film",HBO signature
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/z0h6sz7m/index.m3u8
-#EXTINF:0 group-title="Film",HBO family
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/fjkgbjsr/index.m3u8
-#EXTINF:0 group-title="Film",FX HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jkrn3m0w/index.m3u8
-#EXTINF:0 group-title="Film",FOX HD 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/c2pk36b8/index.m3u8
-#EXTINF:0 group-title="Film",FOX CRIME 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/b9gnc85x/index.m3u8
-#EXTINF:0 group-title="Film",FOX 家庭
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q1t3r7z7/index.m3u8
-#EXTINF:0 group-title="Film",CinemaWorld
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/wrn6wjz7/index.m3u8
-#EXTINF:0 group-title="Film",天映頻道
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/tz7c94tk/index.m3u8
-#EXTINF:0 group-title="Film",衛視中文臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/vhfcgvgr/index.m3u8
-#EXTINF:0 group-title="Film",衛視闔家歡
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/k4hn53c8/index.m3u8
-#EXTINF:0 group-title="Film",China Movie
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/3z7vs7gw/index.m3u8
-#EXTINF:0 group-title="Film",衛視Film臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/63t80c5p/index.m3u8
-#EXTINF:0 group-title="Film",CINEMAX
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/w6stt0q8/index.m3u8
-#EXTINF:0 group-title="Film",星衛FilmHD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/6s69fnjz/index.m3u8
-#EXTINF:0 group-title="Film",好萊塢Film
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/q0rskj6h/index.m3u8
-#EXTINF:0 group-title="Film",星衛娛樂臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/sps6gxp6/index.m3u8
-#EXTINF:0 group-title="Film",美亞Film臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/4vphhg1h/index.m3u8
-#EXTINF:0 group-title="Film",衛視西片 
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/1vnt5wqn/index.m3u8
-#EXTINF:0 group-title="Film",龍祥時代
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0xz20xk6/index.m3u8
-#EXTINF:0 group-title="International",Mezzo Live HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/x4g2r45t/index.m3u8
-
-#EXTINF:0 group-title="International",AMC
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/snz9g8cs/index.m3u8
-#EXTINF:0 group-title="International",法蘭西24法语
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/82cwq07f/index.m3u8
-#EXTINF:0 group-title="International",法蘭西24（英語）
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/5r7bc98t/index.m3u8
-#EXTINF:0 group-title="International",tvN
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8wk7r3sc/index.m3u8
-#EXTINF:0 group-title="International",MTV
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rzr7nkgm/index.m3u8
-#EXTINF:0 group-title="International",V音樂臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/h2v57xqv/index.m3u8
-#EXTINF:0 group-title="International",CNBC
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/wnfjf1pn/index.m3u8
-#EXTINF:0 group-title="International",MTV Live
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hxw70zz5/index.m3u8
-#EXTINF:0 group-title="International",LUXE TV
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/c29zkw81/index.m3u8
-#EXTINF:0 group-title="International",fyi
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/61br3tqt/index.m3u8
-#EXTINF:0 group-title="International",NHK
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/wr7xmxgr/index.m3u8
-#EXTINF:0 group-title="International",nhk1
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/gjqtxw9b/index.m3u8
-#EXTINF:0 group-title="International",BBC
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/93n722x2/index.m3u8
-#EXTINF:0 group-title="International",BBC earth HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cbpz1qrf/index.m3u8
-#EXTINF:0 group-title="International",BBC Lifestyle HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/wq2z42th/index.m3u8
-#EXTINF:0 group-title="International",sundance channel
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/j76qg6zv/index.m3u8
-#EXTINF:0 group-title="International",CI 罪案偵緝
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rw55z1xs/index.m3u8
-#EXTINF:0 group-title="International",DW-TV
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/5g2z36jg/index.m3u8
-#EXTINF:0 group-title="International",catchplay HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/mgshbq4p/index.m3u8
-#EXTINF:0 group-title="International",法國時裝
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/qnrv0r58/index.m3u8
-#EXTINF:0 group-title="International",OUTDOOR
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8sbkj5sh/index.m3u8
-#EXTINF:0 group-title="International",channel V
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/2981w9zw/index.m3u8
-#EXTINF:0 group-title="International",新加坡亞洲CHANNEL NEWSASIA
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/hm8879b2/index.m3u8
-#EXTINF:0 group-title="International",今日俄羅斯
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/n8q2h33x/index.m3u8
-#EXTINF:0 group-title="International",disney junior
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/7g9p5369/index.m3u8
-#EXTINF:0 group-title="International",MTV
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/g3qpp8xw/index.m3u8
-
-#EXTINF:0 group-title="Mainland",CCTV-1 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jgcz990f/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-2
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/7br6tfc7/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-3 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/610m2pq2/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-4
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/z1z0qgmt/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-5 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8p5jrfhk/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-5+ HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/n8pwh7zv/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-6 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/494r502h/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-7
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/trqqc7bx/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-8 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jkzkt5sh/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-9 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/23nc5ktw/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-10 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/s9fb5tsw/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-11
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/8pp5sbrj/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-12
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/722m6jv4/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-13
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/3zggm45n/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-14
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/483f4944/index.m3u8
-#EXTINF:0 group-title="Mainland",CCTV-15
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/t0j79f8c/index.m3u8
-#EXTINF:0 group-title="Mainland",南方2臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/sbrv7wjz/index.m3u8
-#EXTINF:0 group-title="Mainland",珠江臺
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/kx6qpf3x/index.m3u8
-#EXTINF:0 group-title="Mainland",廣東Sport
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/0xq2rx02/index.m3u8
-#EXTINF:0 group-title="Mainland",風雲足球
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rh3j4j4b/index.m3u8
-#EXTINF:0 group-title="Mainland",怀舊劇场
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/g77p9zrc/index.m3u8
-#EXTINF:0 group-title="Mainland",高尔夫網球
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/bj6611m5/index.m3u8
-#EXTINF:0 group-title="Mainland",中華美食
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rhtthmp1/index.m3u8
-#EXTINF:0 group-title="Mainland",湖南衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/qtj1jx16/index.m3u8
-#EXTINF:0 group-title="Mainland",東方衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/zvstjgb3/index.m3u8
-#EXTINF:0 group-title="Mainland",浙江衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/c0j26t0r/index.m3u8
-#EXTINF:0 group-title="Mainland",江苏衛視 HD
-ttp://i0320.lnmtzv.boxtv.win/live/kwzq1rse/f95ngkwq/index.m3u8
-#EXTINF:0 group-title="Mainland",深圳衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/5ng3b4fx/index.m3u8
-#EXTINF:0 group-title="Mainland",辽宁衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/3qb2j6nc/index.m3u8
-#EXTINF:0 group-title="Mainland",重庆衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/bcz5x1cr/index.m3u8
-#EXTINF:0 group-title="Mainland",黑龍江衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/htvjvvhf/index.m3u8
-#EXTINF:0 group-title="Mainland",河北衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jj404093/index.m3u8
-#EXTINF:0 group-title="Mainland",青海衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/c8wfnrgw/index.m3u8
-#EXTINF:0 group-title="Mainland",湖北衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/zg8m3znc/index.m3u8
-#EXTINF:0 group-title="Mainland",四川衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/w3zfb5rh/index.m3u8
-#EXTINF:0 group-title="Mainland",贵州衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/k982x8c8/index.m3u8
-#EXTINF:0 group-title="Mainland",廣西衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/rgbxs8j7/index.m3u8
-#EXTINF:0 group-title="Mainland",河南衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/7sjqk5ws/index.m3u8
-#EXTINF:0 group-title="Mainland",福建東南衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/64rv5hgz/index.m3u8
-#EXTINF:0 group-title="Mainland",宁夏衛視
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/jmgfmzqq/index.m3u8
-#EXTINF:0 group-title="Mainland",天津衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/spr8mxjs/index.m3u8
-#EXTINF:0 group-title="Mainland",北京衛視 HD
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cmgw1gqb/index.m3u8
-#EXTINF:0 group-title="Mainland",新視觉
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/3vs0p17g/index.m3u8
-#EXTINF:0 group-title="Mainland",都市劇场
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/n35bh0f3/index.m3u8
-
-#EXTINF:0 group-title="Test",F24
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/bevbfdse/index.m3u8
-
-
-
-#EXTINF:0 group-title="MTVHongKong",TVB翡翠台
+#EXTINF:0 group-title="HongKong",TVB翡翠台
 http://acm.gg/inews.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",TVB无线财经台
+#EXTINF:0 group-title="HongKong",TVB无线财经台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
  
-#EXTINF:0 group-title="MTVHongKong",天映經典台
+#EXTINF:0 group-title="HongKong",天映經典台
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/4gtv-4gtv112-video=3000000-audio_AACL_und_60000_600=60000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",寰宇新聞台
+#EXTINF:0 group-title="HongKong",寰宇新聞台
 http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn14/litv-pc/litv-longturn14-video=2936000-audio_AACL_und_65600_293=65600.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",寰宇新聞二
+#EXTINF:0 group-title="HongKong",寰宇新聞二
 http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/litv-longturn15-video=2936000-audio_AACL_und_65600_293=65600.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",龍華电影台
+#EXTINF:0 group-title="HongKong",龍華电影台
 http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn03/litv-pc/litv-longturn03-video=2936000-audio_AACL_und_64000_34=64000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",龍華偶像台
+#EXTINF:0 group-title="HongKong",龍華偶像台
 http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn12/litv-pc/litv-longturn12-video=2936000-audio_AACL_und_64000_34=64000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",龍華戲劇台
+#EXTINF:0 group-title="HongKong",龍華戲劇台
 http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn18/litv-pc/litv-longturn18-video=2936000-audio_AACL_und_65600_293=65600.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",龍華日韓台
+#EXTINF:0 group-title="HongKong",龍華日韓台
 http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn11/litv-pc/litv-longturn11-video=2936000-audio_AACL_und_64000_34=64000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",龍華卡通台
+#EXTINF:0 group-title="HongKong",龍華卡通台
 http://hivideo-videorent.cdn.hinet.net/live/pool/litv-longturn01/litv-pc/litv-longturn01-video=2936000-audio_AACL_und_64000_34=64000.m3u8
  
-#EXTINF:0 group-title="MTVHongKong",Focus风采戏剧
+#EXTINF:0 group-title="HongKong",Focus风采戏剧
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv100/litv-tv/4gtv-4gtv100-video=800000-audio_AACL_und_67000_600=67000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",Focus精彩戏剧
+#EXTINF:0 group-title="HongKong",Focus精彩戏剧
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv102/litv-tv/4gtv-4gtv102-video=800000-audio_AACL_und_68000_600=68000.m3u8
    
-#EXTINF:0 group-title="MTVHongKong",Focus欢乐综合
+#EXTINF:0 group-title="HongKong",Focus欢乐综合
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv104/litv-tv/4gtv-4gtv104-video=800000-audio_AACL_und_71000_600=71000.m3u8
   
-#EXTINF:0 group-title="MTVHongKong",Focus焦点电影
+#EXTINF:0 group-title="HongKong",Focus焦点电影
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-tv/4gtv-4gtv053-video=800000-audio_AACL_und_75000_600=75000.m3u8
       
-#EXTINF:0 group-title="MTVHongKong",民视综艺HD
+#EXTINF:0 group-title="HongKong",民视综艺HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv004/litv-pc/4gtv-4gtv004-video=3000000-audio_AACL_und_69000_600=69000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",民视第一台
+#EXTINF:0 group-title="HongKong",民视第一台
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv003/litv-pc/4gtv-4gtv003-video=3000000-audio_AACL_und_49000_600=49000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",民视台湾台HD
+#EXTINF:0 group-title="HongKong",民视台湾台HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv001/litv-pc/4gtv-4gtv001-video=3000000-audio_AACL_und_64000_600=64000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",民视HD
+#EXTINF:0 group-title="HongKong",民视HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv002/litv-pc/4gtv-4gtv002-video=3000000-audio_AACL_und_129000_600=129000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",台视HD
+#EXTINF:0 group-title="HongKong",台视HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-tv/4gtv-4gtv066-video=3000000-audio_AACL_und_135000_600=135000.m3u8
  
-#EXTINF:0 group-title="MTVHongKong",中视HD
+#EXTINF:0 group-title="HongKong",中视HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv040/litv-pc/4gtv-4gtv040-video=3000000-audio_AACL_und_137000_600=137000.m3u8
     
-#EXTINF:0 group-title="MTVHongKong",公视2HD
+#EXTINF:0 group-title="HongKong",公视2HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/4gtv-4gtv107-video=3000000-audio_AACL_und_70000_600=70000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",台视新闻HD
+#EXTINF:0 group-title="HongKong",台视新闻HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv051/litv-tv/4gtv-4gtv051-video=3000000-audio_AACL_und_66000_600=66000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",中视新闻HD
+#EXTINF:0 group-title="HongKong",中视新闻HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv074/litv-pc/4gtv-4gtv074-video=3000000-audio_AACL_und_65000_600=65000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",中天新闻HD
+#EXTINF:0 group-title="HongKong",中天新闻HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv009/litv-pc/4gtv-4gtv009-video=3000000-audio_AACL_und_59000_600=59000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",非凡新闻HD
+#EXTINF:0 group-title="HongKong",非凡新闻HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/4gtv-4gtv010-video=3000000-audio_AACL_und_53000_600=53000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",TVBS新闻台HD
+#EXTINF:0 group-title="HongKong",TVBS新闻台HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/4gtv-4gtv072-video=3000000-audio_AACL_und_62000_600=62000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",TVBS精采台HD
+#EXTINF:0 group-title="HongKong",TVBS精采台HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv067/litv-pc/4gtv-4gtv067-video=3000000-audio_AACL_und_130000_600=130000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",TVBS
+#EXTINF:0 group-title="HongKong",TVBS
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv073/litv-pc/4gtv-4gtv073-video=3000000-audio_AACL_und_57000_600=57000.m3u8
     
-#EXTINF:0 group-title="MTVHongKong",华视新闻资讯
+#EXTINF:0 group-title="HongKong",华视新闻资讯
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv052/litv-pc/4gtv-4gtv052-video=3000000-audio_AACL_und_60000_600=60000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",东森财经新闻
+#EXTINF:0 group-title="HongKong",东森财经新闻
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv019/litv-tv/4gtv-4gtv019-video=3000000-audio_AACL_und_65600_545=65600.m3u8
  
-#EXTINF:0 group-title="MTVHongKong",采昌影劇台
+#EXTINF:0 group-title="HongKong",采昌影劇台
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv049/litv-pc/4gtv-4gtv049-video=3000000-audio_AACL_und_65000_600=65000.m3u8
   
-#EXTINF:0 group-title="MTVHongKong",影迷数位HD
+#EXTINF:0 group-title="HongKong",影迷数位HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/4gtv-4gtv011-video=3000000-audio_AACL_und_65000_600=65000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",靖洋戏剧台HD
+#EXTINF:0 group-title="HongKong",靖洋戏剧台HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv045/litv-pc/4gtv-4gtv045-video=3000000-audio_AACL_und_66000_600=66000.m3u8
   
-#EXTINF:0 group-title="MTVHongKong",靖天电影台HD
+#EXTINF:0 group-title="HongKong",靖天电影台HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv061/litv-pc/4gtv-4gtv061-video=3000000-audio_AACL_und_68000_600=68000.m3u8
   
-#EXTINF:0 group-title="MTVHongKong",靖天育乐台HD
+#EXTINF:0 group-title="HongKong",靖天育乐台HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv062/litv-tv/4gtv-4gtv062-video=3000000-audio_AACL_und_64000_600=64000.m3u8
      
-#EXTINF:0 group-title="MTVHongKong",靖天日本台HD
+#EXTINF:0 group-title="HongKong",靖天日本台HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv047/litv-pc/4gtv-4gtv047-video=3000000-audio_AACL_und_65000_600=65000.m3u8
   
-#EXTINF:0 group-title="MTVHongKong",靖天卡通台HD
+#EXTINF:0 group-title="HongKong",靖天卡通台HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv044/litv-tv/4gtv-4gtv044-video=3000000-audio_AACL_und_65000_600=65000.m3u8
    
-#EXTINF:0 group-title="MTVHongKong",爱尔达娱乐HD
+#EXTINF:0 group-title="HongKong",爱尔达娱乐HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv070/litv-pc/4gtv-4gtv070-video=3000000-audio_AACL_und_67000_600=67000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",亲子台
+#EXTINF:0 group-title="HongKong",亲子台
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv111/litv-pc/4gtv-4gtv111-video=3000000-audio_AACL_und_64000_600=64000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",东森亚洲卫视
+#EXTINF:0 group-title="HongKong",东森亚洲卫视
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv020/litv-tv/4gtv-4gtv020-video=3000000-audio_AACL_und_65600_545=65600.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",东森亚洲幼幼
+#EXTINF:0 group-title="HongKong",东森亚洲幼幼
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/4gtv-4gtv021--video=3000000-audio_AACL_und_59000_600=59000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",韩国娱乐
+#EXTINF:0 group-title="HongKong",韩国娱乐
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv016/litv-tv/4gtv-4gtv016-video=3000000-audio_AACL_und_60000_600=60000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",CNEX视纳纪实HD
+#EXTINF:0 group-title="HongKong",CNEX视纳纪实HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv013/litv-pc/4gtv-4gtv013--video=3000000-audio_AACL_und_61000_600=61000.m3u8
    
-#EXTINF:0 group-title="MTVHongKong",凤梨直击台
+#EXTINF:0 group-title="HongKong",凤梨直击台
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv035/litv-pc/4gtv-4gtv035-video=3000000-audio_AACL_und_8000_600=8000.m3u8
     
-#EXTINF:0 group-title="MTVHongKong",香蕉直击台
+#EXTINF:0 group-title="HongKong",香蕉直击台
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv038/litv-pc/4gtv-4gtv038-video=3000000-audio_AACL_und_8000_600=8000.m3u8
    
-#EXTINF:0 group-title="MTVHongKong",新唐人亚太台
+#EXTINF:0 group-title="HongKong",新唐人亚太台
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv050/litv-pc/4gtv-4gtv050-video=3000000-audio_AACL_und_68000_600=68000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",猪哥会社
+#EXTINF:0 group-title="HongKong",猪哥会社
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv006/litv-pc/4gtv-4gtv006-video=3000000-audio_AACL_und_65000_600=65000.m3u8
  
-#EXTINF:0 group-title="MTVHongKong",空中英语教室
+#EXTINF:0 group-title="HongKong",空中英语教室
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv012/litv-pc/4gtv-4gtv012-video=3000000-audio_AACL_und_66000_600=66000.m3u8
      
-#EXTINF:0 group-title="MTVHongKong",CI罪案追查HD
+#EXTINF:0 group-title="HongKong",CI罪案追查HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv027/litv-pc/4gtv-4gtv027-video=3000000-audio_AACL_und_62000_600=62000.m3u8
      
-#EXTINF:0 group-title="MTVHongKong",COMEDY爆笑HD
+#EXTINF:0 group-title="HongKong",COMEDY爆笑HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/4gtv-4gtv024-video=3000000-audio_AACL_und_65000_600=65000.m3u8
     
-#EXTINF:0 group-title="MTVHongKong",MTV HD
+#EXTINF:0 group-title="HongKong",MTV HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv025/litv-pc/4gtv-4gtv025-video=3000000-audio_AACL_und_59000_600=59000.m3u8
   
-#EXTINF:0 group-title="MTVHongKong",History歷史頻道
+#EXTINF:0 group-title="HongKong",History歷史頻道
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv026/litv-pc/4gtv-4gtv026-video=3000000-audio_AACL_und_70000_600=70000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",FYI HD
+#EXTINF:0 group-title="HongKong",FYI HD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv031/litv-pc/4gtv-4gtv031-video=3000000-audio_AACL_und_65000_600=65000.m3u8
    
-#EXTINF:0 group-title="MTVHongKong",ORLANDOHD
+#EXTINF:0 group-title="HongKong",ORLANDOHD
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/4gtv-4gtv034-video=3000000-audio_AACL_und_63000_600=63000.m3u8
  
-#EXTINF:0 group-title="MTVHongKong",爱I万物论
+#EXTINF:0 group-title="HongKong",爱I万物论
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/4gtv-4gtv107-video=3000000-audio_AACL_und_67000_600=67000.m3u8
 
-#EXTINF:0 group-title="MTVHongKong",VTV4
+#EXTINF:0 group-title="HongKong",VTV4
 http://hivideo-videorent.cdn.hinet.net/live/pool/4gtv-4gtv108/litv-pc/4gtv-4gtv108-video=3000000-audio_AACL_und_59000_600=59000.m3u8
              
 
 
 
-#EXTINF:0 group-title="MTV战 旗",战旗影视1
+#EXTINF:0 group-title="战 旗",战旗影视1
 http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
         
-#EXTINF:0 group-title="MTV战 旗",战旗影视2
+#EXTINF:0 group-title="战 旗",战旗影视2
 http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
        
-#EXTINF:0 group-title="MTV战 旗",战旗影视3
+#EXTINF:0 group-title="战 旗",战旗影视3
 http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
        
-#EXTINF:0 group-title="MTV战 旗",战旗影视5
+#EXTINF:0 group-title="战 旗",战旗影视5
 http://alhls.cdn.zhanqi.tv/zqlive/98181_yzd0x.m3u8
             
-#EXTINF:0 group-title="MTV战 旗",战旗影视6
+#EXTINF:0 group-title="战 旗",战旗影视6
 http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
         
-#EXTINF:0 group-title="MTV战 旗",战旗影视7
+#EXTINF:0 group-title="战 旗",战旗影视7
 http://alhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
           
-#EXTINF:0 group-title="MTV战 旗",战旗影视8
+#EXTINF:0 group-title="战 旗",战旗影视8
 http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
          
-#EXTINF:0 group-title="MTV战 旗",战旗影视9
+#EXTINF:0 group-title="战 旗",战旗影视9
 http://alhls.cdn.zhanqi.tv/zqlive/44509_4oiYY.m3u8
            
-#EXTINF:0 group-title="MTV战 旗",战旗影视10
+#EXTINF:0 group-title="战 旗",战旗影视10
 http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
         
-#EXTINF:0 group-title="MTV战 旗",战旗影视11
+#EXTINF:0 group-title="战 旗",战旗影视11
 http://alhls.cdn.zhanqi.tv/zqlive/130564_7PZZr.m3u8
             
-#EXTINF:0 group-title="MTV战 旗",战旗影视14
+#EXTINF:0 group-title="战 旗",战旗影视14
 http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
            
-#EXTINF:0 group-title="MTV战 旗",战旗影视15
+#EXTINF:0 group-title="战 旗",战旗影视15
 http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8
          
-#EXTINF:0 group-title="MTV战 旗",战旗影视16
+#EXTINF:0 group-title="战 旗",战旗影视16
 http://alhls.cdn.zhanqi.tv/zqlive/185488_aff4a.m3u8
           
-#EXTINF:0 group-title="MTV战 旗",战旗影视17
+#EXTINF:0 group-title="战 旗",战旗影视17
 http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8
         
-#EXTINF:0 group-title="MTV战 旗",战旗影视18
+#EXTINF:0 group-title="战 旗",战旗影视18
 http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8
   
-#EXTINF:0 group-title="MTV战 旗",战旗影视19
+#EXTINF:0 group-title="战 旗",战旗影视19
 http://alhls.cdn.zhanqi.tv/zqlive/199742_KLCj3.m3u8
          
-#EXTINF:0 group-title="MTV战 旗",战旗影视26
+#EXTINF:0 group-title="战 旗",战旗影视26
 http://alhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
             
-#EXTINF:0 group-title="MTV战 旗",战旗影视28
+#EXTINF:0 group-title="战 旗",战旗影视28
 http://alhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
            
-#EXTINF:0 group-title="MTV战 旗",战旗影视32
+#EXTINF:0 group-title="战 旗",战旗影视32
 http://alhls.cdn.zhanqi.tv/zqlive/241840_hRxc9.m3u8
             
-#EXTINF:0 group-title="MTV战 旗",战旗影视33
+#EXTINF:0 group-title="战 旗",战旗影视33
 http://alhls.cdn.zhanqi.tv/zqlive/5993_qvXCc.m3u8
     ,
-#EXTINF:0 group-title="MTV战 旗",战旗影视34
+#EXTINF:0 group-title="战 旗",战旗影视34
 http://alhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
        
-#EXTINF:0 group-title="MTV战 旗",战旗影视35
+#EXTINF:0 group-title="战 旗",战旗影视35
 http://alhls.cdn.zhanqi.tv/zqlive/154733_xcVyM.m3u8
     
-#EXTINF:0 group-title="MTV战 旗",战旗影视38
+#EXTINF:0 group-title="战 旗",战旗影视38
 http://alhls.cdn.zhanqi.tv/zqlive/20910_uUMgC.m3u8
      
-#EXTINF:0 group-title="MTV战 旗",战旗影视39
+#EXTINF:0 group-title="战 旗",战旗影视39
 http://alhls.cdn.zhanqi.tv/zqlive/126370_0hvOC.m3u8
      
-#EXTINF:0 group-title="MTV战 旗",战旗影视40
+#EXTINF:0 group-title="战 旗",战旗影视40
 http://alhls.cdn.zhanqi.tv/zqlive/229872_1H0mG.m3u8
  
-#EXTINF:0 group-title="MTV战 旗",战旗影视41
+#EXTINF:0 group-title="战 旗",战旗影视41
 http://alhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
      
-#EXTINF:0 group-title="MTV战 旗",战旗影视42
+#EXTINF:0 group-title="战 旗",战旗影视42
 http://alhls.cdn.zhanqi.tv/zqlive/181869_nWqp2.m3u8
        
-#EXTINF:0 group-title="MTV战 旗",战旗影视43
+#EXTINF:0 group-title="战 旗",战旗影视43
 http://alhls.cdn.zhanqi.tv/zqlive/113044_4l4ji.m3u8
        
-#EXTINF:0 group-title="MTV战 旗",战旗影视47
+#EXTINF:0 group-title="战 旗",战旗影视47
 http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
      
-#EXTINF:0 group-title="MTV战 旗",战旗影视48
+#EXTINF:0 group-title="战 旗",战旗影视48
 http://alhls.cdn.zhanqi.tv/zqlive/191181_AkuOW.m3u8
        
-#EXTINF:0 group-title="MTV战 旗",战旗影视49
+#EXTINF:0 group-title="战 旗",战旗影视49
 http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
     
-#EXTINF:0 group-title="MTV战 旗",战旗影视50
+#EXTINF:0 group-title="战 旗",战旗影视50
 http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
    
-#EXTINF:0 group-title="MTV战 旗",战旗影视52
+#EXTINF:0 group-title="战 旗",战旗影视52
 http://alhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8
      
-#EXTINF:0 group-title="MTV战 旗",战旗影视53
+#EXTINF:0 group-title="战 旗",战旗影视53
 http://alhls.cdn.zhanqi.tv/zqlive/127524_mcQNz.m3u8
        
-#EXTINF:0 group-title="MTV战 旗",战旗影视54
+#EXTINF:0 group-title="战 旗",战旗影视54
 http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
       
-#EXTINF:0 group-title="MTV战 旗",战旗影视56
+#EXTINF:0 group-title="战 旗",战旗影视56
 http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
      
-#EXTINF:0 group-title="MTV战 旗",战旗影视57
+#EXTINF:0 group-title="战 旗",战旗影视57
 http://alhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8
      
-#EXTINF:0 group-title="MTV战 旗",战旗影视58
+#EXTINF:0 group-title="战 旗",战旗影视58
 http://alhls.cdn.zhanqi.tv/zqlive/236424_BKmHh.m3u8
 
-#EXTINF:0 group-title="MTV战 旗",战旗影视60
+#EXTINF:0 group-title="战 旗",战旗影视60
 http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
   
-#EXTINF:0 group-title="MTV战 旗",战旗影视69
+#EXTINF:0 group-title="战 旗",战旗影视69
 http://alhls.cdn.zhanqi.tv/zqlive/253141_MSzar.m3u8
        
 
@@ -2034,885 +1524,3 @@ http://zzcs1.ott.henancatv.com/mlive/172_30_100_78_/cdn_proxy/os_ott_henancatv_c
 http://mtv.sun0769.com/dgrtv1/mp4:tv1/index.m3u8
 #EXTINF:0 group-title="27March",东莞公共
 http://mtv.sun0769.com/dgrtv1/mp4:tv2/index.m3u8
-
-
-
-
-#EXTINF:0 group-title="UK",BBC 1 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1826.ts
-#EXTINF:0 group-title="UK",BBC TWO V
-http://142.44.212.105:8000/live/andrew1/andrew1/4645.ts
-#EXTINF:0 group-title="UK",BBC 2
-http://142.44.212.105:8000/live/andrew1/andrew1/1824.ts
-#EXTINF:0 group-title="UK",BBC 2 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1825.ts
-#EXTINF:0 group-title="UK",CHANNEL 4
-http://142.44.212.105:8000/live/andrew1/andrew1/1815.ts
-#EXTINF:0 group-title="UK",CHANNEL 4 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1814.ts
-#EXTINF:0 group-title="UK",CHANNEL 5
-http://142.44.212.105:8000/live/andrew1/andrew1/1811.ts
-#EXTINF:0 group-title="UK",CHANNEL 5 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1813.ts
-#EXTINF:0 group-title="UK",ITV V
-http://142.44.212.105:8000/live/andrew1/andrew1/4636.ts
-#EXTINF:0 group-title="UK",ITV 1 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1821.ts
-#EXTINF:0 group-title="UK", ITV2
-http://142.44.212.105:8000/live/andrew1/andrew1/8603.ts
-#EXTINF:0 group-title="UK",ITV 2
-http://142.44.212.105:8000/live/andrew1/andrew1/1819.ts
-#EXTINF:0 group-title="UK", ITV3
-http://142.44.212.105:8000/live/andrew1/andrew1/8602.ts
-#EXTINF:0 group-title="UK",ITV 3 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1818.ts
-#EXTINF:0 group-title="UK",ITV4
-http://142.44.212.105:8000/live/andrew1/andrew1/8601.ts
-#EXTINF:0 group-title="UK",ITV 4 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1817.ts
-#EXTINF:0 group-title="UK",ITVBE
-http://142.44.212.105:8000/live/andrew1/andrew1/1816.ts
-#EXTINF:0 group-title="UK",SKY 1
-http://142.44.212.105:8000/live/andrew1/andrew1/2753.ts
-#EXTINF:0 group-title="UK",SKY 1 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1758.ts
-#EXTINF:0 group-title="UK",SKY 2
-http://142.44.212.105:8000/live/andrew1/andrew1/2754.ts
-#EXTINF:0 group-title="UK",SKY TWO
-http://142.44.212.105:8000/live/andrew1/andrew1/1756.ts
-#EXTINF:0 group-title="UK",SKY ATLANTIC
-http://142.44.212.105:8000/live/andrew1/andrew1/545.ts
-#EXTINF:0 group-title="UK",SKY ATLANTIC SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4263.ts
-#EXTINF:0 group-title="UK",5 STAR
-http://142.44.212.105:8000/live/andrew1/andrew1/1810.ts
-#EXTINF:0 group-title="UK",3E
-http://142.44.212.105:8000/live/andrew1/andrew1/1751.ts
-#EXTINF:0 group-title="UK",4 SEVEN HD
-http://142.44.212.105:8000/live/andrew1/andrew1/3335.ts
-#EXTINF:0 group-title="UK",ALIBI
-http://142.44.212.105:8000/live/andrew1/andrew1/1750.ts
-#EXTINF:0 group-title="UK",UNIVERSAL 1
-http://142.44.212.105:8000/live/andrew1/andrew1/4272.ts
-#EXTINF:0 group-title="UK",UNIVERSAL
-http://142.44.212.105:8000/live/andrew1/andrew1/4273.ts
-#EXTINF:0 group-title="UK",WATCH
-http://142.44.212.105:8000/live/andrew1/andrew1/1733.ts
-#EXTINF:0 group-title="UK",COMEDY CENTRAL
-http://142.44.212.105:8000/live/andrew1/andrew1/1740.ts
-#EXTINF:0 group-title="UK",DAVE
-http://142.44.212.105:8000/live/andrew1/andrew1/1741.ts
-#EXTINF:0 group-title="UK",DAVE 1
-http://142.44.212.105:8000/live/andrew1/andrew1/7594.ts
-#EXTINF:0 group-title="UK",ITV
-http://142.44.212.105:8000/live/andrew1/andrew1/1820.ts
-#EXTINF:0 group-title="UK",MORE 4
-http://142.44.212.105:8000/live/andrew1/andrew1/1735.ts
-#EXTINF:0 group-title="UK",REALLY
-http://142.44.212.105:8000/live/andrew1/andrew1/1742.ts
-#EXTINF:0 group-title="UK",SPIKE
-http://142.44.212.105:8000/live/andrew1/andrew1/696.ts
-#EXTINF:0 group-title="UK",E
-http://142.44.212.105:8000/live/andrew1/andrew1/1748.ts
-#EXTINF:0 group-title="UK",E!
-http://142.44.212.105:8000/live/andrew1/andrew1/2768.ts
-#EXTINF:0 group-title="UK",E4
-http://142.44.212.105:8000/live/andrew1/andrew1/1747.ts
-#EXTINF:0 group-title="UK",E4 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1746.ts
-#EXTINF:0 group-title="UK",CBS ACTION
-http://142.44.212.105:8000/live/andrew1/andrew1/1702.ts
-#EXTINF:0 group-title="UK",CBS DRAMA
-http://142.44.212.105:8000/live/andrew1/andrew1/1701.ts
-#EXTINF:0 group-title="UK",SYFY
-http://142.44.212.105:8000/live/andrew1/andrew1/1738.ts
-#EXTINF:0 group-title="UK",FOX
-http://142.44.212.105:8000/live/andrew1/andrew1/683.ts
-#EXTINF:0 group-title="UK",GOLD
-http://142.44.212.105:8000/live/andrew1/andrew1/1737.ts
-#EXTINF:0 group-title="UK",IRISH TV
-http://142.44.212.105:8000/live/andrew1/andrew1/685.ts
-#EXTINF:0 group-title="UK",BBC FOUR
-http://142.44.212.105:8000/live/andrew1/andrew1/1822.ts
-#EXTINF:0 group-title="UK",BBC THREE
-http://142.44.212.105:8000/live/andrew1/andrew1/1823.ts
-#EXTINF:0 group-title="UK",JUST ONE TV
-http://142.44.212.105:8000/live/andrew1/andrew1/5579.ts
-#EXTINF:0 group-title="UK",LIFETIME
-http://142.44.212.105:8000/live/andrew1/andrew1/7593.ts
-#EXTINF:0 group-title="UK",PICK TV
-http://142.44.212.105:8000/live/andrew1/andrew1/689.ts
-#EXTINF:0 group-title="UK",SONY TV UK
-http://142.44.212.105:8000/live/andrew1/andrew1/3289.ts
-#EXTINF:0 group-title="UK",RTE ONE
-http://142.44.212.105:8000/live/andrew1/andrew1/692.ts
-#EXTINF:0 group-title="UK",RTE TWO
-http://142.44.212.105:8000/live/andrew1/andrew1/693.ts
-#EXTINF:0 group-title="UK",SKY ART!!
-http://142.44.212.105:8000/live/andrew1/andrew1/3348.ts
-#EXTINF:0 group-title="UK",SKY ARTS
-http://142.44.212.105:8000/live/andrew1/andrew1/694.ts
-#EXTINF:0 group-title="UK",S4C
-http://142.44.212.105:8000/live/andrew1/andrew1/1723.ts
-#EXTINF:0 group-title="UK",SKY LIVING
-http://142.44.212.105:8000/live/andrew1/andrew1/2912.ts
-#EXTINF:0 group-title="UK",TG 4
-http://142.44.212.105:8000/live/andrew1/andrew1/3263.ts
-#EXTINF:0 group-title="UK",TLC
-http://142.44.212.105:8000/live/andrew1/andrew1/1732.ts
-#EXTINF:0 group-title="UK",QUEST
-http://142.44.212.105:8000/live/andrew1/andrew1/9066.ts
-#EXTINF:0 group-title="UK",COMEDY CENTRAL HD L
-http://142.44.212.105:8000/live/andrew1/andrew1/10431.ts
-#EXTINF:0 group-title="UK", SKY LIVING HD L
-http://142.44.212.105:8000/live/andrew1/andrew1/10438.ts
-
-
-#EXTINF:0 group-title="UK DOCUMENTARY",ANIMAL  PLANET
-http://142.44.212.105:8000/live/andrew1/andrew1/9063.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",ANIMAL PLANET
-http://142.44.212.105:8000/live/andrew1/andrew1/677.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",CBS REALITY
-http://142.44.212.105:8000/live/andrew1/andrew1/1700.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",CRIME INVESTIGATION
-http://142.44.212.105:8000/live/andrew1/andrew1/4259.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY
-http://142.44.212.105:8000/live/andrew1/andrew1/553.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY  TURBO
-http://142.44.212.105:8000/live/andrew1/andrew1/682.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY CHANNEL
-http://142.44.212.105:8000/live/andrew1/andrew1/698.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY HISTORY
-http://142.44.212.105:8000/live/andrew1/andrew1/681.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY INVESTIGATION
-http://142.44.212.105:8000/live/andrew1/andrew1/684.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY SCIENCE
-http://142.44.212.105:8000/live/andrew1/andrew1/680.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY SCIENCE 1
-http://142.44.212.105:8000/live/andrew1/andrew1/700.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",DISCOVERY SHED
-http://142.44.212.105:8000/live/andrew1/andrew1/9074.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",YESTERDAY
-http://142.44.212.105:8000/live/andrew1/andrew1/1736.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",EDEN
-http://142.44.212.105:8000/live/andrew1/andrew1/1799.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",FOOD NETWORK
-http://142.44.212.105:8000/live/andrew1/andrew1/1722.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",GOOD FOOD
-http://142.44.212.105:8000/live/andrew1/andrew1/1721.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",H2
-http://142.44.212.105:8000/live/andrew1/andrew1/1803.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",HISTORY
-http://142.44.212.105:8000/live/andrew1/andrew1/7277.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",HISTORY 1
-http://142.44.212.105:8000/live/andrew1/andrew1/7278.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",HOME
-http://142.44.212.105:8000/live/andrew1/andrew1/1730.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",HOME&HEALTH
-http://142.44.212.105:8000/live/andrew1/andrew1/9065.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",HORSE & COUNTRY
-http://142.44.212.105:8000/live/andrew1/andrew1/9800.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",HORSE COUNTRY
-http://142.44.212.105:8000/live/andrew1/andrew1/1695.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",ID
-http://142.44.212.105:8000/live/andrew1/andrew1/3339.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",NATIONAL  GEO
-http://142.44.212.105:8000/live/andrew1/andrew1/552.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",NAT GEO WILD
-http://142.44.212.105:8000/live/andrew1/andrew1/1806.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",NATIONAL GEOGRAPHIC
-http://142.44.212.105:8000/live/andrew1/andrew1/1801.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",RUSSIA DOCUMENTARY
-http://142.44.212.105:8000/live/andrew1/andrew1/1805.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",TRAVEL CHANNEL
-http://142.44.212.105:8000/live/andrew1/andrew1/1804.ts
-#EXTINF:0 group-title="UK DOCUMENTARY",UK CRIME AND INV
-http://142.44.212.105:8000/live/andrew1/andrew1/4663.ts
-
-
-
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS NEWS HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/562.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORT NEWS HQ HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8685.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS MAIN EVENT HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/2752.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS MAIN EVENT SD
-http://142.44.212.105:8000/live/andrew1/andrew1/557.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS CRICKET HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/2751.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS CRICKET HD
-http://142.44.212.105:8000/live/andrew1/andrew1/558.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS FOOTBALL HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/9076.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORT FOOTBALL V
-http://142.44.212.105:8000/live/andrew1/andrew1/4649.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS PREMIER  LEAGUE  HD
-http://142.44.212.105:8000/live/andrew1/andrew1/9113.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS  ACTION
-http://142.44.212.105:8000/live/andrew1/andrew1/4651.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS ARENA V
-http://142.44.212.105:8000/live/andrew1/andrew1/9077.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE HD
-http://142.44.212.105:8000/live/andrew1/andrew1/560.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS GOLF HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/2758.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS GOLF  HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4650.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS F1 HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/2760.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORT F1HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4648.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS MIX HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/555.ts
-#EXTINF:0 group-title="SKYNET",SPORTS 1
-http://142.44.212.105:8000/live/andrew1/andrew1/8942.ts
-#EXTINF:0 group-title="SKYNET",SPORTS 2
-http://142.44.212.105:8000/live/andrew1/andrew1/8941.ts
-#EXTINF:0 group-title="SKYNET",SPORTS HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8943.ts
-#EXTINF:0 group-title="SKYNET"SPORTSNET WORLD HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8947.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS ACTIONS HD
-http://142.44.212.105:8000/live/andrew1/andrew1/9732.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS FOOTBALL
-http://142.44.212.105:8000/live/andrew1/andrew1/9730.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS GOLF HD
-http://142.44.212.105:8000/live/andrew1/andrew1/9729.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE SD
-http://142.44.212.105:8000/live/andrew1/andrew1/9727.ts
-#EXTINF:0 group-title="UK SPORT",SKY SPORT  MIX
-http://142.44.212.105:8000/live/andrew1/andrew1/4647.ts
-#EXTINF:0 group-title="UK SPORT",BT SPORT 1 HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/2749.ts
-#EXTINF:0 group-title="UK SPORT",BT SPORT 1 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/710.ts
-#EXTINF:0 group-title="UK SPORT",BT SPORTS 2 HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/2748.ts
-#EXTINF:0 group-title="UK SPORT",BT SPORT 2 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/709.ts
-#EXTINF:0 group-title="UK SPORT",BT SPORTS 3 HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/2747.ts
-#EXTINF:0 group-title="UK SPORT",BT SPORT 3
-http://142.44.212.105:8000/live/andrew1/andrew1/4669.ts
-#EXTINF:0 group-title="UK SPORT",BT SPORT ESPN
-http://142.44.212.105:8000/live/andrew1/andrew1/3596.ts
-#EXTINF:0 group-title="UK SPORT",BT SPORT  ESPN
-http://142.44.212.105:8000/live/andrew1/andrew1/1698.ts
-#EXTINF:0 group-title="UK SPORT",EUROSPORTS 1 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/549.ts
-#EXTINF:0 group-title="UK SPORT",EUROSPORT 2 HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/544.ts
-#EXTINF:0 group-title="UK SPORT",EIR SPORTS 1
-http://142.44.212.105:8000/live/andrew1/andrew1/707.ts
-#EXTINF:0 group-title="UK SPORT",EIR SPORTS 2
-http://142.44.212.105:8000/live/andrew1/andrew1/706.ts
-#EXTINF:0 group-title="UK SPORT",EIR  SPORTS 2
-http://142.44.212.105:8000/live/andrew1/andrew1/2743.ts
-#EXTINF:0 group-title="UK SPORT",CHELSEA TV
-http://142.44.212.105:8000/live/andrew1/andrew1/705.ts
-#EXTINF:0 group-title="UK SPORT",LIVERPOOL FC
-http://142.44.212.105:8000/live/andrew1/andrew1/686.ts
-#EXTINF:0 group-title="UK SPORT",LIVERPOOL FC TV
-http://142.44.212.105:8000/live/andrew1/andrew1/2741.ts
-#EXTINF:0 group-title="UK SPORT",MAN UNITED TV
-http://142.44.212.105:8000/live/andrew1/andrew1/687.ts
-#EXTINF:0 group-title="UK SPORT",BOXNATION
-http://142.44.212.105:8000/live/andrew1/andrew1/679.ts
-#EXTINF:0 group-title="UK SPORT",BOXNATION L
-http://142.44.212.105:8000/live/andrew1/andrew1/8605.ts
-#EXTINF:0 group-title="UK SPORT",AT THE RACES
-http://142.44.212.105:8000/live/andrew1/andrew1/678.ts
-#EXTINF:0 group-title="UK SPORT",ITV  BOX OFFICE PPV LIVE DURING AVENTS 2
-http://142.44.212.105:8000/live/andrew1/andrew1/9069.ts
-#EXTINF:-1,UK- SKY SPORT BOX OFFICE  PPV LIVE EVENTS
-http://142.44.212.105:8000/live/andrew1/andrew1/5021.ts
-#EXTINF:0 group-title="UK SPORT",MOTORS TV
-http://142.44.212.105:8000/live/andrew1/andrew1/1696.ts
-#EXTINF:0 group-title="UK SPORT",MOTOR SPORT TV
-http://142.44.212.105:8000/live/andrew1/andrew1/3628.ts
-#EXTINF:0 group-title="UK SPORT",PREMIER SPORT
-http://142.44.212.105:8000/live/andrew1/andrew1/690.ts
-#EXTINF:0 group-title="UK SPORT",SETANTA SPORTS
-http://142.44.212.105:8000/live/andrew1/andrew1/1697.ts
-#EXTINF:0 group-title="UK SPORT",RACING
-http://142.44.212.105:8000/live/andrew1/andrew1/691.ts
-#EXTINF:0 group-title="UK SPORT",WWE NETWORK
-http://142.44.212.105:8000/live/andrew1/andrew1/2762.ts
-
-
-#EXTINF:0 group-title="UK MOVIES", SKY PREMIERE PLUS
-http://142.44.212.105:8000/live/andrew1/andrew1/2526.ts
-#EXTINF:0 group-title="UK MOVIES",SKY PREMIERE  HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4656.ts
-#EXTINF:0 group-title="UK MOVIES",SKY ACTION HD
-http://142.44.212.105:8000/live/andrew1/andrew1/542.ts
-#EXTINF:0 group-title="UK MOVIES",SKY ACTION SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4260.ts
-#EXTINF:0 group-title="UK MOVIES",SKY ACTION & ADVENTURE
-http://142.44.212.105:8000/live/andrew1/andrew1/4665.ts
-#EXTINF:0 group-title="UK MOVIES",SKY COMEDY SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4261.ts
-#EXTINF:0 group-title="UK MOVIES",SKY DRAMA
-http://142.44.212.105:8000/live/andrew1/andrew1/715.ts
-#EXTINF:0 group-title="UK MOVIES",SKY DRAMA ROMANCE SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4270.ts
-#EXTINF:0 group-title="UK MOVIES",SKY FAMILY SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4266.ts
-#EXTINF:0 group-title="UK MOVIES",SKY DISNEY  HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4662.ts
-#EXTINF:0 group-title="UK MOVIES",SKY SELECT  ►
-http://142.44.212.105:8000/live/andrew1/andrew1/4654.ts
-#EXTINF:0 group-title="UK MOVIES",SKY  THRILLER  HD
-http://142.44.212.105:8000/live/andrew1/andrew1/546.ts
-#EXTINF:0 group-title="UK MOVIES",SKY CRIME THRILLER SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4268.ts
-#EXTINF:0 group-title="UK MOVIES",SKY HITS
-http://142.44.212.105:8000/live/andrew1/andrew1/714.ts
-#EXTINF:0 group-title="UK MOVIES",SKY HITS HD►
-http://142.44.212.105:8000/live/andrew1/andrew1/4658.ts
-#EXTINF:0 group-title="UK MOVIES",SKY SCI & FI HORROR HD V
-http://142.44.212.105:8000/live/andrew1/andrew1/4655.ts
-#EXTINF:0 group-title="UK MOVIES",SKY SCI FI HORROR SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4264.ts
-#EXTINF:0 group-title="UK MOVIES",SKY SELECT HD
-http://142.44.212.105:8000/live/andrew1/andrew1/554.ts
-#EXTINF:0 group-title="UK MOVIES",SKY GREATS SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4269.ts
-#EXTINF:0 group-title="UK MOVIES",SKY SELECT
-http://142.44.212.105:8000/live/andrew1/andrew1/550.ts
-#EXTINF:0 group-title="UK MOVIES",SKY SHOWCASE
-http://142.44.212.105:8000/live/andrew1/andrew1/1713.ts
-#EXTINF:0 group-title="UK MOVIES",FILM 4
-http://142.44.212.105:8000/live/andrew1/andrew1/1712.ts
-#EXTINF:0 group-title="UK MOVIES",MOVIES 4 MENS
-http://142.44.212.105:8000/live/andrew1/andrew1/3343.ts
-#EXTINF:0 group-title="UK MOVIES",SONY MOVIES
-http://142.44.212.105:8000/live/andrew1/andrew1/1709.ts
-#EXTINF:0 group-title="UK MOVIES",SONY  MOVIES 1
-http://142.44.212.105:8000/live/andrew1/andrew1/1708.ts
-#EXTINF:0 group-title="UK MOVIES",TCM
-http://142.44.212.105:8000/live/andrew1/andrew1/704.ts
-#EXTINF:0 group-title="UK MOVIES",TCM   HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1710.ts
-#EXTINF:0 group-title="UK MOVIES",TCM HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1711.ts
-#EXTINF:0 group-title="UK MOVIES",TRUE DRAMA
-http://142.44.212.105:8000/live/andrew1/andrew1/1706.ts
-#EXTINF:0 group-title="UK MOVIES",TRUE MOVIES 1
-http://142.44.212.105:8000/live/andrew1/andrew1/1705.ts
-#EXTINF:0 group-title="UK MOVIES",TRUE MOVIES 2
-http://142.44.212.105:8000/live/andrew1/andrew1/1704.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 1
-http://142.44.212.105:8000/live/andrew1/andrew1/5402.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 2
-http://142.44.212.105:8000/live/andrew1/andrew1/5401.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 4
-http://142.44.212.105:8000/live/andrew1/andrew1/5399.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 1 UK *
-http://142.44.212.105:8000/live/andrew1/andrew1/13885.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 2 UK *
-http://142.44.212.105:8000/live/andrew1/andrew1/13884.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 3 UK *
-http://142.44.212.105:8000/live/andrew1/andrew1/13883.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 4 UK *
-http://142.44.212.105:8000/live/andrew1/andrew1/13882.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 7 UK *
-http://142.44.212.105:8000/live/andrew1/andrew1/13879.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 9 UK *
-http://142.44.212.105:8000/live/andrew1/andrew1/13877.ts
-#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 01
-http://142.44.212.105:8000/live/andrew1/andrew1/18583.ts
-#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 02
-http://142.44.212.105:8000/live/andrew1/andrew1/18588.ts
-#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 03
-http://142.44.212.105:8000/live/andrew1/andrew1/18587.ts
-#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 04
-http://142.44.212.105:8000/live/andrew1/andrew1/18586.ts
-#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 05
-http://142.44.212.105:8000/live/andrew1/andrew1/18585.ts
-#EXTINF:0 group-title="UK MOVIES",ENGLISH MOVIES 06
-http://142.44.212.105:8000/live/andrew1/andrew1/18584.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 8 UK *
-http://142.44.212.105:8000/live/andrew1/andrew1/13878.ts
-#EXTINF:0 group-title="UK MOVIES",BOX OFFICE 3
-http://142.44.212.105:8000/live/andrew1/andrew1/5400.ts
-#EXTINF:0 group-title="UK MOVIES",FOX MOVIES
-http://142.44.212.105:8000/live/andrew1/andrew1/5566.ts
-
-#EXTINF:0 group-title="UK KIDS",BABY TV
-http://142.44.212.105:8000/live/andrew1/andrew1/1772.ts
-#EXTINF:0 group-title="UK KIDS",BOOMERANG
-http://142.44.212.105:8000/live/andrew1/andrew1/1764.ts
-#EXTINF:0 group-title="UK KIDS",BOOMERANG 1
-http://142.44.212.105:8000/live/andrew1/andrew1/675.ts
-#EXTINF:0 group-title="UK KIDS",CARTOON NETWORK
-http://142.44.212.105:8000/live/andrew1/andrew1/540.ts
-#EXTINF:0 group-title="UK KIDS",CBEEBIES
-http://142.44.212.105:8000/live/andrew1/andrew1/1761.ts
-#EXTINF:0 group-title="UK KIDS",CBEEBIES L
-http://142.44.212.105:8000/live/andrew1/andrew1/18153.ts
-#EXTINF:0 group-title="UK KIDS",CBBC BBC 4
-http://142.44.212.105:8000/live/andrew1/andrew1/4280.ts
-#EXTINF:0 group-title="UK KIDS",DISNEY CHANNEL
-http://142.44.212.105:8000/live/andrew1/andrew1/1835.ts
-#EXTINF:0 group-title="UK KIDS",DISNEY CHANNEL 2
-http://142.44.212.105:8000/live/andrew1/andrew1/538.ts
-#EXTINF:0 group-title="UK KIDS",DISNEY XD
-http://142.44.212.105:8000/live/andrew1/andrew1/2303.ts
-#EXTINF:0 group-title="UK KIDS",DISNEY  XD
-http://142.44.212.105:8000/live/andrew1/andrew1/25141.ts
-#EXTINF:0 group-title="UK KIDS",Disney XD L
-http://142.44.212.105:8000/live/andrew1/andrew1/25202.ts
-#EXTINF:0 group-title="UK KIDS",DISNEY JUNIOR
-http://142.44.212.105:8000/live/andrew1/andrew1/539.ts
-#EXTINF:0 group-title="UK KIDS", TINY POP
-http://142.44.212.105:8000/live/andrew1/andrew1/697.ts
-#EXTINF:0 group-title="UK KIDS",NICKTOONS
-http://142.44.212.105:8000/live/andrew1/andrew1/1767.ts
-#EXTINF:0 group-title="UK KIDS",NICKELODEON
-http://142.44.212.105:8000/live/andrew1/andrew1/1834.ts
-#EXTINF:0 group-title="UK KIDS",NICK JR  TOO
-http://142.44.212.105:8000/live/andrew1/andrew1/4281.ts
-#EXTINF:0 group-title="UK KIDS",NICK JR
-http://142.44.212.105:8000/live/andrew1/andrew1/688.ts
-#EXTINF:0 group-title="UK KIDS",SKY DISNEY
-http://142.44.212.105:8000/live/andrew1/andrew1/711.ts
-#EXTINF:0 group-title="UK KIDS",SKY DISNEY SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4262.ts
-#EXTINF:0 group-title="UK KIDS",POP MAX
-http://142.44.212.105:8000/live/andrew1/andrew1/3342.ts
-
-
-#EXTINF:0 group-title="UK ASIA", & TV UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10602.ts
-#EXTINF:0 group-title="UK ASIA", AAJ TAK UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10601.ts
-#EXTINF:0 group-title="UK ASIA",AASHTA UK  V
-http://142.44.212.105:8000/live/andrew1/andrew1/10600.ts
-#EXTINF:0 group-title="UK ASIA",ABN TV UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10565.ts
-#EXTINF:0 group-title="UK ASIA",ABP NEWS  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10599.ts
-#EXTINF:0 group-title="UK ASIA",VIP  APLUS TV UK
-http://142.44.212.105:8000/live/andrew1/andrew1/10578.ts
-#EXTINF:0 group-title="UK ASIA",COLORS UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10595.ts
-#EXTINF:0 group-title="UK ASIA",GEO  KAHANI UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10577.ts
-#EXTINF:0 group-title="UK ASIA",HUM EUROPE UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10574.ts
-#EXTINF:0 group-title="UK ASIA",KANSHI  TV  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10567.ts
-#EXTINF:0 group-title="UK ASIA",KTV UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10594.ts
-#EXTINF:0 group-title="UK ASIA",MATV NATIONAL UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10593.ts
-#EXTINF:0 group-title="UK ASIA",NEW VISION TV  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10573.ts
-#EXTINF:0 group-title="UK ASIA",NOOR TV   UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10572.ts
-#EXTINF:0 group-title="UK ASIA",PTC PUNJABI UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10591.ts
-#EXTINF:0 group-title="UK ASIA", RISHTEY CINEMA  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10590.ts
-#EXTINF:0 group-title="UK ASIA",RISHTEY  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10589.ts
-#EXTINF:0 group-title="UK ASIA",SAMAA  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10571.ts
-#EXTINF:0 group-title="UK ASIA",SANGAT  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10588.ts
-#EXTINF:0 group-title="UK ASIA",SEE TV UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10570.ts
-#EXTINF:0 group-title="UK ASIA",SONY MAX UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10587.ts
-#EXTINF:0 group-title="UK ASIA",SONY MIX UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10586.ts
-#EXTINF:0 group-title="UK ASIA",SONY SAB UK  V
-http://142.44.212.105:8000/live/andrew1/andrew1/10585.ts
-#EXTINF:0 group-title="UK ASIA",SONY TV ASIA UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10584.ts
-#EXTINF:0 group-title="UK ASIA",STAR  BHARAT UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10583.ts
-#EXTINF:0 group-title="UK ASIA",STAR  GOLD UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10582.ts
-#EXTINF:0 group-title="UK ASIA",STAR  PLUS  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10581.ts
-#EXTINF:0 group-title="UK ASIA",STAR UTSAV  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10580.ts
-#EXTINF:0 group-title="UK ASIA",TV 99 UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10569.ts
-#EXTINF:0 group-title="UK ASIA",URDU 1 EUROPE  UK V
-http://142.44.212.105:8000/live/andrew1/andrew1/10568.ts
-#EXTINF:0 group-title="UK ASIA",92 NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/8902.ts
-#EXTINF:0 group-title="UK ASIA",AAJ TAK
-http://142.44.212.105:8000/live/andrew1/andrew1/8887.ts
-#EXTINF:0 group-title="UK ASIA",ABP  NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/8888.ts
-#EXTINF:0 group-title="UK ASIA",ABP NEWS ☆
-http://142.44.212.105:8000/live/andrew1/andrew1/5575.ts
-#EXTINF:0 group-title="UK ASIA",AKAAL CHANNEL
-http://142.44.212.105:8000/live/andrew1/andrew1/5578.ts
-#EXTINF:0 group-title="UK ASIA",BANGLA: ZEE BANGLA UK
-http://142.44.212.105:8000/live/andrew1/andrew1/2966.ts
-#EXTINF:0 group-title="UK ASIA",ARY DIGITAL
-http://142.44.212.105:8000/live/andrew1/andrew1/1797.ts
-#EXTINF:0 group-title="UK ASIA",ARY DIGITAL B
-http://142.44.212.105:8000/live/andrew1/andrew1/8903.ts
-#EXTINF:0 group-title="UK ASIA",B4U MOVIE -
-http://142.44.212.105:8000/live/andrew1/andrew1/5397.ts
-#EXTINF:0 group-title="UK ASIA",B4U MUSIC
-http://142.44.212.105:8000/live/andrew1/andrew1/1791.ts
-#EXTINF:0 group-title="UK ASIA",B4U PLUS
-http://142.44.212.105:8000/live/andrew1/andrew1/1790.ts
-#EXTINF:0 group-title="UK ASIA",GEO NEWS B
-http://142.44.212.105:8000/live/andrew1/andrew1/8905.ts
-#EXTINF:0 group-title="UK ASIA",GEO NEWS UK
-http://142.44.212.105:8000/live/andrew1/andrew1/1958.ts
-#EXTINF:0 group-title="UK ASIA",AAJ NEWS LIVE
-http://142.44.212.105:8000/live/andrew1/andrew1/9862.ts
-#EXTINF:0 group-title="UK ASIA",GEO TEZ
-http://142.44.212.105:8000/live/andrew1/andrew1/3504.ts
-#EXTINF:0 group-title="UK ASIA",GEO TV
-http://142.44.212.105:8000/live/andrew1/andrew1/8907.ts
-#EXTINF:0 group-title="UK ASIA",ZEE  PUNJABI
-http://142.44.212.105:8000/live/andrew1/andrew1/8899.ts
-#EXTINF:0 group-title="UK ASIA",SATR BHARAT
-http://142.44.212.105:8000/live/andrew1/andrew1/3292.ts
-#EXTINF:0 group-title="UK ASIA",MADANI CHANNEL
-http://142.44.212.105:8000/live/andrew1/andrew1/3493.ts
-#EXTINF:0 group-title="UK ASIA",MGEO TEZ
-http://142.44.212.105:8000/live/andrew1/andrew1/8906.ts
-#EXTINF:0 group-title="UK ASIA",ZEE PUNJABI
-http://142.44.212.105:8000/live/andrew1/andrew1/5577.ts
-#EXTINF:0 group-title="UK ASIA",TAKBEAR TV
-http://142.44.212.105:8000/live/andrew1/andrew1/8910.ts
-#EXTINF:0 group-title="UK ASIA",NOOR  TV
-http://142.44.212.105:8000/live/andrew1/andrew1/8908.ts
-#EXTINF:0 group-title="UK ASIA",ISLAM URDU TV
-http://142.44.212.105:8000/live/andrew1/andrew1/13259.ts
-#EXTINF:0 group-title="UK ASIA",PEACE TV
-http://142.44.212.105:8000/live/andrew1/andrew1/4712.ts
-#EXTINF:0 group-title="UK ASIA",IQRA URDU
-http://142.44.212.105:8000/live/andrew1/andrew1/13258.ts
-#EXTINF:0 group-title="UK ASIA",ZEE  TV
-http://142.44.212.105:8000/live/andrew1/andrew1/4315.ts
-#EXTINF:0 group-title="UK ASIA",Zee TV
-http://142.44.212.105:8000/live/andrew1/andrew1/8900.ts
-#EXTINF:0 group-title="UK ASIA", ZING
-http://142.44.212.105:8000/live/andrew1/andrew1/8901.ts
-#EXTINF:0 group-title="UK ASIA",URDU 1 EUROPE
-http://142.44.212.105:8000/live/andrew1/andrew1/3484.ts
-#EXTINF:0 group-title="UK ASIA",ZEE CINEMA ☆
-http://142.44.212.105:8000/live/andrew1/andrew1/1785.ts
-#EXTINF:0 group-title="UK ASIA",STAR  GOLD
-http://142.44.212.105:8000/live/andrew1/andrew1/8896.ts
-#EXTINF:0 group-title="UK ASIA",STAR GOLD ☆
-http://142.44.212.105:8000/live/andrew1/andrew1/1786.ts
-#EXTINF:0 group-title="UK ASIA",STAR BHARA
-http://142.44.212.105:8000/live/andrew1/andrew1/8897.ts
-#EXTINF:0 group-title="UK ASIA",STAR PLUS HD UK
-http://142.44.212.105:8000/live/andrew1/andrew1/2010.ts
-#EXTINF:0 group-title="UK ASIA",STAR  UTSAV
-http://142.44.212.105:8000/live/andrew1/andrew1/8898.ts
-#EXTINF:0 group-title="UK ASIA",SONY ENTERTAINMENT HD
-http://142.44.212.105:8000/live/andrew1/andrew1/1788.ts
-#EXTINF:0 group-title="UK ASIA",SONY MAX
-http://142.44.212.105:8000/live/andrew1/andrew1/8894.ts
-#EXTINF:0 group-title="UK ASIA",SONY SAB
-http://142.44.212.105:8000/live/andrew1/andrew1/8895.ts
-#EXTINF:0 group-title="UK ASIA",SONY SETMAX ☆
-http://142.44.212.105:8000/live/andrew1/andrew1/1787.ts
-#EXTINF:0 group-title="UK ASIA",SIKH CHANNEL
-http://142.44.212.105:8000/live/andrew1/andrew1/5020.ts
-#EXTINF:0 group-title="UK ASIA",SAMAA ☆
-http://142.44.212.105:8000/live/andrew1/andrew1/3487.ts
-#EXTINF:0 group-title="UK ASIA", RISHTEY
-http://142.44.212.105:8000/live/andrew1/andrew1/8893.ts
-#EXTINF:0 group-title="UK ASIA",RISHTEY ☆
-http://142.44.212.105:8000/live/andrew1/andrew1/1794.ts
-#EXTINF:0 group-title="UK ASIA",RISHTEY   CINEMA
-http://142.44.212.105:8000/live/andrew1/andrew1/8892.ts
-#EXTINF:0 group-title="UK ASIA",PTC PUNJABI L
-http://142.44.212.105:8000/live/andrew1/andrew1/4711.ts
-#EXTINF:0 group-title="UK ASIA",PTV HOME
-http://142.44.212.105:8000/live/andrew1/andrew1/3502.ts
-#EXTINF:0 group-title="UK ASIA",& TV
-http://142.44.212.105:8000/live/andrew1/andrew1/3291.ts
-#EXTINF:0 group-title="UK ASIA",ALJAZEERA NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/1716.ts
-#EXTINF:0 group-title="UK ASIA",COLORS
-http://142.44.212.105:8000/live/andrew1/andrew1/8889.ts
-#EXTINF:0 group-title="UK ASIA", COLORS L
-http://142.44.212.105:8000/live/andrew1/andrew1/1789.ts
-#EXTINF:0 group-title="UK ASIA",DUNYA NEWS B
-http://142.44.212.105:8000/live/andrew1/andrew1/8904.ts
-#EXTINF:0 group-title="UK ASIA",HUM
-http://142.44.212.105:8000/live/andrew1/andrew1/1796.ts
-#EXTINF:0 group-title="UK ASIA",HUM EUROPE
-http://142.44.212.105:8000/live/andrew1/andrew1/3503.ts
-#EXTINF:0 group-title="UK ASIA",BRITISH MUSLIM
-http://142.44.212.105:8000/live/andrew1/andrew1/3499.ts
-#EXTINF:0 group-title="UK ASIA",ISLAM ENGL TV
-http://142.44.212.105:8000/live/andrew1/andrew1/4898.ts
-#EXTINF:0 group-title="UK ASIA",SUCH  TV LIVE
-http://142.44.212.105:8000/live/andrew1/andrew1/9863.ts
-#EXTINF:-1,AR: AL NASS
-http://142.44.212.105:8000/live/andrew1/andrew1/9861.ts
-#EXTINF:0 group-title="UK ASIA",BOX ( INDIAN MOVIE SPECIAL 80' 90' )
-http://142.44.212.105:8000/live/andrew1/andrew1/18579.ts
-#EXTINF:0 group-title="UK ASIA",BOX ( INDIAN MOVIE SPECIAL NEW )
-http://142.44.212.105:8000/live/andrew1/andrew1/18578.ts
-#EXTINF:0 group-title="UK ASIA",BOX ( INDIAN MOVIE SPECIAL OLD IS GOLD )
-http://142.44.212.105:8000/live/andrew1/andrew1/18580.ts
-#EXTINF:0 group-title="UK ASIA",BOX ( PUNJABI MOVIE SPECIAL )
-http://142.44.212.105:8000/live/andrew1/andrew1/18577.ts
-#EXTINF:0 group-title="UK ASIA",Box Office
-http://142.44.212.105:8000/live/andrew1/andrew1/18581.ts
-#EXTINF:0 group-title="UK ASIA",Box Special >>>> 007 Movies
-http://142.44.212.105:8000/live/andrew1/andrew1/18582.ts
-#EXTINF:-1,***( UK MUSIC )***
-http://142.44.212.105:8000/live/andrew1/andrew1/1783.ts
-#EXTINF:0 group-title="UK ASIA",MTV BASE V
-http://142.44.212.105:8000/live/andrew1/andrew1/4642.ts
-#EXTINF:0 group-title="UK ASIA",MTV DANCE  V
-http://142.44.212.105:8000/live/andrew1/andrew1/4641.ts
-#EXTINF:0 group-title="UK ASIA",MTV HITS V
-http://142.44.212.105:8000/live/andrew1/andrew1/4640.ts
-#EXTINF:0 group-title="UK ASIA",MTV MUSIC  V
-http://142.44.212.105:8000/live/andrew1/andrew1/4639.ts
-#EXTINF:0 group-title="UK ASIA",MTV ROCKS ►
-http://142.44.212.105:8000/live/andrew1/andrew1/4638.ts
-#EXTINF:0 group-title="UK ASIA",VH 1
-http://142.44.212.105:8000/live/andrew1/andrew1/4637.ts
-#EXTINF:0 group-title="UK ASIA",MTV CLASSIC
-http://142.44.212.105:8000/live/andrew1/andrew1/1781.ts
-#EXTINF:0 group-title="UK ASIA",VH1
-http://142.44.212.105:8000/live/andrew1/andrew1/1775.ts
-#EXTINF:0 group-title="UK ASIA",VIVA
-http://142.44.212.105:8000/live/andrew1/andrew1/1774.ts
-#EXTINF:-1,***( UK NEWS )***
-http://142.44.212.105:8000/live/andrew1/andrew1/1720.ts
-#EXTINF:0 group-title="UK ASIA",SKY  NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/4657.ts
-#EXTINF:0 group-title="UK ASIA",BBC NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/7529.ts
-#EXTINF:0 group-title="UK ASIA",BBC WORLD NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/1718.ts
-#EXTINF:0 group-title="UK ASIA",BLOOMBERG NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/3337.ts
-#EXTINF:0 group-title="UK ASIA",CNN NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/1717.ts
-#EXTINF:0 group-title="UK ASIA",EURONEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/1715.ts
-#EXTINF:0 group-title="UK ASIA",FOX NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/2769.ts
-#EXTINF:0 group-title="UK ASIA",HORROR CHANNEL
-http://142.44.212.105:8000/live/andrew1/andrew1/1703.ts
-#EXTINF:0 group-title="UK ASIA",SKY NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/1719.ts
-
-#EXTINF:0 group-title="US VIP",FOX SPORTS 2 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8921.ts
-#EXTINF:0 group-title="US VIP",FOX SPORTS 3 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8920.ts
-#EXTINF:0 group-title="US VIP",SPORT TV 4
-http://142.44.212.105:8000/live/andrew1/andrew1/6170.ts
-#EXTINF:0 group-title="US VIP",SPORT TV 1
-http://142.44.212.105:8000/live/andrew1/andrew1/6173.ts
-#EXTINF:0 group-title="US VIP",SPORT TV 2
-http://142.44.212.105:8000/live/andrew1/andrew1/6172.ts
-
-
-#EXTINF:0 group-title="ES",NOLLYWOOD  MOVIES
-http://142.44.212.105:8000/live/andrew1/andrew1/1670.ts
-#EXTINF:0 group-title="ES", NOLLYWOOD MOVIES
-http://142.44.212.105:8000/live/andrew1/andrew1/9086.ts
-#EXTINF:0 group-title="ES",MOVIESTAR F1
-http://142.44.212.105:8000/live/andrew1/andrew1/5497.ts
-#EXTINF:0 group-title="ES",DISNEY JUNIOR
-http://142.44.212.105:8000/live/andrew1/andrew1/5509.ts
-#EXTINF:0 group-title="ES",NOVA
-http://142.44.212.105:8000/live/andrew1/andrew1/4198.ts
-#EXTINF:0 group-title="ES",CAZA Y PESCA HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5488.ts
-#EXTINF:0 group-title="ES",Canal 2 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/18100.ts
-#EXTINF:0 group-title="ES",DISNEY CHANEL
-http://142.44.212.105:8000/live/andrew1/andrew1/17582.ts
-#EXTINF:0 group-title="ES",SYFY
-http://142.44.212.105:8000/live/andrew1/andrew1/5436.ts
-#EXTINF:0 group-title="ES",ACCION HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4208.ts
-#EXTINF:0 group-title="ES",AXN WHITE HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5527.ts
-#EXTINF:0 group-title="ES",BEIN LA LIGA HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5455.ts
-#EXTINF:0 group-title="ES",BEIN SPORTS HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5463.ts
-#EXTINF:0 group-title="ES",LA LIGA TV
-http://142.44.212.105:8000/live/andrew1/andrew1/4220.ts
-#EXTINF:0 group-title="ES",CANAL DEPORTES
-http://142.44.212.105:8000/live/andrew1/andrew1/4189.ts
-#EXTINF:0 group-title="ES",REAL MADRID TV
-http://142.44.212.105:8000/live/andrew1/andrew1/4194.ts
-#EXTINF:0 group-title="ES",COSMO HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4207.ts
-#EXTINF:0 group-title="ES",DISCOVERY CHANNEL
-http://142.44.212.105:8000/live/andrew1/andrew1/5505.ts
-#EXTINF:0 group-title="ES",FOX HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5523.ts
-#EXTINF:0 group-title="ES",IBERALIA TV SD
-http://142.44.212.105:8000/live/andrew1/andrew1/4181.ts
-#EXTINF:0 group-title="ES",HISTORIA
-http://142.44.212.105:8000/live/andrew1/andrew1/5498.ts
-#EXTINF:0 group-title="ES",NatGeo Wild Spain
-http://142.44.212.105:8000/live/andrew1/andrew1/5500.ts
-#EXTINF:0 group-title="ES",MOVISTAR XTRA HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4218.ts
-#EXTINF:0 group-title="ES",LALIGA TV BAR HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5453.ts
-#EXTINF:0 group-title="ES",HOLLYWOOD
-http://142.44.212.105:8000/live/andrew1/andrew1/5438.ts
-#EXTINF:0 group-title="ES",M FUTBOL HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4217.ts
-#EXTINF:0 group-title="ES",MOVISTAR CALLE 13 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5525.ts
-#EXTINF:0 group-title="ES",MOVISTAR DEPORTES2 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5475.ts
-#EXTINF:0 group-title="ES",MOVISTAR FUTBOL HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5473.ts
-#EXTINF:0 group-title="ES",MOVISTAR GOLF HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5471.ts
-#EXTINF:0 group-title="ES",MOVISTAR MOTO GP HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5467.ts
-#EXTINF:0 group-title="ES",MOVISTAR COMEDIA
-http://142.44.212.105:8000/live/andrew1/andrew1/4215.ts
-#EXTINF:0 group-title="ES",MOVISTAR DEPORTES 2
-http://142.44.212.105:8000/live/andrew1/andrew1/4213.ts
-#EXTINF:0 group-title="ES",MOVISTAR SERIES XTRA
-http://142.44.212.105:8000/live/andrew1/andrew1/4210.ts
-#EXTINF:0 group-title="ES",NATGEO WILD
-http://142.44.212.105:8000/live/andrew1/andrew1/5492.ts
-#EXTINF:0 group-title="ES",NATIONAL GEOGRAPHIC HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5494.ts
-#EXTINF:0 group-title="ES",NATIONAL GEOGRAPHIC
-http://142.44.212.105:8000/live/andrew1/andrew1/5491.ts
-#EXTINF:0 group-title="ES",ANTENA 3
-http://142.44.212.105:8000/live/andrew1/andrew1/9106.ts
-#EXTINF:0 group-title="ES",CUATRO
-http://142.44.212.105:8000/live/andrew1/andrew1/9107.ts
-#EXTINF:0 group-title="ES",ANTENA 3 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/17971.ts
-#EXTINF:0 group-title="ES",TELECINCO HD
-http://142.44.212.105:8000/live/andrew1/andrew1/17973.ts
-#EXTINF:0 group-title="ES",TELE UNO
-http://142.44.212.105:8000/live/andrew1/andrew1/18108.ts
-#EXTINF:0 group-title="ES",LA SEXTA HD
-http://142.44.212.105:8000/live/andrew1/andrew1/17972.ts
-#EXTINF:0 group-title="ES",MEGA
-http://142.44.212.105:8000/live/andrew1/andrew1/17986.ts
-
-
-#EXTINF:0 group-title="US",AFN Movies
-http://142.44.212.105:8000/live/andrew1/andrew1/8716.ts
-#EXTINF:0 group-title="US",AFN Sports  2 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8717.ts
-#EXTINF:0 group-title="US",FOX_Sport1_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5008.ts
-#EXTINF:0 group-title="US",FOX_Sport2_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5007.ts
-#EXTINF:0 group-title="US",FOX_SPORTS_3
-http://142.44.212.105:8000/live/andrew1/andrew1/8730.ts
-#EXTINF:0 group-title="US",Sky_Sport_US_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8713.ts
-#EXTINF:0 group-title="US",TSN1_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5807.ts
-#EXTINF:0 group-title="US",TSN_Sport_2
-http://142.44.212.105:8000/live/andrew1/andrew1/5012.ts
-#EXTINF:0 group-title="US",TSN_Sport_3
-http://142.44.212.105:8000/live/andrew1/andrew1/5011.ts
-#EXTINF:0 group-title="US",TSN_Sport_4
-http://142.44.212.105:8000/live/andrew1/andrew1/5010.ts
-#EXTINF:0 group-title="US",TSN_Sport_5
-http://142.44.212.105:8000/live/andrew1/andrew1/5009.ts
-
-
-
-#EXTINF:0 group-title="US",BRAVO_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4979.ts
-#EXTINF:0 group-title="US",CBS HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4982.ts
-#EXTINF:0 group-title="US",CNN
-http://142.44.212.105:8000/live/andrew1/andrew1/5015.ts
-#EXTINF:0 group-title="US",NAT_GEO_WILD
-http://142.44.212.105:8000/live/andrew1/andrew1/4991.ts
-#EXTINF:0 group-title="US",TBS_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/4989.ts
-#EXTINF:0 group-title="US",TNT_HD_US
-http://142.44.212.105:8000/live/andrew1/andrew1/4986.ts
-#EXTINF:0 group-title="US",HALLMARK
-http://142.44.212.105:8000/live/andrew1/andrew1/4997.ts
-#EXTINF:0 group-title="US",Travel Channe_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5001.ts
-#EXTINF:0 group-title="US",TSN2_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5796.ts
-#EXTINF:0 group-title="US",NBA_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/5794.ts
-#EXTINF:0 group-title="US",NBC Golf HD
-http://142.44.212.105:8000/live/andrew1/andrew1/6127.ts
-#EXTINF:0 group-title="US", ABC
-http://142.44.212.105:8000/live/andrew1/andrew1/8712.ts
-#EXTINF:0 group-title="US",BLOOMBERG
-http://142.44.212.105:8000/live/andrew1/andrew1/8724.ts
-#EXTINF:-1,USA: Starz Cinema HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8727.ts
-#EXTINF:0 group-title="US",CINEMAX_ACTOIN_MAX_EAST
-http://142.44.212.105:8000/live/andrew1/andrew1/8728.ts
-#EXTINF:0 group-title="US",CINEMAX_EAST
-http://142.44.212.105:8000/live/andrew1/andrew1/8721.ts
-#EXTINF:0 group-title="US",CNBC
-http://142.44.212.105:8000/live/andrew1/andrew1/8718.ts
-#EXTINF:0 group-title="US",CW_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8743.ts
-#EXTINF:0 group-title="US",DISCOVERY
-http://142.44.212.105:8000/live/andrew1/andrew1/8740.ts
-#EXTINF:0 group-title="US",FIX_TV_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8744.ts
-#EXTINF:0 group-title="US",ShowTime 2 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8714.ts
-#EXTINF:0 group-title="US",FOX NEWS
-http://142.44.212.105:8000/live/andrew1/andrew1/8715.ts
-#EXTINF:0 group-title="US",ESPN 2 HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8726.ts
-#EXTINF:0 group-title="US",FX_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8735.ts
-#EXTINF:0 group-title="US",HBO_ZONE_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8738.ts
-#EXTINF:0 group-title="US",History_Channel
-http://142.44.212.105:8000/live/andrew1/andrew1/8739.ts
-#EXTINF:0 group-title="US",LIFETIME_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8741.ts
-#EXTINF:0 group-title="US",NBA
-http://142.44.212.105:8000/live/andrew1/andrew1/8748.ts
-#EXTINF:0 group-title="US",SHOWTIME
-http://142.44.212.105:8000/live/andrew1/andrew1/8719.ts
-#EXTINF:0 group-title="US",SPIKE_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8746.ts
-#EXTINF:0 group-title="US",STARZ_ENCORE_HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8729.ts
-#EXTINF:0 group-title="US",TSN_3
-http://142.44.212.105:8000/live/andrew1/andrew1/8709.ts
-#EXTINF:0 group-title="US",TSN_5
-http://142.44.212.105:8000/live/andrew1/andrew1/8711.ts
-#EXTINF:0 group-title="US",Willow Cricket HD
-http://142.44.212.105:8000/live/andrew1/andrew1/8737.ts
-#EXTINF:0 group-title="US",WWE_Network
-http://142.44.212.105:8000/live/andrew1/andrew1/8747.ts
-#EXTINF:0 group-title="US",CARTOON_NETWORK-
-http://142.44.212.105:8000/live/andrew1/andrew1/8725.ts
-
-
-
-
