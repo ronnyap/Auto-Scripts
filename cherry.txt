@@ -1525,5 +1525,5 @@ http://mtv.sun0769.com/dgrtv1/mp4:tv1/index.m3u8
 #EXTINF:0 group-title="27March",东莞公共
 http://mtv.sun0769.com/dgrtv1/mp4:tv2/index.m3u8
 
-#EXTINF:0,tvg-logo="gztv.png",group-title="← 经典电影 →",成龙
+#EXTINF:0 group-title="← 经典电影 →",成龙
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-1513132292-1_1200.m3u8
