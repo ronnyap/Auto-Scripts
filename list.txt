@@ -2,9 +2,9 @@
 
 
 #EXTINF:0 group-title="HK_Macao",翡翠台
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/5tg7hf6c/index.m3u8
+p2p://198.255.36.98:9906/5a126b21000ace6c0ef66e830cfa8b51.ts
 #EXTINF:0 group-title="HK_Macao",互动新闻台
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/g9wq1prh/index.m3u8
+P2p://198.255.36.98:9906/5a126b21000ace6c0ef66e830cfa8b51.ts
 #EXTINF:0 group-title="HK_Macao",J2
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/xmj3kp59/index.m3u8
 #EXTINF:0 group-title="HK_Macao",J5
