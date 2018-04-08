@@ -1,4 +1,3 @@
-#EXTM3U
 
 http://www.lanjianbeer.com/mtv/ilook/iLOOK20180330.php
 
