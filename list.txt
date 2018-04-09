@@ -1,6 +1,6 @@
 
 
-GET /live/kwzq1rse/5tg7hf6c/index.m3u8 HTTP/1.1
+
 
 
 
@@ -10,35 +10,6 @@ GET /live/kwzq1rse/5tg7hf6c/index.m3u8 HTTP/1.1
 
 
 #EXTM3U
-GET /live/kwzq1rse/5tg7hf6c/index.m3u8 HTTP/1.1
-
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:16889
-#EXTINF:6.000000,
-index16889.ts
-#EXTINF:6.000000,
-index16890.ts
-#EXTINF:6.000000,
-index16891.ts
-#EXTINF:6.000000,
-index16892.ts
-#EXTINF:6.000000,
-index16893.ts
-#EXTINF:6.000000,
-index16894.ts
-#EXTINF:6.000000,
-index16895.ts
-#EXTINF:6.000000,
-index16896.ts
-#EXTINF:6.000000,
-index16897.ts
-#EXTINF:6.000000,
-index16898.ts
-#EXTINF:6.000000,
-index16899.ts
-
 
 
 
