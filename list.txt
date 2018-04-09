@@ -1,15 +1,17 @@
 
 
 GET /live/kwzq1rse/5tg7hf6c/index.m3u8 HTTP/1.1
-User-Agent: stagefright/1.2 (Linux;Android 8.0.0)
-Host: i0320.lnmtzv.boxtv.win
-Connection: Keep-Alive
-Accept-Encoding: gzip
+
+
+
+
 
 
 
 
 #EXTM3U
+GET /live/kwzq1rse/5tg7hf6c/index.m3u8 HTTP/1.1
+
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:6
