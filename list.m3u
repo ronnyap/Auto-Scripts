@@ -3,7 +3,7 @@
 
 
 #EXTINF:0, group-title="English",OnTest
-p2p://158.69.209.29:2431/5a859b030003d99603d0aff212d7039e.ts
+P2p://158.69.209.29:2431/5a859b030003d99603d0aff212d7039e.ts
 
 #EXTINF:0, group-title="English",& Flix
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
