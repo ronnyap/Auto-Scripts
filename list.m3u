@@ -78,12 +78,8 @@ http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
 http://rtm-live.glueapi.io/%20%20%20smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8 
 #EXTINF:0 group-title=:"大马",TV2  
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8 
-#EXTINF:0 group-title=:"大马",TV2  
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/TV2/playlist.m3u8 
 #EXTINF:0 group-title=:"大马",TV3 FHD  
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8 
-#EXTINF:0 group-title=:"大马",TV3  
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/TV3/playlist.m3u8 
 #EXTINF:0 group-title=:"大马",NTV7  
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8 
 #EXTINF:0 group-title=:"大马",TV8  
