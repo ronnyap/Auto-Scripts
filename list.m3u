@@ -1,7 +1,99 @@
 #EXTM3U
 
+#EXTINF:0 group-title="电影直播",林正英电影        
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",林正英电视剧        
+https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",洪金宝        
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",周星驰        
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",徐峥电影        
+http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",林正英        
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",刘德华        
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",王晶电影        
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",古惑仔电影       
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",赌博电影       
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",女神港片        
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",丧尸电影       
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",战争电影       
+http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",好莱坞电影       
+http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+#EXTINF:0 group-title="电影直播",灾难电影        
+http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
+#EXTINF:0 group-title="电影直播",惊悚电影        
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:0 group-title="电影直播",复仇犯罪电影       
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",子丹电影       
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+#EXTINF:0 group-title="电影直播",古天乐电影       
+http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+#EXTINF:0 group-title="电影直播",高清电影1        
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",高清电影2        
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",高清电影3       
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",高清电影4       
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",熊猫电影1       
+http://pl-hls29.live.panda.tv/live_panda/733cd3c662c6eaeb491c3f15b6e4f728.m3u8
+#EXTINF:0 group-title="电影直播",熊猫电影2       
+http://pl-hls29.live.panda.tv/live_panda/7e32e0b90b83df37c59ec7a3f288f609.m3u8
+#EXTINF:0 group-title="电影直播",熊猫电影3      
+http://pl-hls29.live.panda.tv/live_panda/4990d2845b030d5d9f1289389bb07556.m3u8
+#EXTINF:0 group-title="电影直播",齐齐影视        
+https://alhls-cdn.zhanqi.tv/zqlive/276611_D7L5A.m3u8
+#EXTINF:0 group-title="电影直播",成龙        
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",李连杰        
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",香港电影        
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:0 group-title="电影直播",电影轮播       
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:0 group-title="电影直播",大片直播        
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:0 group-title="电影直播",精品电影        
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:0 group-title="电影直播",明星大片        
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:0 group-title="电影直播",电影阁        
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:0 group-title="电影直播",老片播放        
+http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
 
 
+#EXTINF:0 group-title=:"大马",TV1  
+http://rtm-live.glueapi.io/%20%20%20smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8 
+#EXTINF:0 group-title=:"大马",TV2  
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8 
+#EXTINF:0 group-title=:"大马",TV2  
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/TV2/playlist.m3u8 
+#EXTINF:0 group-title=:"大马",TV3 FHD  
+http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8 
+#EXTINF:0 group-title=:"大马",TV3  
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/TV3/playlist.m3u8 
+#EXTINF:0 group-title=:"大马",NTV7  
+http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8 
+#EXTINF:0 group-title=:"大马",TV8  
+http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8 
+#EXTINF:0 group-title=:"大马",TV9  
+http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8 
+#EXTINF:0 group-title=:"大马",TV8  
+http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8 
+#EXTINF:0 group-title=:"大马",ChannelAsia  
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 
 
 
