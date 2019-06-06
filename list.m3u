@@ -74,24 +74,6 @@ http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
 
 
-#EXTINF:0 group-title=:"大马",TV1  
-http://rtm-live.glueapi.io/%20%20%20smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8 
-#EXTINF:0 group-title=:"大马",TV2  
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8 
-#EXTINF:0 group-title=:"大马",TV3 FHD  
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8 
-#EXTINF:0 group-title=:"大马",NTV7  
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8 
-#EXTINF:0 group-title=:"大马",TV8  
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8 
-#EXTINF:0 group-title=:"大马",TV9  
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8 
-#EXTINF:0 group-title=:"大马",TV8  
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8 
-#EXTINF:0 group-title=:"大马",ChannelAsia  
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-
-
 
 #EXTINF:0, group-title="English",& Flix
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
@@ -558,28 +540,4 @@ http://edge2.everyon.tv/etv2sb/phd753/chunklist_w881820644.m3u8
 #EXTINF:0 group-title="Korea",CMC Family Entertainment
 rtmp://edge1.everyon.tv:1935/etv1sb/phd1
 
-#EXTINF:0 group-title="TvSony",SONY TEN1 FHD
-http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
-#EXTINF:0 group-title="TvSony",SONY TEN2 FHD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
-#EXTINF:0 group-title="TvSony",SONY TEN3 HD
-http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:0 group-title="TvSony",SONY SIX FHD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
-#EXTINF:0 group-title="TvSony",SONY ESPN FHD
-http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
-#EXTINF:0 group-title="TvSony",SONY MAX FHD
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/05.m3u8
-#EXTINF:0 group-title="TvSony",SONY SAB FHD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/05.m3u8
-#EXTINF:0 group-title="TvSony",SONY JEET HD
-http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8
-#EXTINF:0 group-title="TvSony",SONY LE PLEX HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
-#EXTINF:0 group-title="TvSony",SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-#EXTINF:0 group-title="TvSony",SONY ROX MUSIC HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
-#EXTINF:0 group-title="TvSony",SONY TV HD
-http://cshms2.airtel.tv/wh7f454c46tw2308406466_821284247/PLTV/88888888/224/3221225772/04.m3u8
 
